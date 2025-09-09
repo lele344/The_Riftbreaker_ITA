@@ -1,0 +1,56 @@
+﻿;ITALIAN
+launcher/button/default;Predefinito  
+launcher/button/play;Gioca  
+launcher/button/save;Salva  
+launcher/label/ambient_occlusion;Occlusione ambientale  
+launcher/label/ambient_occlusion_ray;Occlusione ambientale con Ray Tracing  
+launcher/label/anti_aliasing;Anti-aliasing  
+launcher/label/cas;FidelityFX Sharpening  
+launcher/label/display_adapter;Scheda video  
+launcher/label/display_device;Monitor  
+launcher/label/dynamic_vegetation;Vegetazione dinamica  
+launcher/label/full_screen;Schermo intero  
+launcher/label/gpu_dump;[DEBUG] Dump crash GPU DirectX 12  
+launcher/label/gpu_validation;[DEBUG] Modalità diagnostica DirectX 12  
+launcher/label/lamp_context_support;Effetti RGB hardware  
+launcher/label/languages;Lingua  
+launcher/label/render_system;Sistema di rendering  
+launcher/label/residency_manager;[DEBUG] DirectX 12 Disabilita Residency  
+launcher/label/resolution;Risoluzione  
+launcher/label/shadow_quality;Qualità delle ombre  
+launcher/label/shadow_quality_ray;Qualità delle ombre con Ray Tracing  
+launcher/label/soft_shadows;Ombre morbide  
+launcher/label/soft_shadows_ray;Ombre morbide con Ray Tracing  
+launcher/label/texture_filtering;Filtro texture  
+launcher/label/texture_quality;Qualità texture  
+launcher/label/upscale;Ridimensionamento risoluzione  
+launcher/label/vrs;FidelityFX Variable Shading  
+launcher/label/vsync;Sincronizzazione verticale  
+launcher/label/fsr;FidelityFX Super Resolution  
+launcher/value/borderless;Finestra senza bordi  
+launcher/value/custom;Personalizzata  
+launcher/value/dx11;DirectX 11  
+launcher/value/dx12;DirectX 12  
+launcher/value/full;Completo  
+launcher/value/fullscreen;Schermo intero  
+launcher/value/fxaa;FXAA  
+launcher/value/hbao;HBAO  
+launcher/value/hbao_plus;HBAO+  
+launcher/value/high;Alta  
+launcher/value/languages;Inglese  
+launcher/value/low;Bassa  
+launcher/value/medium;Media  
+launcher/value/no;No  
+launcher/value/none;
+launcher/value/off;Disattivato  
+launcher/value/on;Attivato  
+launcher/value/txaa;TXAA  
+launcher/value/ultra;Ultra  
+launcher/value/wind_only;Solo vento  
+launcher/value/window;Finestra  
+launcher/value/yes;Sì  
+launcher/value/performance;Prestazioni  
+launcher/value/balanced;Bilanciato  
+launcher/value/quality;Qualità  
+launcher/value/ultra_quality;Qualità ultra  
+launcher/label/textures_quality;Qualità texture  

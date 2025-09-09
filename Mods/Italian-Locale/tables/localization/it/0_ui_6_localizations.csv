@@ -1,0 +1,27 @@
+﻿;ITALIAN
+BUTTON_request_pause_server;Richiedi pausa del server
+gui/hud/chat/ping_menu_pause_server;"<style=""chat_user"">${sender}</style> ha richiesto la pausa del server"
+gui/hud/hud_drop/dropped_items_and_resources;Hai lasciato cadere armi e risorse:
+gui/hud/hud_drop/dropped_resources;Hai lasciato cadere delle risorse:
+gui/hud/pipeline_cleared;Tubatura sgomberata!
+gui/hud/vote_canceled_in_danger;Salto nella Fenditura Annullato – Attacco in Corso
+gui/menu/difficulty/death_skull_cooldown;Teschi della Morte – tempo di permanenza del teschio  
+gui/menu/difficulty/death_skull_max_count;Teschi della Morte – numero massimo
+gui/menu/difficulty/death_skull_penalty_time;Teschi della Morte – ritardo di ricostruzione del mech  
+gui/menu/difficulty/death_skull_resource_decrease_percent;Teschi della Morte – penalità risorse
+gui/menu/difficulty/reserach_science_factor;Fattore tempo di ricerca
+gui/menu/main_menu/upsell_game_available;"<style=""small_menu_content_upsell"">The Riftbreaker</style> è disponibile per l'acquisto!"
+gui/menu/multiplayer_lobby/campaign_dlc_toggle_warning;I DLC possono essere disabilitati solo all'avvio di una nuova sessione di gioco.
+gui/menu/multiplayer_lobby/manage_mods;Gestisci mod
+gui/menu/multiplayer_server_list/content_compatibility;Compatibilità contenuti
+gui/menu/multiplayer_server_list/join_with_link;Unisciti con link
+gui/menu/multiplayer/options/join_link;Link di invito:
+gui/menu/multiplayer/options/port_forwarding_warning;Steam Datagram Relay jest niedostępny. Otwórz port ${server_port}, aby umożliwić innym połączenie z Tobą.
+gui/menu/planetary_scanner/abandon_megastructure;Non puoi abbandonare questo avamposto perché contiene una Megastruttura. Devi prima venderla manualmente, poi potrai abbandonare l’avamposto.
+gui/menu/research/description/prime_rift_station;Questa è la Stazione di Fenditura definitiva, in grado di inviare un Riftbreaker in qualsiasi punto della galassia.  
+gui/menu/research/name/prime_rift_station;Stazione Primaria di Fenditura
+gui/popup/join_with_link;"Incolla un ""Link di Invito"" ricevuto da un Host oppure inserisci direttamente l’indirizzo IP del server."  
+gui/popup/server_leaving_lobby;Uscire da questa schermata chiuderà la lobby e disconnetterà gli altri giocatori collegati. Sei sicuro?
+gui/popup/server_lobby_dlc_mismatch;"DIscrepanza DLC! Il server è in esecuzione con DLC diversi rispetto a questo utente. \n\n DLC del server: <style=""equipment_blue_22"">${server_content}</style> \nDLC dell'utente: <style=""equipment_blue_22"">${client_content}</style>"
+gui/popup/server_lobby_mods_mismatch;"Discrepanza Mod! Il server è in esecuzione con Mod diverse rispetto a questo utente. \n\n Mod del server: <style=""equipment_blue_22"">${server_content}</style> \nMod dell'utente: <style=""equipment_blue_22"">${client_content}</style>"
+resource_name/geothermal;Sfiato geotermico

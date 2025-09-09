@@ -1,0 +1,30 @@
+{
+  "type": "database_injection",
+  "description": "Aggiunge il locale ITALIAN e collega tutte le tabelle italiane",
+  "changes": [
+    {
+      "action": "add_locale",
+      "id": "ITALIAN",
+      "displayName": "Italiano",
+      "tables": [
+        { "id": "0_ui_1", "path": "mods/Italian-Locale/tables/localization/it/0_ui_1_localizations.csv" },
+        { "id": "0_ui_2", "path": "mods/Italian-Locale/tables/localization/it/0_ui_2_localizations.csv" },
+        { "id": "0_ui_3", "path": "mods/Italian-Locale/tables/localization/it/0_ui_3_localizations.csv" },
+        { "id": "0_ui_4", "path": "mods/Italian-Locale/tables/localization/it/0_ui_4_localizations.csv" },
+        { "id": "0_ui_5", "path": "mods/Italian-Locale/tables/localization/it/0_ui_5_localizations.csv" },
+        { "id": "0_ui_6", "path": "mods/Italian-Locale/tables/localization/it/0_ui_6_localizations.csv" },
+        { "id": "0_ui_unverified", "path": "mods/Italian-Locale/tables/localization/it/0_ui_unverified_localizations.csv" },
+
+        { "id": "1_story_1", "path": "mods/Italian-Locale/tables/localization/it/1_story_1_localizations.csv" },
+        { "id": "1_story_2", "path": "mods/Italian-Locale/tables/localization/it/1_story_2_localizations.csv" },
+        { "id": "1_story_3", "path": "mods/Italian-Locale/tables/localization/it/1_story_3_localizations.csv" },
+        { "id": "1_story_endgame", "path": "mods/Italian-Locale/tables/localization/it/1_story_endgame_localizations.csv" },
+
+        { "id": "launcher", "path": "mods/Italian-Locale/tables/localization/it/launcher_localizations.csv" },
+        { "id": "units",    "path": "mods/Italian-Locale/tables/localization/it/units_localizations.csv" },
+        { "id": "variables","path": "mods/Italian-Locale/tables/localization/it/variables_localizations.csv" },
+        { "id": "version",  "path": "mods/Italian-Locale/tables/localization/it/version_localizations.csv" }
+      ]
+    }
+  ]
+}

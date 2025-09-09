@@ -1,0 +1,349 @@
+﻿;ITALIAN
+ACHIEVEMENTS/achievement_43_desc;Uccidi 20 canceroth.
+ACHIEVEMENTS/achievement_43_name;Non sono poi così resistenti.
+ACHIEVEMENTS/achievement_44_desc;Distruggi 1000 nemici con HCM.
+ACHIEVEMENTS/achievement_44_name;Adesso siamo noi i cattivi?
+ACHIEVEMENTS/achievement_45_desc;Estrai risorse dalla cacca di Poogret – 10 volte
+ACHIEVEMENTS/achievement_45_name;Per la scienza!
+ACHIEVEMENTS/achievement_46_desc;Distruggi 250 oggetti di scena distruttibili con l'abilità tornado.
+ACHIEVEMENTS/achievement_46_name;Stagione dei tornado
+ACHIEVEMENTS/achievement_47_desc;Aprire 5 pozzi energetici.
+ACHIEVEMENTS/achievement_47_name;Ora sono un supereroe.
+ACHIEVEMENTS/achievement_48_desc;Completa la modalità sopravvivenza nel bioma Palude Fungina o nella campagna della storia Palude.
+ACHIEVEMENTS/achievement_48_name;Fuori dalla mia palude!
+BUTTON_confirm_wave;Aggiungi onda
+BUTTON_Drop;Gocciolare
+BUTTON_host_game;Hosta/Carica partita
+BUTTON_join_game;Unisciti al gioco
+BUTTON_multiplayer_game;Multigiocatore
+BUTTON_refresh;Aggiornare
+BUTTON_single_player_game;Giocatore singolo
+campaigns/survival/mp_survival.campaign;Sopravvivenza
+campaigns/survival/swamp_lakes.campaign;Palude Fungina
+campaigns/survival/swamp.campaign;Foresta Fungina
+gui/hud/building_description/bio_condenser;Questo edificio estrae la biomassa dal fango, lasciando dietro di sé i resti organici. In seguito vengono fermentati e trasformati in fanghi.
+gui/hud/building_description/crystal_structure;Questi edifici utilizzano cristalli sintetizzati da campioni raccolti durante la missione Galatea 37. Possono essere usati per decorare la tua base.
+gui/hud/building_description/future_city;I Riftbreaker possono usare queste strutture decorative per far sì che le loro basi sembrino più come casa. Questi edifici catturano tutte le ultime tendenze dell'architettura urbana della Terra.
+gui/hud/building_description/gas_extractor;Posizionare questa struttura sopra una fonte di gas per spegnerlo e iniziare a raccogliere il gas infiammabile che fuoriesce da sotto il terreno.
+gui/hud/building_description/scifi_structure;Queste strutture futuristiche e ad alta tecnologia possono essere utilizzate per dare alla tua base un aspetto completamente nuovo.
+gui/hud/building_description/tower_hcm;Un silo che ospita un enorme razzo lanciato verticalmente e mirato a bersagli distanti. Una volta che il razzo raggiunge la destinazione, rilascia più dispositivi esplosivi che coprono un'area molto ampia. È richiesta una fornitura di gas.
+gui/hud/building_description/tower_power_rod;La Power Rod Tower lancia testate a lungo raggio. Una volta raggiunto il bersaglio, una Power Rod emerge dalla testata. Produce archi elettrici ad alta tensione, danneggiando le unità vicine.
+gui/hud/building_description/tower_shotgun;Questa torre utilizza munizioni di grosso calibro. Spara rapidamente raffiche a corto raggio di piccoli proiettili. È molto efficace contro grandi gruppi di piccoli aggressori.
+gui/hud/building_description/tower_water_basic;I proiettili di questa torre incendiano i loro bersagli, infliggendo sia danni da contatto che danni nel tempo. È precisa e ha una lunga gittata, ma deve essere costruita su una superficie liquida.
+gui/hud/building_description/tower_water_big;Floating Piercer Tower spara proiettili a lungo raggio che trafiggono più bersagli ed esplodono all'impatto finale con un'enorme esplosione. Tutti i bersagli subiscono danni criogenici e vengono notevolmente rallentati. Deve essere costruito su una superficie liquida.
+gui/hud/building_description/wall_gate_crystal;Un innovativo cancello difensivo composto da cristalli sintetizzati provenienti dalle profondità sotterranee di Galatea 37. I cristalli sintetici si rompono in schegge frastagliate che infliggono danni significativi a tutti i nemici nelle vicinanze quando l'edificio viene distrutto.
+gui/hud/building_description/wall_gate_energy;Una forma avanzata di cancello. Invece di affidarsi a una struttura solida, questa versione utilizza raggi laser ad alta potenza per formare una barriera. Entrare in contatto con questa struttura può essere dannoso.
+gui/hud/building_description/wall_vine;Questi muri si ritirano automaticamente nel terreno quando il Mech è vicino a loro. Ciò consente all'utente di sparare sopra di essi con facilità e annulla la necessità di costruire cancelli. I muri rigenerano anche i punti ferita mancanti nel tempo, ma non si ricostruiscono da soli dalle rovine.
+gui/hud/building_name/bio_condenser;Condensatore di biomassa
+gui/hud/building_name/crystal_structure;Struttura cristallina
+gui/hud/building_name/floor_grass;Pavimento in erba
+gui/hud/building_name/floor_roots;Pavimento radicale
+gui/hud/building_name/future_city;Struttura della città futura
+gui/hud/building_name/gas_extractor;Estrattore di gas
+gui/hud/building_name/hedge;Siepe
+gui/hud/building_name/scifi_structure;Struttura fantascientifica
+gui/hud/building_name/tower_hcm;Torre HCM
+gui/hud/building_name/tower_power_rod;Torre di potenza
+gui/hud/building_name/tower_shotgun;Torre del fucile
+gui/hud/building_name/tower_water_basic;Torre Immolatrice Galleggiante
+gui/hud/building_name/tower_water_big;Torre galleggiante Piercer
+gui/hud/building_name/wall_gate_crystal;Porta di cristallo
+gui/hud/building_name/wall_gate_energy;Porta dell'energia
+gui/hud/building_name/wall_gate_vine;Porta della vite
+gui/hud/building_name/wall_vine;Muro di vite
+gui/hud/enemy_skill_description/aura_damage_acid;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/aura_damage_cryo;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/aura_damage_energy;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/aura_damage_fire;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/aura_heal;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/aura_heal_lvl_3;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/aura_resistance;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/drones;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/eggs;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/meteor_shower;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/resurrect;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/shockwave;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/swarm;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/underground_rock;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_description/waller;Placeholder ID - not visible in the game
+gui/hud/enemy_skill_name/aura_damage_acid;Aura di danno - Acido
+gui/hud/enemy_skill_name/aura_damage_cryo;Aura di danno - Crio
+gui/hud/enemy_skill_name/aura_damage_energy;Aura di danno - Energia
+gui/hud/enemy_skill_name/aura_damage_fire;Aura di danno - Fuoco
+gui/hud/enemy_skill_name/aura_heal;Aura di guarigione
+gui/hud/enemy_skill_name/aura_heal_lvl_3;Aura Curativa liv. 3
+gui/hud/enemy_skill_name/aura_resistance;Aura di resistenza
+gui/hud/enemy_skill_name/drones;Generatore di droni
+gui/hud/enemy_skill_name/eggs;Spawner di uova
+gui/hud/enemy_skill_name/meteor_shower;Generatore di meteore
+gui/hud/enemy_skill_name/resurrect;Resuscitare l'aura
+gui/hud/enemy_skill_name/shockwave;Onda d'urto
+gui/hud/enemy_skill_name/swarm;Generatore di sciami
+gui/hud/enemy_skill_name/underground_rock;Spawner di roccia
+gui/hud/enemy_skill_name/waller;Generatore di muri
+gui/hud/multiplayer_scoreboard/limits;Limite di punteggio: ${score_limit} / Limite di tempo: ${time_limit}
+gui/hud/multiplayer_scoreboard/scoreboard;Tabellone segnapunti:
+gui/hud/player_joined_server;"<style=""chat_user"">${user_name}</style> si è unito al server!"
+gui/hud/player_killed;"<style=""chat_red"">${user_name}</style> è morto!"
+gui/hud/player_killed_by_player;"<style=""chat_red"">${user_name}</style> ucciso da <style=""chat_red"">${killer}</style>!"
+gui/hud/player_left_server;"<style=""chat_red"">${user_name}</style> ha lasciato il server!"
+gui/hud/power_well_name/ammo;Munizioni infinite per i giocatori
+gui/hud/power_well_name/building;Velocità e costi di costruzione
+gui/hud/power_well_name/cooldowns;Tempi di recupero brevi degli oggetti
+gui/hud/power_well_name/damage;Danni al Quad
+gui/hud/power_well_name/drones;Sciame di droni
+gui/hud/power_well_name/firerate;Velocità di fuoco veloce
+gui/hud/power_well_name/forcefield;Super campo di forza
+gui/hud/power_well_name/health;Mega Salute
+gui/hud/power_well_name/loot;Probabilità di rilascio del bottino
+gui/hud/power_well_name/radar;Dimensioni del radar
+gui/hud/power_well_name/reflect_damage;Rifletti i danni
+gui/hud/power_well_name/resist_acid;Resistere all'acido
+gui/hud/power_well_name/resist_all;Resisti a tutto
+gui/hud/power_well_name/resist_area;Area di resistenza
+gui/hud/power_well_name/resist_cryo;Resisti alla crio
+gui/hud/power_well_name/resist_energy;Resistere all'energia
+gui/hud/power_well_name/resist_fire;Resistere al fuoco
+gui/hud/power_well_name/resist_physical;Resisti al fisico
+gui/hud/power_well_name/speed;Velocità di movimento
+gui/hud/you_were_killed_by;Sei stato ucciso da ${killer}!
+gui/menu/appearance/skins/poo_collector;${gui/menu/appearance/skins/unique_skin}
+gui/menu/appearance/skins/toadstool;${gui/menu/appearance/skins/unique_skin}
+gui/menu/appearance/skins/vines;${gui/menu/appearance/skins/unique_skin}
+gui/menu/appearance/skins/wooden;${gui/menu/appearance/skins/unique_skin}
+gui/menu/downloadable_package/dlc_3;DLC Cuore della Palude
+gui/menu/equipment/description;Descrizione
+gui/menu/inventory/compare;Confronta
+gui/menu/inventory/consumable_description/drone_swarm;Ti consente di richiamare un assortimento di vari tipi di droni. Seguiranno e assisteranno il mech per un periodo di tempo limitato. I droni evocati non contano nel limite dei droni.
+gui/menu/inventory/consumable_description/gas_grenade;La granata rilascia una nuvola di gas acido in un'area relativamente ampia, infliggendo danni a tutte le creature nelle vicinanze.
+gui/menu/inventory/consumable_description/heal_dm;Recupera istantaneamente una parte dei punti ferita del Mech.
+gui/menu/inventory/consumable_description/mortar_sentry;Torre di guardia automatizzata che spara proiettili di mortaio a grande distanza. La torre funziona solo per un breve periodo, ma non richiede munizioni o energia aggiuntive.
+gui/menu/inventory/consumable_description/shield_boost_small_dm;Aggiunge più punti ferita allo scudo energetico del Mech.
+gui/menu/inventory/consumable_name/drone_swarm;Sciame di droni
+gui/menu/inventory/consumable_name/gas_grenade;Granata a gas
+gui/menu/inventory/consumable_name/heal_dm;Kit di riparazione Deathmatch
+gui/menu/inventory/consumable_name/mortar_sentry;Mortaio Sentry
+gui/menu/inventory/consumable_name/shield_boost_small_dm;Potenziamento scudo Deathmatch
+gui/menu/inventory/hide_compare;Nascondi confronto
+gui/menu/inventory/interactive_name/poogret_food;Frutto di Garlimonio
+gui/menu/inventory/interactive_name/sample;Campione
+gui/menu/inventory/skill_name/tornado;Tornado
+gui/menu/inventory/weapon_name/charged_bomb;Bomba carica
+gui/menu/inventory/weapon_name/flame_blade;Lama di fiamma
+gui/menu/inventory/weapon_name/insect_gun;Lanciatore di vespe
+gui/menu/inventory/weapon_name/mortar;Mortaio
+gui/menu/inventory/weapon_name/root_gun;Pistola per radici
+gui/menu/inventory/weapon_name/semi_auto;Fucile a ripetizione
+gui/menu/inventory/weapon_name/trident;Tridente
+gui/menu/main_menu/halloween;Halloween
+gui/menu/main_menu/whats_new;Cosa c'è di nuovo?
+gui/menu/multiplayer/button/server_list;Elenco dei server
+gui/menu/multiplayer/game;Gioco
+gui/menu/multiplayer/info/no_selected_server;Nessun server è stato selezionato
+gui/menu/multiplayer/next_map;Mappa successiva
+gui/menu/multiplayer/options/dedicated_server;Server dedicato
+gui/menu/multiplayer/options/frag_limit;Limite di frammentazione
+gui/menu/multiplayer/options/game_mode;Modalità di gioco
+gui/menu/multiplayer/options/game_name;Nome del gioco
+gui/menu/multiplayer/options/max_bot_count;Numero massimo di bot
+gui/menu/multiplayer/options/max_player_count;Numero massimo di giocatori
+gui/menu/multiplayer/options/public_game;Gioco pubblico
+gui/menu/multiplayer/options/public_server;Server pubblico
+gui/menu/multiplayer/ping;Segnale acustico
+gui/menu/multiplayer/players;Giocatori
+gui/menu/multiplayer/query/server_fetch_error;Si è verificato un errore durante il recupero dell'elenco dei server
+gui/menu/multiplayer/query/server_fetch_pending;Recupero dell'elenco dei server...
+gui/menu/multiplayer/query/server_list_empty;Non ci sono server in esecuzione che corrispondono alla query
+gui/menu/multiplayer/warmup;Riscaldamento
+gui/menu/net/connection_banned;Sei stato bannato dal server!
+gui/menu/net/connection_kicked;Sei stato espulso dal server!
+gui/menu/net/connection_lost;Connessione al server persa!
+gui/menu/net/server_full;Impossibile connettersi. Il server è pieno!
+gui/menu/research/description/bio_condenser_lvl1;Il condensatore di biomassa utilizza tecniche avanzate di bioingegneria per convertire il fango ordinario in fanghi altamente potenti. Questi fanghi possono quindi essere raffinati in gas infiammabile, fornendo una preziosa risorsa energetica. L'integrazione di sistemi di nanofiltrazione garantisce la purezza e previene la contaminazione, rendendo il condensatore di biomassa una risorsa essenziale per la produzione di energia sostenibile in ambienti difficili.
+gui/menu/research/description/bio_condenser_lvl2;Il condensatore di biomassa migliorato migliora significativamente l'efficienza e la produzione del progetto originale. Questa versione migliorata non solo converte il fango in fanghi più velocemente, ma aumenta anche la resa di gas infiammabile. Presenta ceppi microbici migliorati e processi catalitici migliorati, garantendo una produzione di energia superiore per operazioni sostenute.
+gui/menu/research/description/bio_condenser_lvl3;Il condensatore di biomassa migliorato migliora significativamente l'efficienza e la produzione del progetto originale. Questa versione migliorata non solo converte il fango in fanghi più velocemente, ma aumenta anche la resa di gas infiammabile. Presenta ceppi microbici migliorati e processi catalitici migliorati, garantendo una produzione di energia superiore per operazioni sostenute.
+gui/menu/research/description/consumable_drone_swarm_advanced;Questa versione aggiornata non solo aumenta l'efficienza operativa dei droni, ma ne espande anche la versatilità funzionale. Con sistemi di combattimento migliorati, una raccolta di risorse più rapida e protocolli di riparazione superiori, il Drone Swarm assicura un'assistenza completa anche negli scenari più difficili.
+gui/menu/research/description/consumable_drone_swarm_extreme;Questa versione aggiornata non solo aumenta l'efficienza operativa dei droni, ma ne espande anche la versatilità funzionale. Con sistemi di combattimento migliorati, una raccolta di risorse più rapida e protocolli di riparazione superiori, il Drone Swarm assicura un'assistenza completa anche negli scenari più difficili.
+gui/menu/research/description/consumable_drone_swarm_standard;Questo oggetto consumabile distribuisce quattro droni autonomi che forniscono varie funzioni di supporto per una durata limitata. Che si tratti di attaccare i nemici, raccogliere risorse o riparare strutture critiche, questi droni versatili si adattano alle esigenze immediate del campo di battaglia. Una volta attivato, il Drone Swarm opera in modo indipendente, consentendo al giocatore di concentrarsi sugli obiettivi strategici beneficiando al contempo di un supporto operativo migliorato.
+gui/menu/research/description/consumable_drone_swarm_superior;Questa versione aggiornata non solo aumenta l'efficienza operativa dei droni, ma ne espande anche la versatilità funzionale. Con sistemi di combattimento migliorati, una raccolta di risorse più rapida e protocolli di riparazione superiori, il Drone Swarm assicura un'assistenza completa anche negli scenari più difficili.
+gui/menu/research/description/consumable_gas_grenades_advanced;Una versione migliorata dell'originale Gas Grenade, che offre capacità di incapacità migliorate e un'area di effetto più ampia. Questo consumabile avanzato distribuisce una miscela di gas più potente che interrompe i sensi e le funzioni corporee del nemico con maggiore efficienza. Ideale per gli scontri ad alto rischio, assicura un controllo della folla superiore e il dominio sul campo di battaglia neutralizzando gli avversari in modo più efficace e per una durata maggiore.
+gui/menu/research/description/consumable_gas_grenades_extreme;Una versione migliorata dell'originale Gas Grenade, che offre capacità di incapacità migliorate e un'area di effetto più ampia. Questo consumabile avanzato distribuisce una miscela di gas più potente che interrompe i sensi e le funzioni corporee del nemico con maggiore efficienza. Ideale per gli scontri ad alto rischio, assicura un controllo della folla superiore e il dominio sul campo di battaglia neutralizzando gli avversari in modo più efficace e per una durata maggiore.
+gui/menu/research/description/consumable_gas_grenades_standard;La granata a gas è un consumabile tattico progettato per inabilitare i nemici tramite l'impiego di una nube di gas debilitante. Una volta lanciata, rilascia una scarica concentrata di sostanze chimiche nocive che compromettono la vista, interrompono le funzioni respiratorie e causano grave disorientamento. Questa versatile arma è ideale per il controllo della folla e può cambiare le sorti della battaglia neutralizzando più nemici contemporaneamente.
+gui/menu/research/description/consumable_gas_grenades_superior;Una versione migliorata dell'originale Gas Grenade, che offre capacità di incapacità migliorate e un'area di effetto più ampia. Questo consumabile avanzato distribuisce una miscela di gas più potente che interrompe i sensi e le funzioni corporee del nemico con maggiore efficienza. Ideale per gli scontri ad alto rischio, assicura un controllo della folla superiore e il dominio sul campo di battaglia neutralizzando gli avversari in modo più efficace e per una durata maggiore.
+gui/menu/research/description/consumable_mortar_sentry_advanced;Questa torretta dispiegabile avanzata è dotata di una migliore precisione di puntamento, una maggiore velocità di fuoco e proiettili esplosivi potenziati, assicurando il massimo impatto sul campo di battaglia. Rimane autosufficiente, non richiede munizioni o fonti di energia esterne e fornisce un eccezionale supporto di fuoco indiretto per un periodo prolungato.
+gui/menu/research/description/consumable_mortar_sentry_extreme;Questa torretta dispiegabile avanzata è dotata di una migliore precisione di puntamento, una maggiore velocità di fuoco e proiettili esplosivi potenziati, assicurando il massimo impatto sul campo di battaglia. Rimane autosufficiente, non richiede munizioni o fonti di energia esterne e fornisce un eccezionale supporto di fuoco indiretto per un periodo prolungato.
+gui/menu/research/description/consumable_mortar_sentry_standard;Il Mortar Sentry è una torretta dispiegabile che fornisce un formidabile supporto di fuoco indiretto per un periodo di tempo limitato. Una volta attivato, prende di mira e bombarda autonomamente le posizioni nemiche con colpi di mortaio ad alto potenziale esplosivo. Progettato per un rapido dispiegamento e facilità d'uso, il Mortar Sentry non richiede munizioni o fonti di energia aggiuntive, il che lo rende uno strumento altamente efficace per cambiare le sorti di intensi scenari di combattimento.
+gui/menu/research/description/consumable_mortar_sentry_superior;Questa torretta dispiegabile avanzata è dotata di una migliore precisione di puntamento, una maggiore velocità di fuoco e proiettili esplosivi potenziati, assicurando il massimo impatto sul campo di battaglia. Rimane autosufficiente, non richiede munizioni o fonti di energia esterne e fornisce un eccezionale supporto di fuoco indiretto per un periodo prolungato.
+gui/menu/research/description/gas_extractor_lvl1;Il Gas Extractor è una struttura specializzata progettata per sfruttare il gas infiammabile dalle prese d'aria del gas naturale sparse sul terreno. Attraverso processi avanzati di filtrazione ed estrazione, converte il gas grezzo in una fonte di energia utilizzabile, adatta ad alimentare varie operazioni e attrezzature di base. Questa struttura essenziale garantisce una produzione di energia sostenibile e l'utilizzo delle risorse in ambienti remoti e inospitali.
+gui/menu/research/description/gas_extractor_lvl2;I suoi sistemi di stoccaggio e contenimento sfruttano avanzati campi energetici quantistici e materiali superconduttori per mantenere la stabilità del gas e prevenire perdite, anche in condizioni estreme di pressione e temperatura.
+gui/menu/research/description/gas_extractor_lvl3;I suoi sistemi di stoccaggio e contenimento sfruttano avanzati campi energetici quantistici e materiali superconduttori per mantenere la stabilità del gas e prevenire perdite, anche in condizioni estreme di pressione e temperatura.
+gui/menu/research/description/mech_weapons_charged_bomb_advanced;Un'iterazione migliorata del suo predecessore, che vanta un potere distruttivo aumentato e capacità di puntamento migliorate. Questa arma avanzata subisce un processo di carica più efficiente e presenta una tecnologia di teletrasporto migliorata per un dispiegamento più rapido e colpi più precisi.
+gui/menu/research/description/mech_weapons_charged_bomb_extreme;Un'iterazione migliorata del suo predecessore, che vanta un potere distruttivo aumentato e capacità di puntamento migliorate. Questa arma avanzata subisce un processo di carica più efficiente e presenta una tecnologia di teletrasporto migliorata per un dispiegamento più rapido e colpi più precisi.
+gui/menu/research/description/mech_weapons_charged_bomb_standard;La bomba caricata è un'arma devastante che richiede lungimiranza strategica e tempismo preciso per scatenare il suo potenziale distruttivo. Prima di essere dispiegata, deve essere caricata, incanalando l'energia in un dispositivo di teletrasporto compatto. Una volta innescata, la bomba viene teletrasportata nell'area bersaglio designata, dove esplode con una forza tremenda dopo un breve conto alla rovescia.
+gui/menu/research/description/mech_weapons_charged_bomb_superior;Un'iterazione migliorata del suo predecessore, che vanta un potere distruttivo aumentato e capacità di puntamento migliorate. Questa arma avanzata subisce un processo di carica più efficiente e presenta una tecnologia di teletrasporto migliorata per un dispiegamento più rapido e colpi più precisi.
+gui/menu/research/description/mech_weapons_flame_blade_advanced;Un'iterazione migliorata della classica Flame Blade, con capacità pirotecniche migliorate e funzionalità di combattimento potenziate. Realizzata con nanocompositi avanzati e leghe termoconduttive, questa lama scatena ondate di fiamme intense a ogni colpo, avvolgendo i nemici in una devastazione infuocata.
+gui/menu/research/description/mech_weapons_flame_blade_extreme;Un'iterazione migliorata della classica Flame Blade, con capacità pirotecniche migliorate e funzionalità di combattimento potenziate. Realizzata con nanocompositi avanzati e leghe termoconduttive, questa lama scatena ondate di fiamme intense a ogni colpo, avvolgendo i nemici in una devastazione infuocata.
+gui/menu/research/description/mech_weapons_flame_blade_standard;La Flame Blade è un'arma da mischia formidabile che unisce la tradizionale abilità artigianale delle lame con l'avanzata tecnologia pirotecnica. Oltre al suo filo affilato come un rasoio per il combattimento ravvicinato, la Flame Blade emette un'ondata di fiamme intense in un arco a corto raggio quando colpisce, avvolgendo i nemici vicini in un calore bruciante.
+gui/menu/research/description/mech_weapons_flame_blade_superior;Un'iterazione migliorata della classica Flame Blade, con capacità pirotecniche migliorate e funzionalità di combattimento potenziate. Realizzata con nanocompositi avanzati e leghe termoconduttive, questa lama scatena ondate di fiamme intense a ogni colpo, avvolgendo i nemici in una devastazione infuocata.
+gui/menu/research/description/mech_weapons_insect_gun_advanced;La versione aggiornata rappresenta un significativo progresso nell'armamento insettoide, migliorando sia la potenza di fuoco che le capacità di puntamento. Questa versione aggiornata mantiene il rapido dispiegamento di insetti esplosivi, introducendo al contempo algoritmi di tracciamento migliorati per una precisione ancora maggiore.
+gui/menu/research/description/mech_weapons_insect_gun_extreme;La versione aggiornata rappresenta un significativo progresso nell'armamento insettoide, migliorando sia la potenza di fuoco che le capacità di puntamento. Questa versione aggiornata mantiene il rapido dispiegamento di insetti esplosivi, introducendo al contempo algoritmi di tracciamento migliorati per una precisione ancora maggiore.
+gui/menu/research/description/mech_weapons_insect_gun_standard;Il Wasp Launcher è un'arma che rilascia piccoli insetti esplosivi a velocità elevata. Questi insetti seguono automaticamente e si dirigono verso i bersagli con precisione, assicurando il massimo danno alla detonazione. L'esplosione concussiva devasta i nemici senza la necessità di puntare manualmente.
+gui/menu/research/description/mech_weapons_insect_gun_superior;La versione aggiornata rappresenta un significativo progresso nell'armamento insettoide, migliorando sia la potenza di fuoco che le capacità di puntamento. Questa versione aggiornata mantiene il rapido dispiegamento di insetti esplosivi, introducendo al contempo algoritmi di tracciamento migliorati per una precisione ancora maggiore.
+gui/menu/research/description/mech_weapons_mortar_advanced;Questo mortaio potenziato spara crioproiettili che esplodono all'impatto, avvolgendo l'area bersaglio in un gelido gelo. Le sue crioesplosioni non solo infliggono danni, ma infliggono anche un effetto rallentante più potente sui nemici.
+gui/menu/research/description/mech_weapons_mortar_extreme;Questo mortaio potenziato spara crioproiettili che esplodono all'impatto, avvolgendo l'area bersaglio in un gelido gelo. Le sue crioesplosioni non solo infliggono danni, ma infliggono anche un effetto rallentante più potente sui nemici.
+gui/menu/research/description/mech_weapons_mortar_standard;Lancia raffiche di proiettili criogenici che detonano all'impatto, avvolgendo l'area bersaglio in temperature gelide. La crioesplosione risultante non solo infligge danni, ma rallenta anche i nemici catturati nel raggio della sua esplosione ghiacciata, rendendoli più vulnerabili agli attacchi successivi.
+gui/menu/research/description/mech_weapons_mortar_superior;Questo mortaio potenziato spara crioproiettili che esplodono all'impatto, avvolgendo l'area bersaglio in un gelido gelo. Le sue crioesplosioni non solo infliggono danni, ma infliggono anche un effetto rallentante più potente sui nemici.
+gui/menu/research/description/mech_weapons_root_gun_advanced;La Root Gun potenziata è costruita con leghe più leggere e resistenti, assicurando facilità di utilizzo, alta efficienza e danni più elevati. È un'arma precisa e mortale, e una meraviglia della biomeccanica.
+gui/menu/research/description/mech_weapons_root_gun_extreme;La Root Gun potenziata è costruita con leghe più leggere e resistenti, assicurando facilità di utilizzo, alta efficienza e danni più elevati. È un'arma precisa e mortale, e una meraviglia della biomeccanica.
+gui/menu/research/description/mech_weapons_root_gun_standard;La Root Gun è un'arma unica che, una volta attivata, evoca delle radici dal sottosuolo che si muovono verso il bersaglio, infliggendo danni continui mentre scavano nel terreno.
+gui/menu/research/description/mech_weapons_root_gun_superior;La Root Gun potenziata è costruita con leghe più leggere e resistenti, assicurando facilità di utilizzo, alta efficienza e danni più elevati. È un'arma precisa e mortale, e una meraviglia della biomeccanica.
+gui/menu/research/description/mech_weapons_semi_auto_advanced;Racchiuso in un telaio composito di ultima generazione, il fucile a ripetizione migliorato è più leggero e robusto, garantendo facilità d'uso e resistenza in condizioni estreme.
+gui/menu/research/description/mech_weapons_semi_auto_extreme;Racchiuso in un telaio composito di ultima generazione, il fucile a ripetizione migliorato è più leggero e robusto, garantendo facilità d'uso e resistenza in condizioni estreme.
+gui/menu/research/description/mech_weapons_semi_auto_standard;Il Repeater Rifle è un'arma da fuoco semiautomatica progettata per la precisione del fuoco rapido. Consente all'utente di sparare il più velocemente possibile premendo il grilletto, rendendolo ideale per situazioni che richiedono sia precisione che elevate cadenze di fuoco.
+gui/menu/research/description/mech_weapons_semi_auto_superior;Racchiuso in un telaio composito di ultima generazione, il fucile a ripetizione migliorato è più leggero e robusto, garantendo facilità d'uso e resistenza in condizioni estreme.
+gui/menu/research/description/mech_weapons_trident_advanced;Un potenziamento avanzato del Trident originale, progettato per offrire ancora più versatilità e potenza nel combattimento corpo a corpo. Si estende ulteriormente durante gli attacchi e infligge danni maggiori grazie all'uso di materiali più raffinati.
+gui/menu/research/description/mech_weapons_trident_extreme;Un potenziamento avanzato del Trident originale, progettato per offrire ancora più versatilità e potenza nel combattimento corpo a corpo. Si estende ulteriormente durante gli attacchi e infligge danni maggiori grazie all'uso di materiali più raffinati.
+gui/menu/research/description/mech_weapons_trident_standard;Il Trident è un'arma da mischia versatile progettata per estendersi durante gli attacchi, colpendo più nemici contemporaneamente. Quando viene brandito, si estende e infligge danni in tre direzioni, rendendolo perfetto per il controllo della folla e il combattimento ravvicinato.
+gui/menu/research/description/mech_weapons_trident_superior;Un potenziamento avanzato del Trident originale, progettato per offrire ancora più versatilità e potenza nel combattimento corpo a corpo. Si estende ulteriormente durante gli attacchi e infligge danni maggiori grazie all'uso di materiali più raffinati.
+gui/menu/research/description/skill_tornado_advanced;È dotato di un acceleratore di particelle atmosferiche potenziato che genera un vortice più grande e più stabile. Ciò si traduce in un tornado che si forma più velocemente con maggiore velocità di rotazione ed energia cinetica.
+gui/menu/research/description/skill_tornado_extreme;È dotato di un acceleratore di particelle atmosferiche potenziato che genera un vortice più grande e più stabile. Ciò si traduce in un tornado che si forma più velocemente con maggiore velocità di rotazione ed energia cinetica.
+gui/menu/research/description/skill_tornado_standard;Una volta attivato, il dispositivo sfrutta le particelle atmosferiche e l'energia cinetica per generare un vortice localizzato ad alta velocità. Questo vortice si espande rapidamente in un tornado su vasta scala, che poi si muove in avanti in una direzione predeterminata.
+gui/menu/research/description/skill_tornado_superior;È dotato di un acceleratore di particelle atmosferiche potenziato che genera un vortice più grande e più stabile. Ciò si traduce in un tornado che si forma più velocemente con maggiore velocità di rotazione ed energia cinetica.
+gui/menu/research/description/tower_hcm_lvl1;Il razzo della HCM Tower è equipaggiato con un carico utile di pesanti munizioni a grappolo, ciascuna progettata per coprire un'ampia area al momento della detonazione. Queste munizioni sono in grado di infliggere danni significativi alla maggior parte dei bersagli, anche a una distanza molto grande. La HCM Tower richiede una fornitura di gas infiammabile per funzionare.
+gui/menu/research/description/tower_hcm_lvl2;Algoritmi di puntamento e suite di sensori migliorati migliorano la precisione e la reattività dell'HCM, consentendogli di acquisire e ingaggiare obiettivi con maggiore efficienza. Ciò garantisce che il razzo raggiunga la destinazione designata con precisione millimetrica, massimizzando l'efficacia del suo carico utile.
+gui/menu/research/description/tower_hcm_lvl3;Algoritmi di puntamento e suite di sensori migliorati migliorano la precisione e la reattività dell'HCM, consentendogli di acquisire e ingaggiare obiettivi con maggiore efficienza. Ciò garantisce che il razzo raggiunga la destinazione designata con precisione millimetrica, massimizzando l'efficacia del suo carico utile.
+gui/menu/research/description/tower_power_rod_lvl1;La Power Rod Tower è un'enorme installazione progettata per lanciare testate a lungo raggio verso obiettivi nemici. All'impatto, la testata spinge un'enorme Power Rod nel terreno, generando archi elettrici ad alta tensione in grado di danneggiare le unità vicine.
+gui/menu/research/description/tower_power_rod_lvl2;Le Power Rods schierate dalla versione potenziata generano archi elettrici ad alto voltaggio ancora più potenti, infliggendo danni devastanti alle unità vicine catturate nel campo elettrico. L'intensità aumentata degli archi elettrici assicura una maggiore letalità ed efficacia contro le forze nemiche.
+gui/menu/research/description/tower_power_rod_lvl3;Le Power Rods schierate dalla versione potenziata generano archi elettrici ad alto voltaggio ancora più potenti, infliggendo danni devastanti alle unità vicine catturate nel campo elettrico. L'intensità aumentata degli archi elettrici assicura una maggiore letalità ed efficacia contro le forze nemiche.
+gui/menu/research/description/tower_shotgun_lvl1;La torre è dotata di un meccanismo avanzato di fuoco rapido, in grado di sparare raffiche di proiettili ad alta velocità. Ciò consente alla torre di mantenere un fuoco di sbarramento continuo, neutralizzando efficacemente grandi gruppi di piccoli aggressori.
+gui/menu/research/description/tower_shotgun_lvl2;La Shotgun Tower potenziata offre una soluzione robusta e altamente efficace per difendersi da grandi gruppi di piccoli aggressori. La sua potenza di fuoco migliorata, la precisione nel puntamento e la maggiore durata la rendono una risorsa fondamentale per mantenere la difesa ravvicinata e proteggere le posizioni strategiche sul campo di battaglia.
+gui/menu/research/description/tower_shotgun_lvl3;La Shotgun Tower potenziata offre una soluzione robusta e altamente efficace per difendersi da grandi gruppi di piccoli aggressori. La sua potenza di fuoco migliorata, la precisione nel puntamento e la maggiore durata la rendono una risorsa fondamentale per mantenere la difesa ravvicinata e proteggere le posizioni strategiche sul campo di battaglia.
+gui/menu/research/description/tower_water_basic_lvl1;Spara rapidamente porzioni di sostanza simile al napalm che si attaccano ai bersagli e li incendiano. La costruzione unica della Floating Immolator Tower richiede che venga costruita su una superficie liquida. Questo inconveniente è mitigato dall'indipendenza energetica della torre grazie ai generatori idroelettrici integrati.
+gui/menu/research/description/tower_water_basic_lvl2;Un upgrade avanzato dell'originale Floating Immolator Tower. Offre una precisione migliorata, danni inflitti aumentati e una stabilità migliorata sulle superfici liquide.
+gui/menu/research/description/tower_water_basic_lvl3;Un upgrade avanzato dell'originale Floating Immolator Tower. Offre una precisione migliorata, danni inflitti aumentati e una stabilità migliorata sulle superfici liquide.
+gui/menu/research/description/tower_water_big_lvl1;La Floating Piercer Tower è un'installazione difensiva che lancia proiettili a lungo raggio progettati per perforare più bersagli ed esplodere all'impatto finale, causando un'enorme esplosione. Ogni proiettile infligge danni criogenici, rallentando significativamente tutti i bersagli. Questa torre eccelle nello sconvolgere le formazioni nemiche e rallentare le avanzate, ma deve essere costruita su una superficie liquida.
+gui/menu/research/description/tower_water_big_lvl2;Questo aggiornamento integra tecnologie criogeniche e balistiche di ultima generazione, offrendo prestazioni e affidabilità senza pari in ambienti acquatici. Con sistemi avanzati di puntamento e stabilizzazione, assicura una precisione e un'efficacia superiori in combattimento.
+gui/menu/research/description/tower_water_big_lvl3;Questo aggiornamento integra tecnologie criogeniche e balistiche di ultima generazione, offrendo prestazioni e affidabilità senza pari in ambienti acquatici. Con sistemi avanzati di puntamento e stabilizzazione, assicura una precisione e un'efficacia superiori in combattimento.
+gui/menu/research/description/wall_vine_lvl1;I Vine Walls sfruttano l'ingegneria biomimetica avanzata e le tecnologie vegetali rigenerative per offrire fortificazioni dinamiche e resilienti. Queste strutture viventi si integrano perfettamente nelle strategie di difesa, offrendo sia protezione che flessibilità tattica.
+gui/menu/research/description/wall_vine_lvl2;La composizione strutturale di questo muro è stata potenziata con fibre sintetiche rinforzate e biomateriali avanzati, che forniscono maggiore durevolezza e resistenza agli attacchi pesanti. Ciò rende i muri più robusti e durevoli sotto il fuoco nemico sostenuto.
+gui/menu/research/description/wall_vine_lvl3;La composizione strutturale di questo muro è stata potenziata con fibre sintetiche rinforzate e biomateriali avanzati, che forniscono maggiore durevolezza e resistenza agli attacchi pesanti. Ciò rende i muri più robusti e durevoli sotto il fuoco nemico sostenuto.
+gui/menu/research/name/bio_condenser_lvl1;Condensatore di Biomassa – liv. 1
+gui/menu/research/name/bio_condenser_lvl2;Condensatore di Biomassa – liv. 2
+gui/menu/research/name/bio_condenser_lvl3;Condensatore di Biomassa – liv. 3
+gui/menu/research/name/consumable_drone_swarm_advanced;Sciame di droni – Avanzato
+gui/menu/research/name/consumable_drone_swarm_extreme;Sciame di droni – Estremo
+gui/menu/research/name/consumable_drone_swarm_standard;Sciame di droni – Standard
+gui/menu/research/name/consumable_drone_swarm_superior;Sciame di droni – Superiore
+gui/menu/research/name/consumable_gas_grenades_advanced;Granate a gas – Avanzate
+gui/menu/research/name/consumable_gas_grenades_extreme;Granate a gas – Estreme
+gui/menu/research/name/consumable_gas_grenades_standard;Granate a gas – Standard
+gui/menu/research/name/consumable_gas_grenades_superior;Granate a gas – Superiori
+gui/menu/research/name/consumable_mortar_sentry_advanced;Mortaio Sentry – Avanzato
+gui/menu/research/name/consumable_mortar_sentry_extreme;Mortaio Sentry – Estremo
+gui/menu/research/name/consumable_mortar_sentry_standard;Mortaio Sentry – Standard
+gui/menu/research/name/consumable_mortar_sentry_superior;Mortaio Sentry – Superiore
+gui/menu/research/name/gas_extractor_lvl1;Estrattore di Gas - liv. 1
+gui/menu/research/name/gas_extractor_lvl2;Estrattore di Gas - liv. 2
+gui/menu/research/name/gas_extractor_lvl3;Estrattore di Gas - liv. 3
+gui/menu/research/name/mech_weapons_charged_bomb_advanced;Bomba carica – Avanzata
+gui/menu/research/name/mech_weapons_charged_bomb_extreme;Bomba carica – Estremo
+gui/menu/research/name/mech_weapons_charged_bomb_standard;Bomba carica – Standard
+gui/menu/research/name/mech_weapons_charged_bomb_superior;Bomba carica – Superiore
+gui/menu/research/name/mech_weapons_flame_blade_advanced;Lama di fuoco – Avanzata
+gui/menu/research/name/mech_weapons_flame_blade_extreme;Lama di fiamma – Estremo
+gui/menu/research/name/mech_weapons_flame_blade_standard;Lama di fiamma – Standard
+gui/menu/research/name/mech_weapons_flame_blade_superior;Lama di fiamma – Superiore
+gui/menu/research/name/mech_weapons_insect_gun_advanced;Lanciatore di vespe – Avanzato
+gui/menu/research/name/mech_weapons_insect_gun_extreme;Lanciatore di vespe – Estremo
+gui/menu/research/name/mech_weapons_insect_gun_standard;Lanciatore di vespe – Standard
+gui/menu/research/name/mech_weapons_insect_gun_superior;Lanciatore di vespe – Superiore
+gui/menu/research/name/mech_weapons_mortar_advanced;Mortaio – Avanzato
+gui/menu/research/name/mech_weapons_mortar_extreme;Malta – Estremo
+gui/menu/research/name/mech_weapons_mortar_standard;Malta – Standard
+gui/menu/research/name/mech_weapons_mortar_superior;Mortaio – Superiore
+gui/menu/research/name/mech_weapons_root_gun_advanced;Root Gun – Avanzato
+gui/menu/research/name/mech_weapons_root_gun_extreme;Pistola per radici – Estremo
+gui/menu/research/name/mech_weapons_root_gun_standard;Pistola per radici – Standard
+gui/menu/research/name/mech_weapons_root_gun_superior;Root Gun – Superiore
+gui/menu/research/name/mech_weapons_semi_auto_advanced;Fucile a ripetizione – Avanzato
+gui/menu/research/name/mech_weapons_semi_auto_extreme;Fucile a ripetizione – Estremo
+gui/menu/research/name/mech_weapons_semi_auto_standard;Fucile a ripetizione – Standard
+gui/menu/research/name/mech_weapons_semi_auto_superior;Fucile a ripetizione – Superiore
+gui/menu/research/name/mech_weapons_trident_advanced;Trident – ​​Avanzato
+gui/menu/research/name/mech_weapons_trident_extreme;Tridente – Estremo
+gui/menu/research/name/mech_weapons_trident_standard;Tridente – Standard
+gui/menu/research/name/mech_weapons_trident_superior;Tridente – Superiore
+gui/menu/research/name/skill_tornado_advanced;Tornado – Avanzato
+gui/menu/research/name/skill_tornado_extreme;Tornado – Estremo
+gui/menu/research/name/skill_tornado_standard;Tornado – Standard
+gui/menu/research/name/skill_tornado_superior;Tornado – Superiore
+gui/menu/research/name/tower_hcm_lvl1;Torre HCM – liv. 1
+gui/menu/research/name/tower_hcm_lvl2;Torre HCM – liv. 2
+gui/menu/research/name/tower_hcm_lvl3;Torre HCM – liv. 3
+gui/menu/research/name/tower_power_rod_lvl1;Torre Asta Energetica – liv. 1
+gui/menu/research/name/tower_power_rod_lvl2;Torre Asta Energetica – liv. 2
+gui/menu/research/name/tower_power_rod_lvl3;Torre Asta Energetica – liv. 3
+gui/menu/research/name/tower_shotgun_lvl1;Torre a Doppietta – liv. 1
+gui/menu/research/name/tower_shotgun_lvl2;Torre a Doppietta – liv. 2
+gui/menu/research/name/tower_shotgun_lvl3;Torre a Doppietta – liv. 3
+gui/menu/research/name/tower_water_basic_lvl1;Torrette Fluttuanti Inceneritrici - liv. 1
+gui/menu/research/name/tower_water_basic_lvl2;Torrette Fluttuanti Inceneritrici - liv. 2
+gui/menu/research/name/tower_water_basic_lvl3;Torrette Fluttuanti Inceneritrici - liv. 3
+gui/menu/research/name/tower_water_big_lvl1;Torrette Fluttuanti Perforanti - liv. 1
+gui/menu/research/name/tower_water_big_lvl2;Torrette Fluttuanti Perforanti - liv. 2
+gui/menu/research/name/tower_water_big_lvl3;Torrette Fluttuanti Perforanti - liv. 3
+gui/menu/research/name/wall_vine_lvl1;Muri di Vite – liv. 1
+gui/menu/research/name/wall_vine_lvl2;Muri di Vite – liv. 2
+gui/menu/research/name/wall_vine_lvl3;Muri di Vite – liv. 3
+gui/menu/sandbox_control_panel/unit_volume;Raggio
+gui/menu/sandbox_control_panel/wave_ground;Punto
+gui/menu/sandbox_control_panel/wave_ground_east;Punto: Est
+gui/menu/sandbox_control_panel/wave_ground_north;Punto: Nord
+gui/menu/sandbox_control_panel/wave_ground_south;Punto: Sud
+gui/menu/sandbox_control_panel/wave_ground_west;Punto: Ovest
+gui/menu/sandbox_control_panel/wave_spline;Scanalatura
+gui/menu/settings/change_slot_on_empty_ammo;Cambio automatico delle armi
+gui/menu/settings/mouse_cursor_software_mode;Modalità software cursore
+gui/menu/settings/mouse_cursor_software_mode_description;Questa opzione ti consente di scegliere tra il cursore software del nostro motore o il cursore hardware integrato nel tuo sistema operativo. Se noti un ritardo quando muovi il cursore sullo schermo, disattiva questa opzione.
+gui/menu/settings/water_simulation;Simulazione dell'acqua
+gui/menu/settings/water_simulation_description;Questa opzione consente la simulazione del comportamento dei liquidi durante le interazioni con altri corpi. Vedrai onde, increspature, schiuma e dispersione della luce sotto la superficie. Questa opzione influisce sugli FPS complessivi, quindi potresti prendere in considerazione di disabilitarla se riscontri cali di prestazioni della GPU.
+gui/popup/are_you_sure;Sei sicuro?
+monster_description/artigian;Artigian, una specie di colossali piante carnivore, si distingue per l'imponente sacco che pende sotto i suoi 'fori per la bocca'. Formano palle esplosive di acidi, che poi scagliano contro i loro bersagli designati. All'impatto, questi proiettili volatili detonano, rilasciando sostanze corrosive che dissolvono la materia circostante. Successivamente, gli Artigian utilizzano le loro estese reti di radici, assorbendo tutti i nutrienti liberati dalla materia disciolta.
+monster_description/canceroth;Il Canceroth, un'entità enigmatica e formidabile endemica del bioma Swamp, rappresenta una sfida multiforme per gli esploratori. Presenta un nodo centrale circondato da cellule più piccole, che collettivamente creano scompiglio mentre attraversano il terreno senza badare agli ostacoli. Mentre prendere di mira le cellule più piccole può temporaneamente ridurre la loro minaccia, il nodo centrale deve essere infine distrutto, un compito complicato dalla funzione protettiva delle cellule circostanti.
+monster_description/darnot;Il Darnot è una creatura volante neutra, che ricorda una falena aliena di grandi dimensioni e decisamente aliena. Le sue ali iridescenti si estendono per diversi metri, scintillando con un bagliore ultraterreno che cambia colore in risposta al suo ambiente. A differenza delle falene terrestri, l'esoscheletro del Darnot è adornato con motivi bioluminescenti e sporgenze spinose e intricate, che gli conferiscono un aspetto inquietante ma accattivante. Con occhi sfaccettati e antenne allungate, naviga nell'aria con grazia e precisione.
+monster_description/fungor;Il Fungor è una creatura colossale e imponente che fonde le caratteristiche di un animale con quelle di un fungo. Si erge eretto su sei enormi tentacoli nodosi, che spingono i suoi movimenti goffi ma deliberati. Il suo corpo è avvolto da una spessa e spugnosa crescita fungina, adornata da spore fungine. Un ulteriore tentacolo più agile si estende dalla sua schiena, oscillando con mortale precisione per attaccare la sua preda o difendersi dalle minacce.
+monster_description/invigor;L'Invigor è una pianta predatrice con uno stelo lungo e sottile, privo di foglie o rami. In cima a questo stelo c'è un grande e pesante bulbo della testa, sormontato da una singola antenna. In genere, l'antenna è l'unica parte visibile dell'Invigor, ed è l'unica parte che vuole che tu veda. Quando questa antenna rileva il movimento di una preda adatta, l'intera pianta erutta da sottoterra. L'Invigor usa quindi il bulbo della testa come una clava, facendo a pezzi la sua preda.
+monster_description/mudroner;Il Mudroner, una specie nativa della palude di Galatean, spesso vaga per acque poco profonde in piccoli branchi. Più alti e snelli degli Hedroner, i Mudroner hanno fauci allungate ricoperte di denti affilati e occhi distintivi che emettono un bagliore viola per attrarre le prede e avvertire le minacce. Quando sono minacciati, possono sprofondare nel terreno e riapparire altrove, continuando il loro assalto da una distanza di sicurezza.
+monster_description/plutrodon;Il Plutrodon è un predatore di medie dimensioni, a tre zampe, originario della Palude Fungale, noto per la sua velocità e agilità, che usa artigli affilati per scavare nel terreno e arrampicarsi su superfici come alberi e rocce. Preferendo attaccare da lontano, si radica e evoca pilastri di punte che danneggiano tutto ciò che incontra sul suo cammino, rendendolo particolarmente pericoloso contro le strutture fortificate.
+monster_description/poogret;Il Poogret, con la sua goffaggine accattivante e le quattro zampe sottili, offre uno spettacolo comico, ulteriormente accentuato dai suoi occhi che sporgono oltre la testa, conferendogli un'espressione perennemente buffa. Questa creatura si sostiene consumando piante di Garlimonium, elaborandole all'interno del suo sistema digerente per produrre grumi fecali ricchi di nutrienti e ricchi di risorse preziose.
+monster_description/stickrid;Lo Stickrid è una creatura insettoide minuscola con un corpo allungato, che utilizza sei zampe per librarsi sopra la superficie dell'acqua. Spesso osservati in sciami considerevoli, gli Stickrid adottano una strategia mordi e fuggi, lanciando proiettili acidi ai loro bersagli da lontano. Nonostante il loro numero elevato, gli Stickrid sono vulnerabili allo schiacciamento sotto i piedi, il che li rende una minaccia gestibile quando affrontati direttamente.
+prop_description/cactus_anemone;Il Bulbus Anemone è una specie unica di cactus che assomiglia a un riccio di mare, con bulbi adornati da tentacoli bioluminescenti. Tuttavia, quando si sente minacciato, il Bulbus Anemone ritrae rapidamente i suoi bulbi nel suo corpo e si fonde perfettamente con l'ambiente circostante. Questo comportamento adattivo funge da meccanismo di difesa contro potenziali predatori, consentendo al Bulbus Anemone di eludere il pericolo e prosperare nel suo habitat.
+prop_description/mushroom_arachneum;Il Fungus Arachneum è una specie di fungo notevole, caratterizzata dal suo gambo allungato, che è racchiuso in una delicata struttura a ragnatela. In cima a questo gambo si trova un fungo dalla calotta piatta, che ricorda un paralume, che si allarga gradualmente verso la base. Questa morfologia distintiva non solo lo distingue visivamente, ma ha anche scopi funzionali, aiutando a disperdere le spore e catturare i nutrienti dal suo ambiente.
+prop_description/mushroom_bocoletus;Il Fungus Bocoletus è una specie unica di fungo nota per il suo aspetto sorprendente. Emerge da un semplice gambo alla base e presenta un cappello concavo che si espande gradualmente verso l'esterno. Tuttavia, la caratteristica più distintiva del Fungus Bocoletus è la crescita dal centro del suo cappello, che ricorda la forma a spirale del guscio di una lumaca. Questa peculiare morfologia lo distingue dagli altri funghi, rendendolo facilmente riconoscibile.
+prop_description/mushroom_corallium;Il Fungus Corallium è una specie straordinaria di fungo, che ricorda le delicate formazioni coralline che si trovano nelle profondità dell'oceano. La sua struttura è composta da strutture intricate e ramificate che ricordano i rami del corallo, adornate da piccole punte traslucide. Queste punte sono probabilmente responsabili della dispersione delle spore, assicurando il successo riproduttivo del fungo. L'aspetto generale è etereo e accattivante, rendendo il Fungus Corallium un soggetto affascinante per lo studio e l'osservazione nel suo habitat naturale.
+prop_description/mushroom_virsum;Il Fungus Virsum è una vista piuttosto tradizionale per gli standard galatei. Nel corso del suo ciclo vitale, il fungo produce un grande stelo, che cresce in diversi rami. Ogni ramo cresce nel suo cappuccio produttore di spore. Ciò consente al Virsum di moltiplicare le sue capacità riproduttive, dandogli la migliore possibilità di diffondersi ulteriormente.
+prop_description/tree_mallow;Il Bratus Vegetus è una specie di albero che non raggiunge proporzioni enormi. Invece di avere un tronco allungato con una corona in cima, questo albero produce foglie solo alla base. Il tronco sviluppa rami in tutte le direzioni per tutta la sua lunghezza. I rami sono adornati con bellissimi fiori espansivi, pensati per attrarre gli impollinatori.
+prop_description/tree_tongue;"Il Bratus Ligurio è un tipo di albero estremamente unico. È in grado di crescere sia sulla terraferma che in pozze d'acqua. La sua morfologia è completamente diversa da quella degli altri alberi, in quanto sviluppa una grande chioma simile a un fiore con una foglia molto lunga al centro. Quando una creatura passa vicino a questo albero, muoverà la sua chioma e ""agiterà"" la sua foglia, imitando un predatore che gira la testa verso la preda. È un incredibile meccanismo di difesa, non riscontrato in nessun'altra specie."
+resource_name/ammo_dm_acid_spitter;Sputatore acido
+resource_name/ammo_dm_bouncing_blades;Lame rimbalzanti
+resource_name/ammo_dm_grenade_launcher;Lanciagranate
+resource_name/ammo_dm_minigun;Mitragliatrice
+resource_name/ammo_dm_railgun;Cannone a rotaia
+resource_name/flammable_gas_vent;Fonte di gas infiammabile
+resource_name/resin;Resina
+resource_name/sample_poo;Campione di escrementi
+gui/hud/building_name/resin_tree;Albero di resina fungina
+resource_name/resin_compressed;Resina compressa
+gui/hud/building_name/repellent_drone_hub;Hub repellente per droni
+gui/hud/building_name/great_tree_resin_intake;Grande albero dei funghi
+gui/hud/building_name/dead_tree_resin_intake;Resina fungina essiccata dell'albero
+gui/menu/inventory/weapon_charge_description/charged_bomb;Attacco caricato: tieni premuto il grilletto e scegli il bersaglio. La bomba verrà armata e consegnata nel punto selezionato.
+gui/menu/inventory/weapon_charge_description/mortar;Attacco caricato: consente di sparare una raffica di proiettili contro il bersaglio.
+gui/menu/inventory/weapon_charge_description/semi_auto;Attacco caricato: spara diversi proiettili in uno schema a cono.
+gui/menu/inventory/consumable_description/drone_swarm_upgraded;Le celle energetiche migliorate installate nei droni di questo pacchetto consentono loro di funzionare più a lungo e di overcloccare notevolmente le loro CPU, aumentandone notevolmente l'efficienza.
+gui/menu/inventory/consumable_description/gas_grenade_upgraded;Il gas in questa versione della granata è mantenuto a una pressione molto più alta rispetto all'originale. Si disperde a una velocità molto più elevata e a una concentrazione maggiore, rendendolo ancora più efficace.
+gui/menu/inventory/consumable_description/mortar_sentry_upgraded;La gittata, il tempo di funzionamento e la potenza di fuoco migliorati rendono questo modello un potenziamento universale rispetto al modello base Mortar Sentry.
+gui/menu/inventory/skill_description/tornado;Questo dispositivo portatile consente all'utente di generare un vortice d'aria localizzato e ad alta velocità che danneggerà tutto ciò che incontrerà sul suo cammino.
+gui/menu/inventory/skill_description/tornado_upgraded;Questa versione del dispositivo genera una differenza di pressione atmosferica ancora maggiore, generando un vortice molto più potente.
+gui/hud/building_description/repellent_drone_hub;Il Repellent Drone Hub invia droni specializzati che spruzzano nell'area bersaglio una sostanza repellente in base alle esigenze del momento del Riftbreaker.
+voice_over/announcement/building_too_close;Costruzione troppo vicina

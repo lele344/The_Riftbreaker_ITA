@@ -1,0 +1,336 @@
+﻿;ITALIAN
+ACHIEVEMENTS/achievement_49_desc;Smonta 10 oggetti in una volta sola. 
+ACHIEVEMENTS/achievement_49_name;Per il profitto! 
+ACHIEVEMENTS/achievement_50_desc;Trova 50 armi o potenziamenti. 
+ACHIEVEMENTS/achievement_50_name;Ma è meglio della mia? 
+ACHIEVEMENTS/achievement_51_desc;Uccidi 30 creature di Classe OMEGA. 
+ACHIEVEMENTS/achievement_51_name;Sono SIGMA 
+ACHIEVEMENTS/achievement_52_desc;"Usa l'opzione ""Cerca"" nella Ricerca o nell'Inventario. "
+ACHIEVEMENTS/achievement_52_name;Chiedi all'IA, non mentirà. 
+ACHIEVEMENTS/achievement_53_desc;Scansiona una nuova posizione su Galatea 37. 
+ACHIEVEMENTS/achievement_53_name;Spazio insufficiente 
+ACHIEVEMENTS/achievement_54_desc;Costruisci la prima Megastruttura. 
+ACHIEVEMENTS/achievement_54_name;È più grande di quanto pensassi 
+ACHIEVEMENTS/achievement_55_desc;Raggiungi il tuo obiettivo finale e salva Galatea 37 
+ACHIEVEMENTS/achievement_55_name;Prossimo pianeta, grazie 
+BUTTON_Abandon;Abbandona
+BUTTON_Ban;Blocca
+BUTTON_Claim;Rivendica
+BUTTON_Close;Chiudi
+BUTTON_Close_server;Chiudi server
+BUTTON_Kick;Espelli
+BUTTON_new_game;Nuova partita
+BUTTON_Rename;Rinomina
+BUTTON_Scan;Trova nuova posizione
+BUTTON_Server;Server
+BUTTON_Server_options;Opzioni server
+BUTTON_Share;Condividi
+BUTTON_show_incompatible_mods;Mostra mod incompatibili
+campaigns/mp_story/mp_story.campaign;Campagna
+campaigns/mp_survival/mp_survival.campaign;Sopravvivenza
+gui/hud/building_description/arcology_workshop;Consente la costruzione di Arcologie – strutture autosufficienti capaci di sostenere la vita in qualsiasi ambiente. 
+gui/hud/building_description/gravitational_hyper_lens;Consente la costruzione di strutture gigantesche in ambienti a gravità zero. Permette il rilevamento di oggetti tramite mappatura geomagnetica.
+gui/hud/building_description/hydroponic_lab;Conduce ricerche e sviluppi su flora modificata. Aumenta notevolmente la velocità di crescita della vegetazione nella zona in cui è costruita.
+gui/hud/building_description/mega_rift_station;Consente salti interplanetari a lunga distanza verso una singola destinazione. Produce una coppia di Nuclei di Entanglement Quantistico.
+gui/hud/building_description/nanobot_center;Gestisce sciami costruttivi di nanobot su lunghe distanze. Fornisce nuclei AI aggiuntivi in tutte le località planetarie.
+gui/hud/building_description/quantum_cortex_laboratory;Centro dati di Calcolo Quantistico Avanzato. Consente il rielaboramento dei progetti delle megastrutture e aumenta notevolmente la velocità di ricerca.
+gui/hud/building_name/arcology_workshop;Officina di Arcologia
+gui/hud/building_name/gravitational_hyper_lens;Lente Ipergravitazionale
+gui/hud/building_name/hydroponic_lab;Laboratorio Idroponico
+gui/hud/building_name/mega_rift_station;Stazione Primaria di Fenditura
+gui/hud/building_name/nanobot_center;Centro Nanobot
+gui/hud/building_name/quantum_cortex_laboratory;Laboratorio Cortex Quantico
+gui/hud/chat/chat;Chat
+gui/hud/chat/ping_menu_assist;Chiede aiuto!
+gui/hud/chat/ping_menu_warning;Invia un avvertimento!
+gui/hud/chat/press_to_chat;"Premi <img=""${open_chat}""> per chattare..."
+gui/hud/death_spectate/destruction;"Tieni premuto <img=""${interact}""> per accelerare l'autodistruzione"
+gui/hud/decompressor/available;Disponibile:
+gui/hud/decompressor/compressed;Compresso:
+gui/hud/decompressor/decompressing;Decompressione in corso:
+gui/hud/decompressor/in_use;In uso:
+gui/hud/decompressor/no_energy;Nessuna energia
+gui/hud/decompressor/no_resource;Nessuna risorsa
+gui/hud/decompressor/storage_full;Archivio pieno
+gui/hud/enemy_skill_name/additional_damage_wave_acid;Onda di Danno Aggiuntivo - Acido liv. 1
+gui/hud/enemy_skill_name/additional_damage_wave_acid_lvl_2;Onda di Danno Aggiuntivo - Acido liv. 2
+gui/hud/enemy_skill_name/additional_damage_wave_acid_lvl_3;Onda di Danno Aggiuntivo - Acido liv. 3
+gui/hud/enemy_skill_name/additional_damage_wave_acid_lvl_4;Onda di Danno Aggiuntivo - Acido liv. 4
+gui/hud/enemy_skill_name/additional_damage_wave_cryo;Onda di Danno Aggiuntivo - Criogenico liv. 1
+gui/hud/enemy_skill_name/additional_damage_wave_cryo_lvl_2;Onda di Danno Aggiuntivo - Criogenico liv. 2
+gui/hud/enemy_skill_name/additional_damage_wave_cryo_lvl_3;Onda di Danno Aggiuntivo - Criogenico liv. 3
+gui/hud/enemy_skill_name/additional_damage_wave_cryo_lvl_4;Onda di Danno Aggiuntivo - Criogenico liv. 4
+gui/hud/enemy_skill_name/additional_damage_wave_energy;Onda di Danno Aggiuntivo - Energetico liv. 1
+gui/hud/enemy_skill_name/additional_damage_wave_energy_lvl_2;Onda di Danno Aggiuntivo - Energetico liv. 2
+gui/hud/enemy_skill_name/additional_damage_wave_energy_lvl_3;Onda di Danno Aggiuntivo - Energetico liv. 3
+gui/hud/enemy_skill_name/additional_damage_wave_energy_lvl_4;Onda di Danno Aggiuntivo - Energetico liv. 4
+gui/hud/enemy_skill_name/additional_damage_wave_fire;Onda di Danno Aggiuntivo - Fuoco liv. 1
+gui/hud/enemy_skill_name/additional_damage_wave_fire_lvl_2;Onda di Danno Aggiuntivo - Fuoco liv. 2
+gui/hud/enemy_skill_name/additional_damage_wave_fire_lvl_3;Onda di Danno Aggiuntivo - Fuoco liv. 3
+gui/hud/enemy_skill_name/additional_damage_wave_fire_lvl_4;Onda di Danno Aggiuntivo - Fuoco liv. 4
+gui/hud/enemy_skill_name/additional_damage_wave_physical;Onda di Danno Aggiuntivo - Fisico liv. 1
+gui/hud/enemy_skill_name/additional_damage_wave_physical_lvl_2;Onda di Danno Aggiuntivo - Fisico liv. 2
+gui/hud/enemy_skill_name/additional_damage_wave_physical_lvl_3;Onda di Danno Aggiuntivo - Fisico liv. 3
+gui/hud/enemy_skill_name/additional_damage_wave_physical_lvl_4;Onda di Danno Aggiuntivo - Fisico liv. 4
+gui/hud/enemy_skill_name/aura_damage_acid;Aura di Danno - Acido liv. 1
+gui/hud/enemy_skill_name/aura_damage_acid_lvl_2;Aura di Danno - Acido liv. 2
+gui/hud/enemy_skill_name/aura_damage_acid_lvl_3;Aura di Danno - Acido liv. 3
+gui/hud/enemy_skill_name/aura_damage_acid_lvl_4;Aura di Danno - Acido liv. 4
+gui/hud/enemy_skill_name/aura_damage_cryo;Aura di Danno - Criogenico liv. 1
+gui/hud/enemy_skill_name/aura_damage_cryo_lvl_2;Aura di Danno - Criogenico liv. 2
+gui/hud/enemy_skill_name/aura_damage_cryo_lvl_3;Aura di Danno - Criogenico liv. 3
+gui/hud/enemy_skill_name/aura_damage_cryo_lvl_4;Aura di Danno - Criogenico liv. 4
+gui/hud/enemy_skill_name/aura_damage_energy;Aura di Danno - Energetico liv. 1
+gui/hud/enemy_skill_name/aura_damage_energy_lvl_2;Aura di Danno - Energetico liv. 2
+gui/hud/enemy_skill_name/aura_damage_energy_lvl_3;Aura di Danno - Energetico liv. 3
+gui/hud/enemy_skill_name/aura_damage_energy_lvl_4;Aura di Danno - Energetico liv. 4
+gui/hud/enemy_skill_name/aura_damage_fire;Aura di Danno - Fuoco liv. 1
+gui/hud/enemy_skill_name/aura_damage_fire_lvl_2;Aura di Danno - Fuoco liv. 2
+gui/hud/enemy_skill_name/aura_damage_fire_lvl_3;Aura di Danno - Fuoco liv. 3
+gui/hud/enemy_skill_name/aura_damage_fire_lvl_4;Aura di Danno - Fuoco liv. 4
+gui/hud/enemy_skill_name/aura_heal;Aura Curativa - liv. 1
+gui/hud/enemy_skill_name/aura_heal_lvl_2;Aura Curativa - liv. 2
+gui/hud/enemy_skill_name/aura_heal_lvl_3;Aura Curativa - liv. 3
+gui/hud/enemy_skill_name/aura_heal_lvl_4;Aura Curativa - liv. 4
+gui/hud/enemy_skill_name/aura_resistance;Aura di Resistenza - liv. 1
+gui/hud/enemy_skill_name/aura_resistance_lvl_2;Aura di Resistenza - liv. 2
+gui/hud/enemy_skill_name/aura_resistance_lvl_3;Aura di Resistenza - liv. 3
+gui/hud/enemy_skill_name/aura_resistance_lvl_4;Aura di Resistenza - liv. 4
+gui/hud/enemy_skill_name/bomb_cascade;Cascata di Bombe - liv. 1
+gui/hud/enemy_skill_name/bomb_cascade_lvl_2;Cascata di Bombe - liv. 2
+gui/hud/enemy_skill_name/bomb_cascade_lvl_3;Cascata di Bombe - liv. 3
+gui/hud/enemy_skill_name/bomb_cascade_lvl_4;Cascata di Bombe - liv. 4
+gui/hud/enemy_skill_name/cryo_orb;Sfera Criogenica - liv. 1
+gui/hud/enemy_skill_name/cryo_orb_lvl_2;Sfera Criogenica - liv. 2
+gui/hud/enemy_skill_name/cryo_orb_lvl_3;Sfera Criogenica - liv. 3
+gui/hud/enemy_skill_name/cryo_orb_lvl_4;Sfera Criogenica - liv. 4
+gui/hud/enemy_skill_name/drones;Generatore di Droni - liv. 1
+gui/hud/enemy_skill_name/drones_lvl_2;Generatore di Droni - liv. 2
+gui/hud/enemy_skill_name/drones_lvl_3;Generatore di Droni - liv. 3
+gui/hud/enemy_skill_name/drones_lvl_4;Generatore di Droni - liv. 4
+gui/hud/enemy_skill_name/eggs;Generatore di Uova - liv. 1
+gui/hud/enemy_skill_name/eggs_lvl_2;Generatore di Uova - liv. 2
+gui/hud/enemy_skill_name/eggs_lvl_3;Generatore di Uova - liv. 3
+gui/hud/enemy_skill_name/eggs_lvl_4;Generatore di Uova - liv. 4
+gui/hud/enemy_skill_name/fireball_wave;Onda di Palle di Fuoco - liv. 1
+gui/hud/enemy_skill_name/fireball_wave_lvl_2;Onda di Palle di Fuoco - liv. 2
+gui/hud/enemy_skill_name/fireball_wave_lvl_3;Onda di Palle di Fuoco - liv. 3
+gui/hud/enemy_skill_name/fireball_wave_lvl_4;Onda di Palle di Fuoco - liv. 4
+gui/hud/enemy_skill_name/lightning_cascade;Cascata di Fulmini - liv. 1
+gui/hud/enemy_skill_name/lightning_cascade_lvl_2;Cascata di Fulmini - liv. 2
+gui/hud/enemy_skill_name/lightning_cascade_lvl_3;Cascata di Fulmini - liv. 3
+gui/hud/enemy_skill_name/lightning_cascade_lvl_4;Cascata di Fulmini - liv. 4
+gui/hud/enemy_skill_name/meteor_shower;Generatore di Meteoriti - liv. 1
+gui/hud/enemy_skill_name/meteor_shower_lvl_2;Generatore di Meteoriti - liv. 2
+gui/hud/enemy_skill_name/meteor_shower_lvl_3;Generatore di Meteoriti - liv. 3
+gui/hud/enemy_skill_name/meteor_shower_lvl_4;Generatore di Meteoriti - liv. 4
+gui/hud/enemy_skill_name/resurrect;Aura di Resurrezione - liv. 1
+gui/hud/enemy_skill_name/resurrect_lvl_2;Aura di Resurrezione - liv. 2
+gui/hud/enemy_skill_name/resurrect_lvl_3;Aura di Resurrezione - liv. 3
+gui/hud/enemy_skill_name/resurrect_lvl_4;Aura di Resurrezione - liv. 4
+gui/hud/enemy_skill_name/shockwave;Onda d'Urto - liv. 1
+gui/hud/enemy_skill_name/shockwave_lvl_2;Onda d'Urto - liv. 2
+gui/hud/enemy_skill_name/shockwave_lvl_3;Onda d'Urto - liv. 3
+gui/hud/enemy_skill_name/shockwave_lvl_4;Onda d'Urto - liv. 4
+gui/hud/enemy_skill_name/swarm;Generatore di Sciami - liv. 1
+gui/hud/enemy_skill_name/swarm_lvl_2;Generatore di Sciami - liv. 2
+gui/hud/enemy_skill_name/swarm_lvl_3;Generatore di Sciami - liv. 3
+gui/hud/enemy_skill_name/swarm_lvl_4;Generatore di Sciami - liv. 4
+gui/hud/enemy_skill_name/tornado_wave;Onda Tornado - liv. 1
+gui/hud/enemy_skill_name/tornado_wave_lvl_2;Onda Tornado - liv. 2
+gui/hud/enemy_skill_name/tornado_wave_lvl_3;Onda Tornado - liv. 3
+gui/hud/enemy_skill_name/tornado_wave_lvl_4;Onda Tornado - liv. 4
+gui/hud/enemy_skill_name/underground_rock;Generatore di Rocce - liv. 1
+gui/hud/enemy_skill_name/underground_rock_lvl_2;Generatore di Rocce - liv. 2
+gui/hud/enemy_skill_name/underground_rock_lvl_3;Generatore di Rocce - liv. 3
+gui/hud/enemy_skill_name/underground_rock_lvl_4;Generatore di Rocce - liv. 4
+gui/hud/enemy_skill_name/waller;Generatore di Muri - liv. 1
+gui/hud/enemy_skill_name/waller_lvl_2;Generatore di Muri - liv. 2
+gui/hud/enemy_skill_name/waller_lvl_3;Generatore di Muri - liv. 3
+gui/hud/enemy_skill_name/waller_lvl_4;Generatore di Muri - liv. 4
+gui/hud/hud_pickup/unique_parameters;Parametri unici +${additional}
+gui/hud/minimap/header/filters;Filtri
+gui/hud/minimap/header/legend;Legenda
+gui/hud/minimap/header/visibility;Visibilità
+gui/hud/minimap/layer_group/building_gadgets;Gadget da costruzione
+gui/hud/minimap/layer_group/common_buildings;Edifici comuni
+gui/hud/minimap/layer_group/defense_buildings;Edifici difensivi
+gui/hud/minimap/layer_group/enemies;Nemici
+gui/hud/minimap/layer_group/exploration;Esplorazione
+gui/hud/minimap/layer_group/important_buildings;Edifici importanti
+gui/hud/minimap/layer_group/resource_warnings;Avvisi sulle risorse
+gui/hud/minimap/legend/bioanomally;Bioanomalia
+gui/hud/minimap/legend/biocontainer;Contenitore Biologico
+gui/hud/minimap/legend/power_well;Sorgente Energetica
+gui/hud/minimap/legend/weapon_dropped;Arma Caduta
+gui/hud/minimap/status_filter/damaged;Danneggiato
+gui/hud/minimap/status_filter/ruins;Rovine
+gui/hud/minimap/status_filter/upgradables;Potenziabile
+gui/hud/multiplayer_boost_name;Potenziamento di Squadra
+gui/hud/multiplayer_revive_boost_name;Potere di Rianimazione
+gui/hud/ping_menu/label/assist;Assisti
+gui/hud/ping_menu/label/cheers;Esulta
+gui/hud/ping_menu/label/dance;Balla
+gui/hud/ping_menu/label/hello;Ciao
+gui/hud/ping_menu/label/taunt;Provocazione
+gui/hud/ping_menu/label/warning;Avvertimento
+gui/hud/player_connecting_to_server;"<style=""chat_user"">${user_name}</style> si sta connettendo al server!"
+gui/hud/player_down;"<style=""bilans_red"">${user_name}</style> è stato abbattuto!"
+gui/hud/player_reanimated;"<style=""bilans_red"">${user_name}</style> è stato rianimato da <style=""bilans_red"">${user_name2}</style>!"
+gui/hud/tooltip/reanimate;Rianima
+gui/hud/vote_accepted;Voto accettato
+gui/hud/vote_canceled;Voto annullato
+gui/hud/vote_negative;Voto negativo
+gui/loading/client_creating_navigation;Calibrazione della navigazione in corso...
+gui/loading/client_game_assets_waiting;In attesa dei dati della missione...
+gui/loading/client_player_spawning;Salto nella fenditura!
+gui/loading/client_waiting_for_players;In attesa degli altri giocatori...
+gui/loading/client_world_state_preparing;Calibrazione matrice di stato del mondo...
+gui/loading/mission_creating_navigation;Calibrazione della navigazione in corso...
+gui/loading/mission_generating_map;Scansione dell'area della missione...
+gui/loading/mission_objects;Localizzazione delle risorse critiche della missione...
+gui/loading/mission_spawning_prefabs;Analisi delle caratteristiche ambientali...
+gui/loading/mission_terrain_grid;Creazione della griglia del terreno...
+gui/loading/server_connecting;Stabilimento della connessione quantistica...
+gui/loading/server_world_state_unpacking;Elaborazione dei dati di connessione quantistica...
+gui/loading/server_world_state_waiting;In attesa dell'entanglement quantistico...
+gui/loading/tooltip_29;"Premi <img=""${ping_menu}""> per aprire la Ruota Ping. Ti permette di comunicare rapidamente con i compagni di squadra. Include anche le emote."
+gui/loading/tooltip_30;"Puoi smontare armi, potenziamenti e mod inutili tramite la schermata di smontaggio. Accedila dal tuo inventario. Clicca su ""Smontaggio"", seleziona gli oggetti da eliminare e ottieni risorse extra."
+gui/loading/tooltip_31;"Se un compagno cade in battaglia, puoi riattivare il suo mech. Avvicinati ai rottami e premi <img=""${interact}"">. Entrambi riceverete un potenziamento temporaneo, aumentando danno e resistenza. Usalo per contrattaccare o fuggire."
+gui/loading/tooltip_32;Le armi e gli oggetti raccolti dai nemici possono avere caratteristiche bonus che li rendono più potenti di quelli artigianali. Le statistiche bonus sono segnate con un'icona a stella.
+gui/loading/tooltip_33;La difficoltà del gioco si adatta dinamicamente al numero di giocatori. Più giocatori si uniscono, più sarà difficile sopravvivere.
+gui/loading/tooltip_34;Il tuo progresso individuale viene salvato dal server. Puoi uscire da una sessione cooperativa e rientrare in qualsiasi momento. Le tue armi, potenziamenti e mod ti aspetteranno.
+gui/loading/tooltip_35;Il giocatore host della sessione Co-Op può mettere in pausa il server in qualsiasi momento. Fai una pausa ogni tanto!
+gui/loading/tooltip_36;Puoi trovare rapidamente le tecnologie nella schermata di ricerca usando la funzione di ricerca. Clicca l'icona della lente in basso a destra nell’albero delle ricerche e digita cosa cerchi.
+gui/loading/tooltip_37;Completate tutte le missioni storia in un bioma, potrai cercare nuove aree d’interesse in quel bioma tramite la schermata Scanner Planetario.
+gui/loading/tooltip_38;"Hai trovato un oggetto che non ti serve ma potrebbe essere utile a un compagno? Apri l’inventario, selezionalo e premi ""Condividi"" per renderlo visibile anche agli altri."
+gui/loading/tooltip_39;"Premi <img=""${open_chat}""> per usare la chat di gioco. È una modalità cooperativa: la comunicazione è fondamentale!"
+gui/loading/tooltip_40;Rianimare un alleato a terra è una priorità assoluta. Ricorda: un alleato vivo è l’arma più potente sul campo.
+gui/loading/tooltip_41;Restare vicini agli altri compagni fornisce un Potenziamento di Squadra temporaneo. Aumenta notevolmente la resistenza degli Scudi Energetici.
+gui/loading/tooltip_42;La mappa può essere usata per teletrasportarsi ai portali da qualsiasi luogo, non serve essere nel raggio.
+gui/loading/tooltip_43;Le risorse sono condivise tra tutta la squadra. Coordina le spese con i compagni. Le munizioni, però, non sono condivise. Divertiti!
+gui/loading/world_state_loading;Acquisizione della matrice di stato del mondo...
+gui/loading/world_state_unpacking;Elaborazione della matrice di stato del mondo...
+gui/menu/appearance/skins/steampunk;${gui/menu/appearance/skins/unique_skin}
+gui/menu/characteristics/stat_max;(MASSIMO)
+gui/menu/controls/open_ping_menu;Apri Menu Ping
+gui/menu/difficulty/name_coop_brutal;Brutale
+gui/menu/difficulty/name_coop_custom;Personalizzata
+gui/menu/difficulty/name_coop_easy;Facile
+gui/menu/difficulty/name_coop_hard;Difficile
+gui/menu/difficulty/name_coop_normal;Normale
+gui/menu/inventory/stat_icons/stat_boosted;Potenziata
+gui/menu/inventory/stat_icons/stat_modded;Modificata
+gui/menu/inventory/upgrade/stat_name/loot_equipment_chance;Probabilità di drop equipaggiamento
+gui/menu/main_menu/follow_us;"Segui <style=""small_item_level_1"">EXOR STUDIOS</style> su:"
+gui/menu/mission_generator/bioanomalies;Bioanomalie
+gui/menu/mission_generator/biome_type;Tipo di bioma
+gui/menu/mission_generator/dense_terrain;Denso
+gui/menu/mission_generator/header;Scanner Orbitale
+gui/menu/mission_generator/lakes_terrain;Laghi
+gui/menu/mission_generator/mission_info;Info missione
+gui/menu/mission_generator/mission_type;Tipo di missione
+gui/menu/mission_generator/mission_type_exploration;Esplorazione
+gui/menu/mission_generator/mission_type_resource;Raccolta risorse
+gui/menu/mission_generator/open_terrain;Apri
+gui/menu/mission_generator/rescan;Riscansiona
+gui/menu/mission_generator/scanning;Scansione in corso...
+gui/menu/mission_generator/terrain_type;Tipo di terreno
+gui/menu/mission_generator/threat;Minaccia
+gui/menu/mission_generator/underground_deposit;Deposito sotterraneo
+gui/menu/mission_generator/units_kilometers;km
+gui/menu/multiplayer_lobby/click_to_chat;Clicca per chattare...
+gui/menu/multiplayer_lobby/create_lobby;Crea Lobby di gioco
+gui/menu/multiplayer_lobby/difficulty;Difficoltà:
+gui/menu/multiplayer_lobby/invite;Invita...
+gui/menu/multiplayer_lobby/lobby;Lobby di gioco
+gui/menu/multiplayer/options/friends_only;Solo amici
+gui/menu/multiplayer/options/server_name;Nome server:
+gui/menu/multiplayer/options/server_password;Password server:
+gui/menu/multiplayer/options/streaming_events_allowed;Integrazione streaming abilitata
+gui/menu/net/content_mismatch;Connessione fallita. Il server ha contenuti di gioco diversi dal tuo client!
+gui/menu/net/server_closed;Il server è stato chiuso.
+gui/menu/net/server_invalid_password;La password non corrisponde a quella del server!
+gui/menu/new_mission/new_biome_unlocked;Nuovo bioma sbloccato:
+gui/menu/planetary_scanner/base_info_buildings_megastructures;Megastrutture
+gui/menu/planetary_scanner/location_info;Info posizione
+gui/menu/planetary_scanner/mission_acid_exploration_description;Esplora quest'area per trovare tesori unici e scoprire di più su Galatea 37.
+gui/menu/planetary_scanner/mission_acid_resource_description;Lo Scanner Orbitale ha rilevato una zona ricca di risorse. Vai lì per scoprire se è adatta a diventare un avamposto minerario permanente.
+gui/menu/planetary_scanner/mission_caverns_exploration_description;Esplora quest'area per trovare tesori unici e scoprire di più su Galatea 37.
+gui/menu/planetary_scanner/mission_caverns_resource_description;Lo Scanner Orbitale ha rilevato una zona ricca di risorse. Vai lì per scoprire se è adatta a diventare un avamposto minerario permanente.
+gui/menu/planetary_scanner/mission_desert_exploration_description;Esplora quest'area per trovare tesori unici e scoprire di più su Galatea 37.
+gui/menu/planetary_scanner/mission_desert_resource_description;Lo Scanner Orbitale ha rilevato una zona ricca di risorse. Vai lì per scoprire se è adatta a diventare un avamposto minerario permanente.
+gui/menu/planetary_scanner/mission_jungle_exploration_description;Esplora quest'area per trovare tesori unici e scoprire di più su Galatea 37.
+gui/menu/planetary_scanner/mission_jungle_resource_description;Lo Scanner Orbitale ha rilevato una zona ricca di risorse. Vai lì per scoprire se è adatta a diventare un avamposto minerario permanente.
+gui/menu/planetary_scanner/mission_magma_exploration_description;Esplora quest'area per trovare tesori unici e scoprire di più su Galatea 37.
+gui/menu/planetary_scanner/mission_magma_resource_description;Lo Scanner Orbitale ha rilevato una zona ricca di risorse. Vai lì per scoprire se è adatta a diventare un avamposto minerario permanente.
+gui/menu/planetary_scanner/mission_metallic_exploration_description;Esplora quest'area per trovare tesori unici e scoprire di più su Galatea 37.
+gui/menu/planetary_scanner/mission_metallic_resource_description;Lo Scanner Orbitale ha rilevato una zona ricca di risorse. Vai lì per scoprire se è adatta a diventare un avamposto minerario permanente.
+gui/menu/planetary_scanner/mission_swamp_exploration_description;Esplora quest'area per trovare tesori unici e scoprire di più su Galatea 37.
+gui/menu/planetary_scanner/mission_swamp_resource_description;Lo Scanner Orbitale ha rilevato una zona ricca di risorse. Vai lì per scoprire se è adatta a diventare un avamposto minerario permanente.
+gui/menu/research/category_megastructures;Megastrutture
+gui/menu/research/description/arcology_workshop;Questa ricerca sblocca il progetto per l'Officina di Arcologia. Permette di lanciare l'arcologia in orbita, abilitando una colonizzazione non invasiva e una presenza planetaria a lungo termine. 
+gui/menu/research/description/gravitational_hyper_lens;Una lente capace di piegare lo spazio per creare condizioni di gravità zero. Consente la costruzione di strutture su scala impensabile e rivela depositi di risorse solide su tutta la mappa, anche in aree inesplorate. 
+gui/menu/research/description/gravitational_hyper_lens_lvl_2;Questo aggiornamento migliora la lente con la scansione termica a spettro profondo e il rilevamento di anomalie gassose. Permette di individuare faglie geotermiche e sfiati naturali di gas infiammabili nella zona operativa. 
+gui/menu/research/description/gravitational_hyper_lens_lvl_3;La lente viene aggiornata con algoritmi di analisi del terreno adattivi al bioma. Questo consente il rilevamento di biocache nascoste nel suo raggio di scansione. 
+gui/menu/research/description/gravitational_hyper_lens_lvl_4;Filtri spettrali avanzati permettono alla lente di identificare le principali bioanomalie e sorgenti di energia. Questo consente una pianificazione precisa delle basi e delle strutture di ricerca. 
+gui/menu/research/description/gravitational_hyper_lens_lvl_5;La lente ottiene capacità di scansione subsuperficiale profonda. Rivela depositi di risorse sotterranei nascosti e tesori sepolti in tutta la mappa. 
+gui/menu/research/description/hydroponic_lab;Questa ricerca sblocca i piani di costruzione per il Laboratorio di Sostenibilità Idroponica. Accelera la ricrescita delle piante nella posizione in cui viene costruito. Il laboratorio produce risorse biologiche in modo sostenibile, garantendo l'autosufficienza della colonia.
+gui/menu/research/description/hydroponic_lab_lvl_2;Il laboratorio viene aggiornato con una seconda Stazione di Flusso Nutrizionale che accelera ulteriormente la ricrescita della vegetazione. Perfetto per aumentare la crescita della biomassa locale.
+gui/menu/research/description/hydroponic_lab_lvl_3;Il laboratorio viene aggiornato con due Stazioni di Flusso Nutrizionale aggiuntive che accelerano ulteriormente la ricrescita della vegetazione. La velocità di coltivazione aumenta.
+gui/menu/research/description/hydroponic_lab_lvl_4;Il laboratorio viene aggiornato con le Stazioni di Flusso Nutrizionale 5 e 6. La crescita della vegetazione aumenta e l'efficienza del Laboratorio Idroponico raggiunge il 75%.
+gui/menu/research/description/hydroponic_lab_lvl_5;Questa ricerca sblocca i componenti finali del Laboratorio di Sostenibilità Idroponica, che portano l'efficienza della Torre Nanopollinatrice al 100%.
+gui/menu/research/description/nanobot_center;Questa ricerca sblocca i piani di costruzione per il Centro di Controllo dello Sciame Nanobot. La megastruttura consente il controllo remoto di un numero limitato di Nuclei AI aggiuntivi in tutte le località planetarie.
+gui/menu/research/description/nanobot_center_lvl_2;Questa ricerca abilita la costruzione del componente Forgia Nanitica per il Centro di Controllo dello Sciame Nanobot. Aumenta il numero di Nuclei AI gestiti da remoto.
+gui/menu/research/description/nanobot_center_lvl_3;Questa ricerca abilita la costruzione del componente Acceleratore di Atomizzazione delle Risorse per il Centro di Controllo dello Sciame Nanobot. Aumenta il numero di Nuclei AI gestiti da remoto.
+gui/menu/research/description/nanobot_center_lvl_4;Questa ricerca abilita la costruzione del componente Riciclatore Nanobot per il Centro di Controllo dello Sciame Nanobot. Aumenta il numero di Nuclei AI gestiti da remoto.
+gui/menu/research/description/nanobot_center_lvl_5;Questa ricerca abilita la costruzione del secondo componente Forgia Nanitica per il Centro di Controllo dello Sciame Nanobot. Aumenta al massimo il numero di Nuclei AI gestiti da remoto.
+gui/menu/research/description/quantum_cortex_laboratory;Questa ricerca sblocca i piani di costruzione per il Laboratorio Cortex Quantico. La struttura accelera notevolmente l'elaborazione dei dati di ricerca, migliorando l'analisi e l'integrazione di nuove tecnologie.
+gui/menu/research/description/quantum_cortex_laboratory_lvl_2;Questa ricerca abilita la costruzione del componente Annullatore di Plasma di Coriolis per il Laboratorio di Ricerca Quantistica. Aumenta la velocità di elaborazione del laboratorio.
+gui/menu/research/description/quantum_cortex_laboratory_lvl_3;Questa ricerca abilita la costruzione del componente Centrifuga Ipercondensata Stabilizzata per il Laboratorio di Ricerca Quantistica. Aumenta la velocità di elaborazione del laboratorio.
+gui/menu/research/description/quantum_cortex_laboratory_lvl_4;Questa ricerca abilita la costruzione del componente Acceleratore Ionico al Plasma Sovraccaricato per il Laboratorio di Ricerca Quantistica. Aumenta la velocità di elaborazione del laboratorio.
+gui/menu/research/description/quantum_cortex_laboratory_lvl_5;Questa ricerca abilita la costruzione del componente Riciclatori di Materia Bruna di Kotiuk per il Laboratorio di Ricerca Quantistica. Porta la velocità di elaborazione del laboratorio al massimo.
+gui/menu/research/name/arcology_workshop;Officina di Arcologia
+gui/menu/research/name/gravitational_hyper_lens;Lente Ipergravitazionale - liv. 1
+gui/menu/research/name/gravitational_hyper_lens_lvl_2;Lente Ipergravitazionale - liv. 2
+gui/menu/research/name/gravitational_hyper_lens_lvl_3;Lente Ipergravitazionale - liv. 3
+gui/menu/research/name/gravitational_hyper_lens_lvl_4;Lente Ipergravitazionale - liv. 4
+gui/menu/research/name/gravitational_hyper_lens_lvl_5;Lente Ipergravitazionale - liv. 5
+gui/menu/research/name/hydroponic_lab;Laboratorio Idroponico - liv. 1
+gui/menu/research/name/hydroponic_lab_lvl_2;Laboratorio Idroponico - liv. 2
+gui/menu/research/name/hydroponic_lab_lvl_3;Laboratorio Idroponico - liv. 3
+gui/menu/research/name/hydroponic_lab_lvl_4;Laboratorio Idroponico - liv. 4
+gui/menu/research/name/hydroponic_lab_lvl_5;Laboratorio Idroponico - liv. 5
+gui/menu/research/name/nanobot_center;Centro Nanobot - liv. 1
+gui/menu/research/name/nanobot_center_lvl_2;Centro Nanobot - liv. 2
+gui/menu/research/name/nanobot_center_lvl_3;Centro Nanobot - liv. 3
+gui/menu/research/name/nanobot_center_lvl_4;Centro Nanobot - liv. 4
+gui/menu/research/name/nanobot_center_lvl_5;Centro Nanobot - liv. 5
+gui/menu/research/name/quantum_cortex_laboratory;Laboratorio Cortex Quantico - liv. 1
+gui/menu/research/name/quantum_cortex_laboratory_lvl_2;Laboratorio Cortex Quantico - liv. 2
+gui/menu/research/name/quantum_cortex_laboratory_lvl_3;Laboratorio Cortex Quantico - liv. 3
+gui/menu/research/name/quantum_cortex_laboratory_lvl_4;Laboratorio Cortex Quantico - liv. 4
+gui/menu/research/name/quantum_cortex_laboratory_lvl_5;Laboratorio Cortex Quantico - liv. 5
+gui/menu/server_options.current_mission;Missione attuale: ${mission_name}
+gui/menu/server_options.dedicated_server_running;In esecuzione come server dedicato
+gui/menu/server_options.disconnected;Disconnesso
+gui/menu/server.load_game;Il server ha caricato la partita!
+gui/planetary_scanner/go_to_next_map_vote;"<style=""vote_blue"">${player}</style>\n ha avviato una votazione per saltare alla prossima mappa\n<style=""vote_value"">${map}</style> "
+gui/planetary_scanner/rift_jump_commencing;Salto nella fenditura in corso...
+gui/popup/beta_welcome_message;Benvenuto nella Co-Op Beta di The Riftbreaker! \n\nGrazie per esserti unito a noi in questo difficile processo di creazione di un'esperienza online piacevole per tutti i fan di Riftbreaker. Tieni presente che la modalità Co-Op online non è ancora completa. Molte funzionalità del gioco non sono bilanciate o potrebbero non funzionare come previsto. \n\nL'obiettivo della fase Beta è trovare tutti i problemi tecnici ancora da risolvere e raccogliere il tuo feedback su ciò che rende divertente (o meno) l'esperienza online. L'ambito della beta multiplayer è attualmente limitato alla Modalità Sopravvivenza e alla Zona Tropicale. Abbiamo scelto di limitare le opzioni di gioco per concentrarci sulla risoluzione del maggior numero possibile di problemi in un ambiente controllato prima di passare a uno più ampio.\n\n Ti invitiamo a inviarci il tuo feedback tramite il nostro server Discord, i forum di Steam o qualsiasi altro canale di contatto.
+gui/popup/email_subscribe_newsletter;"Sei sicuro di voler iscriverti alla newsletter di <style=""popups_content_blue"">EXOR Studios</style>?"
+gui/popup/email_subscribe_newsletter/footer;Cliccando Conferma accetti la nostra Privacy Policy https://www.exorstudios.com/privacy-policy/
+gui/popup/server_connection_dlc_mismatch;"Connessione fallita! \nIl server è in esecuzione con DLC che non possiedi. \n\n DLC del server: <style=""popups_content_blue"">${server_content}</style>  \nI tuoi DLC: <style=""popups_content_blue"">${client_content}</style>"
+gui/popup/server_connection_mods_mismatch;"Connessione fallita! \nIl server è in esecuzione con un set di mod diverso dal tuo. \n\n Mod del server: <style=""popups_content_blue"">${server_content}</style>  \nLe tue mod: <style=""popups_content_blue"">${client_content}</style>"
+gui/popup/server_connection_version_newer;"Connessione fallita! \nIl server sta usando una versione del gioco più recente della tua. \n\n Versione del server: <style=""popups_content_blue"">${server_content}</style>  \nLa tua versione: <style=""popups_content_blue"">${client_content}</style>"
+gui/popup/server_connection_version_older;"Connessione fallita! \nIl server sta usando una versione del gioco più vecchia della tua. \n\n Versione del server: <style=""popups_content_blue"">${server_content}</style>  \nLa tua versione: <style=""popups_content_blue"">${client_content}</style>"
+gui/popup/server_paused;Il server è attualmente in pausa
+gui/popup/steam_follow_curator;"Sei sicuro di voler seguire <style=""popups_content_blue"">EXOR Studios</style> su Steam?"
+TRANSLATION/rich_presence_lobby;In attesa nella lobby multiplayer di Riftbreaker - giocatori: ${current_players}/${max_players}
+TRANSLATION/rich_presence_singleplayer_campaign;In esecuzione Riftbreaker in Campagna singleplayer - Missione: ${mission_name}
+TRANSLATION/rich_presence_multiplayer_campaign;In esecuzione Riftbreaker in Campagna multiplayer - Missione: ${mission_name}
+TRANSLATION/rich_presence_singleplayer_survival;In esecuzione Riftbreaker in Sopravvivenza singleplayer - Missione: ${mission_name}
+TRANSLATION/rich_presence_multiplayer_survival;In esecuzione Riftbreaker in Sopravvivenza multiplayer - Missione: ${mission_name}
+TRANSLATION/rich_presence_singleplayer_prologue;In esecuzione Riftbreaker in Prologo singleplayer.
+TRANSLATION/rich_presence_multiplayer_prologue;In esecuzione Riftbreaker in Prologo multiplayer.
+TRANSLATION/rich_presence_menu;Navigazione nel menu di Riftbreaker.

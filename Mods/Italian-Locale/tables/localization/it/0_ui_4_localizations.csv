@@ -1,0 +1,38 @@
+﻿;ITALIAN
+biomes/swamp/swamp.biome;Palude fungina
+BUTTON_dont_show_again;Non mostrare più questo messaggio
+BUTTON_load_with_mods;Carica con Mod incompatibili
+gui/hud/building_description/floor_decorative;Pavimento decorativo per la tua base. Aumenta la velocità di movimento della tuta Mecha e ha un aspetto migliore di sabbia e rocce.
+gui/hud/building_description/hedge;Un muro decorativo che può essere utilizzato per dividere sezioni della base, delimitare giardini o creare labirinti.
+gui/hud/building_name/floor_decorative;Pavimento decorativo
+gui/hud/building_name/hedge;Siepe
+gui/menu/appearance/skins/blue3;${gui/menu/appearance/skins/unique_skin}
+gui/menu/appearance/skins/cow;${gui/menu/appearance/skins/unique_skin}
+gui/menu/inventory/skill_description/tornado_acid;Crea un vortice d'aria localizzato e ad alta velocità, intriso di sostanze altamente corrosive. Il vortice viaggia lungo un percorso stabilito, spruzzando acido su tutto lungo il percorso.
+gui/menu/inventory/skill_description/tornado_acid_upgraded;Il generatore di vuoto migliorato crea un vortice ancora più volatile, in grado di infliggere danni maggiori e durare più a lungo.
+gui/menu/inventory/skill_name/tornado_acid;Tornado acido
+gui/menu/inventory/weapon_name/debug_lightning_gun;Debug pistola fulminea
+gui/popup/incompatible_mods;Alcune delle Mod di gioco che hai installato sono state rilevate come potenzialmente incompatibili con l'ultima versione principale di The Riftbreaker. Queste mod potrebbero causare problemi di gioco sconosciuti o crash. Ti consigliamo di disattivare tutte le Mod di gioco incompatibili dall'elenco sottostante finché non saranno state aggiornate dai loro autori.
+monster_description/lurkid;Il Lurkid è un piccolo organismo neutro endemico del bioma della palude fungina. Adattabile sia agli ambienti terrestri che acquatici, il Lurkid prospera nell'habitat denso e umido delle paludi. La dieta di questa creatura è composta da flora e fauna microscopiche, che localizza usando i suoi sensibili sensori simili ad antenne.
+monster_description/spawner_swamp;In cima allo Spawrot, la bocca sputa-acido svolge sia un ruolo difensivo che funzionale. La bocca espelle periodicamente sostanze acide per scoraggiare predatori e potenziali minacce, garantendo la sicurezza delle creature che nidificano al suo interno. Questa secrezione acida contribuisce anche ai processi di decomposizione del tumulo, scomponendo la materia organica per arricchire il terreno circostante.
+monster_description/spawner_swamp_canceroth;Costruito con materiale organico densamente stipato intrecciato con filamenti fungini, il Canceroth Nest fornisce un ambiente sicuro e nutriente per lo sviluppo della prole di Canceroth. La superficie del nido è ricoperta da una secrezione protettiva, simile a una mucosa. La funzione principale del nido è quella di supportare la crescita e la maturazione dei Canceroth.
+stream/event/kermon_attack;Attacco Kermon
+stream/event/kermon_attack_hard;${stream/event/kermon_attack}
+stream/event/kermon_attack_very_hard;${stream/event/kermon_attack}
+stream/event/phirian_attack;Attacco dei Phirian
+stream/event/phirian_attack_hard;${stream/event/phirian_attack}
+stream/event/phirian_attack_very_hard;${stream/event/phirian_attack}
+stream/event/shegret_attack_hard;${stream/event/shegret_attack}
+stream/event/shegret_attack_very_hard;${stream/event/shegret_attack}
+stream/event/spawn_blooming_air;Aria in fiore
+stream/event/spawn_comet_boss_mudroner_acid;Boss cometa – Mudroner
+stream/event/spawn_comet_boss_mudroner_cryo;${stream/event/spawn_comet_boss_mudroner_acid}
+stream/event/spawn_comet_boss_mudroner_energy;${stream/event/spawn_comet_boss_mudroner_acid}
+stream/event/spawn_comet_boss_mudroner_fire;${stream/event/spawn_comet_boss_mudroner_acid}
+stream/event/spawn_fireflies;Lucciole
+stream/event/spawn_firestorm;Tempesta di fuoco
+stream/event/spawn_monsoon;Monsone
+stream/event/spawn_tornado_acid_near_base;Tornado acido vicino alla base
+stream/event/spawn_tornado_acid_near_player;Tornado acido vicino al giocatore
+stream/event/spawn_tornado_fire_near_base;Tornado di fuoco vicino alla base
+stream/event/spawn_tornado_fire_near_player;Tornado di fuoco vicino al giocatore

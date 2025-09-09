@@ -1,0 +1,11 @@
+{
+  "name": "Italian-Locale",
+  "version": "1.0",
+  "description": "Aggiunge la lingua ITALIANA con tutte le tabelle di localizzazione.",
+  "id": "italian_locale_mod",
+  "visibility": "public",
+  "gameVersion": "r08-09-2025a",
+  "injections": [
+    "add_italian_locale.json"
+  ]
+}

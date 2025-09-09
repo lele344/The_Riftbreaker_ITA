@@ -1,0 +1,372 @@
+﻿;ITALIAN
+ACHIEVEMENTS/achievement_37_desc;Scava o distruggi 1000 pareti di caverne.
+ACHIEVEMENTS/achievement_37_name;Sito di scavo
+ACHIEVEMENTS/achievement_38_desc;Uccidi 30 Drillgor.
+ACHIEVEMENTS/achievement_38_name;Scava o muori
+ACHIEVEMENTS/achievement_39_desc;Uccidi 100 nemici con l'esplosione dei muri di cristallo.
+ACHIEVEMENTS/achievement_39_name;Fragile
+ACHIEVEMENTS/achievement_40_desc;Posizionare 250 trappole.
+ACHIEVEMENTS/achievement_40_name;A casa da solo
+ACHIEVEMENTS/achievement_41_desc;Scopri 10 bioanomalie nel bioma delle Caverne di Cristallo.
+ACHIEVEMENTS/achievement_41_name;Bagliore sotterraneo
+ACHIEVEMENTS/achievement_42_desc;Completa la modalità sopravvivenza nel bioma Crystal Caverns o nella campagna storia Into The Dark.
+ACHIEVEMENTS/achievement_42_name;Entra nell'uscita
+BUTTON_agree;Sono d'accordo
+BUTTON_apply;Fare domanda a
+BUTTON_install;Installare
+BUTTON_mod_management;Modifiche
+BUTTON_more;Di più
+BUTTON_remove;Rimuovere
+BUTTON_update;Aggiornamento
+campaigns/survival/caverns.campaign;Caverne di Cristallo
+gui/hud/building_description/crystal_lamp;La Lampada di Cristallo è un oggetto decorativo unico ed elegante che utilizza cristalli fluorescenti rinvenuti nelle caverne di Galatea 37.
+gui/hud/building_description/drone_mine;La miniera di droni è un centro di raccolta per una flotta di droni automatizzati che raccoglieranno risorse solide di ogni tipo nel raggio d'azione della miniera.
+gui/hud/building_description/energy_pylon;Il sistema Energy Relay consente al Riftbreaker di trasferire energia su lunghe distanze senza l'uso di Energy Connector. Sono necessari almeno due piloni affinché questa tecnologia funzioni correttamente.
+gui/hud/building_description/loot_collector;La Loot Collector Tower è un centro per droni automatizzati che recuperano tutte le risorse e i materiali lasciati cadere nell'area operativa della torre.
+gui/hud/building_description/mining_elevator;Il Mining Drill è una struttura altamente specializzata che consente al Riftbreaker di penetrare negli strati della crosta del pianeta e raggiungere in sicurezza i livelli sotto la superficie.
+gui/hud/building_description/picker_tool;Questo strumento consente di scegliere un edificio già costruito e poi costruirne rapidamente un altro esemplare senza dover consultare il menu di costruzione.
+gui/hud/building_description/pipe_junction;Questa struttura consente al Riftbreaker di attraversare due condotte che trasportano diversi tipi di risorse liquide senza mescolarle.
+gui/hud/building_description/seismic_laboratory;Questo edificio contiene apparecchiature sismografiche molto precise che raccolgono dati per analisi geologiche su larga scala dell'area. Richiede una fornitura costante di acqua per scopi di raffreddamento.
+gui/hud/building_description/test_dummy_enemy;Questa struttura ti consentirà di testare l'efficacia in combattimento delle tue armi, così come delle tue difese di base. Dopo l'installazione, verrà trattata come un'unità nemica.
+gui/hud/building_description/test_dummy_neutral;Questa struttura ti permetterà di testare l'efficacia in combattimento delle tue armi. Tuttavia, non verrà riconosciuta come ostile dalle tue difese di base.
+gui/hud/building_description/tower_acid_spitter;Questa torre difensiva ricopre il terreno con acido idrofugo altamente concentrato. L'acido danneggerà qualsiasi materia organica che entri in contatto con esso.
+gui/hud/building_description/tower_gatling_laser;Una grande torre difensiva basata sull'energia. Spara rapidamente potenti proiettili al plasma. Il suo elevato potere d'arresto comporta un notevole consumo di energia.
+gui/hud/building_description/tower_portal;Utilizzando un Rift Portal a corto raggio, questa torre difensiva consegnerà una testata armata, dando priorità alle unità ostili a lungo raggio. Grazie alla consegna immediata del carico utile, questa torre aggira i problemi connessi all'uso dell'artiglieria convenzionale.
+gui/hud/building_description/trap_acid;Una volta attivata, questa trappola spruzzerà acido fluoridrico atomizzato nelle sue vicinanze. Può essere attivata solo un numero limitato di volte prima di dover essere sostituita.
+gui/hud/building_description/trap_area;Utilizza un generatore di onde gravitazionali per creare piccole fluttuazioni del campo gravitazionale attorno a sé per infliggere danni in una piccola area. Può essere attivato solo un numero limitato di volte prima di dover essere sostituito.
+gui/hud/building_description/trap_cryo;Questa trappola rilascia azoto liquido all'attivazione, congelando immediatamente tutta la materia nelle sue vicinanze. Può essere attivata solo un numero limitato di volte prima di dover essere sostituita.
+gui/hud/building_description/trap_energy;Quando una creatura ostile attiva questa trappola, viene rilasciato un gran numero di elettroni liberi, provocando uno squilibrio nei campi elettrici statici nell'area circostante e provocando violente scariche elettriche. Può essere attivato solo un numero limitato di volte prima di dover essere sostituito.
+gui/hud/building_description/trap_fire;Una volta attivata da una creatura ostile, questa trappola spruzza napalm in tutta l'area circostante, facendo sì che la materia organica prenda fuoco e subisca danni da fuoco. Può essere attivata solo un numero limitato di volte prima di dover essere sostituita.
+gui/hud/building_description/trap_physical;Una volta attivata, questa trappola attiverà le sue lame rotanti affilate come rasoi, in grado di tagliare la maggior parte della materia organica con cui entra in contatto. Può essere attivata solo un numero limitato di volte prima di dover essere sostituita.
+gui/hud/building_description/wall_crystal;Un muro difensivo fatto di cristalli sintetizzati trovati nelle profondità della rete di caverne di Galateo. Quando distrutto, il muro si frantumerà e i suoi frammenti danneggeranno le creature vicine.
+gui/hud/building_info/activation_time;Tempo di attivazione
+gui/hud/building_info/number_of_activations;Addebiti
+gui/hud/building_name/colored_lamp;Lampada colorata
+gui/hud/building_name/crystal_lamp;Lampada di cristallo
+gui/hud/building_name/drone_mine;Mina di droni
+gui/hud/building_name/energy_pylon;Pilone dell'energia
+gui/hud/building_name/floor_crystal;Pavimento di cristallo
+gui/hud/building_name/loot_collector;Collezionista di bottini
+gui/hud/building_name/mining_elevator;Trivella mineraria
+gui/hud/building_name/picker_tool;Strumento di selezione
+gui/hud/building_name/pipe_junction;Giunzione del tubo
+gui/hud/building_name/seismic_laboratory;Laboratorio sismico
+gui/hud/building_name/test_dummy_enemy;Test Dummy Squadra nemica
+gui/hud/building_name/test_dummy_neutral;Test Dummy Team Neutrale
+gui/hud/building_name/tower_acid_spitter;Torre sputa-acido
+gui/hud/building_name/tower_gatling_laser;Torre laser Gatling
+gui/hud/building_name/tower_portal;Torre della Bomba Portale
+gui/hud/building_name/trap_acid;Trappola – Acido
+gui/hud/building_name/trap_area;Trappola – Esplosiva
+gui/hud/building_name/trap_cryo;Trappola – Crio
+gui/hud/building_name/trap_energy;Trappola – Energia
+gui/hud/building_name/trap_fire;Trappola – Fuoco
+gui/hud/building_name/trap_physical;Trappola – Fisica
+gui/hud/building_name/wall_crystal;Muro di cristallo
+gui/hud/resisted;RESISTITO
+gui/loading/tooltip_21;La maggior parte delle specie di fauna aliena ha resistenze e debolezze specifiche ai danni. Equipaggiati con una vasta gamma di armi che infliggono diversi tipi di danni per aumentare le tue possibilità di sopravvivenza.
+gui/loading/tooltip_22;Puoi riparare le rovine degli edifici distrutti per ricostruire rapidamente ampie porzioni della tua base.
+gui/loading/tooltip_23;Riparare gli edifici prima che vengano completamente distrutti costa solo una frazione delle risorse necessarie per costruire un edificio da zero o ricostruirlo partendo da una rovina.
+gui/loading/tooltip_24;"Attiva lo strumento di selezione dal menu di costruzione o premendo <img=""${picker}"">. Quando è attivo, puoi selezionare un edificio esistente dalla tua base per costruire rapidamente quello successivo dello stesso tipo. Ciò elimina la necessità di cercare questo edificio nel menu di costruzione ed è utile per una rapida espansione della base."
+gui/loading/tooltip_25;Strumenti come riparazione, vendita, aggiornamento, cambio e costruzione di piani possono essere aumentati o diminuiti per rendere tali operazioni più rapide e precise.
+gui/loading/tooltip_26;Le bio-anomalie sparse per Galatea sono una grande fonte di nuove mod, armi e progetti di edifici, ma attivarle può essere pericoloso. Variano per contenuto e quantità di pericolo. Quelle bianche sono le meno pericolose, mentre quelle blu, viola e rosse contengono più tesori e sono più protette.
+gui/loading/tooltip_27;"È possibile sfogliare rapidamente le pagine del menu dell'edificio premendo <img=""${page_left}""> e <img=""${page_right}"">."
+gui/loading/tooltip_28;Tutte le armi di livello superiore possono essere equipaggiate con mod per aggiungere nuove abilità o aumentare la loro potenza. Le armi blu hanno uno slot mod, mentre quelle viola ne hanno due e quelle rosse ne hanno tre.
+gui/menu/appearance/skins/anomaly;${gui/menu/appearance/skins/unique_skin}
+gui/menu/appearance/skins/crystal;${gui/menu/appearance/skins/unique_skin}
+gui/menu/appearance/skins/gold;${gui/menu/appearance/skins/unique_skin}
+gui/menu/appearance/skins/golem;${gui/menu/appearance/skins/unique_skin}
+gui/menu/appearance/skins/magma;${gui/menu/appearance/skins/unique_skin}
+gui/menu/appearance/skins/xmorph;${gui/menu/appearance/skins/unique_skin}
+gui/menu/characteristics/header;Caratteristiche
+gui/menu/characteristics/mecha_suit;Tuta da mecha
+gui/menu/controls/minimap_zoom_in;Zoom sulla minimappa
+gui/menu/downloadable_package/dlc_2;DLC Nel buio
+gui/menu/inventory/consumable_description/barricade_standard;Questo dispositivo portatile consente al Riftbreaker di creare una barriera temporanea. La barriera rimarrà in posizione solo per un periodo di tempo limitato e può essere distrutta.
+gui/menu/inventory/consumable_description/barricade_upgraded;Una versione più raffinata del normale dispositivo Barrier. La Barriera potenziata dovrebbe essere in grado di fornire al Riftbreaker una copertura per un periodo più lungo.
+gui/menu/inventory/consumable_description/cluster_grenade_acid_standard;Questo tipo speciale di granata è confezionato con una miscela di sostanze altamente corrosive. La granata si divide in diversi pacchetti esplosivi più piccoli.
+gui/menu/inventory/consumable_description/cluster_grenade_acid_upgraded;Una miscela più letale di sostanze corrosive ha permesso di creare questa versione della granata a grappolo, dotata di una potenza di fuoco notevolmente maggiore.
+gui/menu/inventory/consumable_description/flare;Una parte dell'equipaggiamento base del Mecha-Suit. Fornisce luce nelle aree buie per un periodo di tempo limitato.
+gui/menu/inventory/consumable_description/cryo_sentry_standard;Torretta difensiva automatizzata con raggio d'azione medio. Infligge danni Cryo e non richiede munizioni o energia esterne per sparare. Funziona per un periodo di tempo limitato.
+gui/menu/inventory/consumable_description/cryo_sentry_upgraded;Una versione più potente della Cryo Sentry. Infligge più danni, ha un raggio di danno a spruzzo più ampio e rimane operativa più a lungo.
+gui/menu/inventory/consumable_description/grenade_sonic_standard;Questo tipo di granata provoca una piccola esplosione accompagnata da un'esplosione sonica. Ha un'ampia area di efficacia.
+gui/menu/inventory/consumable_description/grenade_sonic_upgraded;Il nuovo involucro di questa versione della Granata Sonica ne aumenta notevolmente l'efficacia.
+gui/menu/inventory/consumable_description/holo_decoy_standard;Si tratta di un proiettore olografico portatile in grado di visualizzare una replica del Mecha-Suit una volta appoggiato a terra.
+gui/menu/inventory/consumable_description/holo_decoy_upgraded;Il ridotto consumo energetico di questa versione del proiettore consente di mantenerlo acceso per periodi di tempo più lunghi.
+gui/menu/inventory/consumable_name/barricade;Barricata
+gui/menu/inventory/consumable_name/cluster_grenade_acid;Granata a grappolo acido
+gui/menu/inventory/consumable_name/cryo_sentry;Sentinella criogenica
+gui/menu/inventory/consumable_name/flare;Fiammata
+gui/menu/inventory/consumable_name/grenade_sonic;Granata sonica
+gui/menu/inventory/consumable_name/holo_decoy;Richiamo olografico
+gui/menu/inventory/skill_description/antimatter_ball_standard;Genera una palla di antimateria che viaggia in avanti e danneggia i nemici sul suo percorso. Esplode dopo poco tempo o in caso di collisione con un oggetto solido e robusto come una roccia.
+gui/menu/inventory/skill_description/antimatter_ball_upgraded;Grazie ai miglioramenti apportati al nucleo di fusione del Mecha'Suit, il carico di antimateria è molto più grande, aumentando così il potenziale distruttivo del proiettile.
+gui/menu/inventory/skill_description/damage_trail_acid_standard;Questo modulo abilità consente al Riftbreaker di innescare un rilascio controllato di acido mentre la Mecha-Suit è in movimento.
+gui/menu/inventory/skill_description/damage_trail_acid_upgraded;Il modulo Acid Trail migliorato controlla molto meglio il rilascio della sostanza acida, con conseguente tempo di rilascio più lungo e danni maggiori, grazie alla copertura più uniforme dell'area bersaglio.
+gui/menu/inventory/skill_description/damage_trail_cryo_standard;Questo modulo abilità consente al Riftbreaker di innescare un rilascio controllato di azoto liquido mentre la Mecha-Suit è in movimento.
+gui/menu/inventory/skill_description/damage_trail_cryo_upgraded;Il modulo Cryo Trail migliorato controlla molto meglio il rilascio dell'azoto liquido, con conseguente tempo di rilascio più lungo e danni maggiori grazie alla copertura più uniforme dell'area bersaglio.
+gui/menu/inventory/skill_description/damage_trail_energy_standard;Questo modulo abilità consente al Riftbreaker di innescare una serie di scariche elettromagnetiche mentre la Mecha-Suit è in movimento.
+gui/menu/inventory/skill_description/damage_trail_energy_upgraded;Il modulo Energy Trail migliorato controlla molto meglio il rilascio di energia, consentendo al Riftbreaker di sfruttare questo effetto più a lungo.
+gui/menu/inventory/skill_description/damage_trail_fire_standard;Questo modulo abilità consente al Riftbreaker di innescare un rilascio controllato di napalm mentre il Mecha-Suit è in movimento.
+gui/menu/inventory/skill_description/damage_trail_fire_upgraded;Il modulo Fire Trail migliorato controlla molto meglio il rilascio del napalm, con conseguente tempo di rilascio più lungo e danni maggiori, grazie alla copertura più uniforme dell'area bersaglio.
+gui/menu/inventory/skill_description/flamewave_standard;Questo modulo abilità consente al Mecha-Suit di spruzzare una speciale miscela di sostanze chimiche infiammabili di fronte a sé. Provocano un'ondata di fuoco fiammeggiante a forma di cono che infligge danni a tutte le strutture sul suo cammino.
+gui/menu/inventory/skill_description/flamewave_upgraded;Questo modulo utilizza una miscela di gas più sofisticata per provocare l'effetto Flame Wave, generando un'esplosione più potente che infligge più danni.
+gui/menu/inventory/skill_description/generator_overcharge_standard;Il generatore della Mecha-Suit è impostato su overdrive per un paio di istanti per danneggiare o stordire i nemici nelle vicinanze. Gli scudi della Mecha-Suit si ricaricano rapidamente in questa modalità.
+gui/menu/inventory/skill_description/generator_overcharge_upgraded;Un programma migliorato dell'unità di controllo consente al Mecha-Suit di spingere il generatore ancora di più, generando un'esplosione di energia maggiore una volta attivata la modalità overdrive.
+gui/menu/inventory/skill_name/antimatter_ball;Palla di antimateria
+gui/menu/inventory/skill_name/damage_trail_acid;Danni alla pista acida
+gui/menu/inventory/skill_name/damage_trail_cryo;Danni alla pista criogenica
+gui/menu/inventory/skill_name/damage_trail_energy;Danni alla scia di energia
+gui/menu/inventory/skill_name/damage_trail_fire;Danni al sentiero di fuoco
+gui/menu/inventory/skill_name/flamewave;Onda di fiamma
+gui/menu/inventory/skill_name/generator_overcharge;Sovraccarico del generatore
+gui/menu/inventory/upgrade_name/discovery_tools;Strumenti di scoperta
+gui/menu/inventory/upgrade_name/gathering_tools;Strumenti di raccolta
+gui/menu/inventory/upgrade/stat_name/loot_drone;Drone bottino
+gui/menu/inventory/weapon_charge_description/bouncing_blades;Attacco caricato: l'arma sprigiona diverse lame rotanti in un cono più ampio.
+gui/menu/inventory/weapon_charge_description/lava_gun;Attacco caricato: l'arma spara un grosso proiettile che incendia oggetti in un ampio raggio.
+gui/menu/inventory/weapon_name/acid_spitter;Sputo acido
+gui/menu/inventory/weapon_name/bouncing_blades;Lame rimbalzanti
+gui/menu/inventory/weapon_name/cryo_spitter;Spewer criogenico
+gui/menu/inventory/weapon_name/crystal_gun;Pistola a frammenti
+gui/menu/inventory/weapon_name/debug_smg;Debug SMG
+gui/menu/inventory/weapon_name/fire_spitter;Lanciafuoco
+gui/menu/inventory/weapon_name/floating_mines_acid;Miniere galleggianti acide
+gui/menu/inventory/weapon_name/floating_mines_cryo;Miniere galleggianti Cryo
+gui/menu/inventory/weapon_name/floating_mines_gravity;Mine galleggianti Gravità
+gui/menu/inventory/weapon_name/floating_mines_incendiary;Mine galleggianti incendiarie
+gui/menu/inventory/weapon_name/lava_gun;Immolatore
+gui/menu/inventory/weapon_name/pickaxe;Piccone
+gui/menu/inventory/weapon_name/sonic_fist;Pugno sonico
+gui/menu/load_menu/no_save_games;Non ci sono ancora partite salvate
+gui/menu/mod_management/changelog;Registro delle modifiche
+gui/menu/mod_management/header;Modifiche
+gui/menu/mod_management/info/loading_mods;Caricamento informazioni mod...
+gui/menu/mod_management/info/no_dependencies;Nessuna dipendenza
+gui/menu/mod_management/info/no_mods;Non ci sono mod che corrispondono alla query
+gui/menu/mod_management/info/no_selected_mod;Nessuna mod è stata selezionata
+gui/menu/mod_management/info/unknown;Sconosciuto
+gui/menu/mod_management/mod_details/author;Autore
+gui/menu/mod_management/mod_details/dependencies;Dipendenze
+gui/menu/mod_management/mod_details/file_list;Elenco dei file
+gui/menu/mod_management/mod_details/game_version;Versione del gioco
+gui/menu/mod_management/mod_details/homepage;Pagina iniziale
+gui/menu/mod_management/mod_details/portal;Portale mod
+gui/menu/mod_management/mod_details/size;Misurare
+gui/menu/mod_management/mod_details/tags;Etichette
+gui/menu/mod_management/mod_details/version;Versione mod
+gui/menu/mod_management/privacy_policy;Politica sulla riservatezza
+gui/menu/mod_management/query/platform_error;Si è verificato un errore durante il recupero dell'elenco delle mod.
+gui/menu/mod_management/status/compatible;Compatibile
+gui/menu/mod_management/status/downloading;Scaricamento in corso…
+gui/menu/mod_management/status/incompatible;Incompatibile
+gui/menu/mod_management/status/outdated;Obsoleto
+gui/menu/mod_management/status/uninstalling;Disinstallazione in corso...
+gui/menu/mod_management/status/up_to_date;Aggiornato
+gui/menu/mod_management/table_header/downloads;Scaricare
+gui/menu/mod_management/table_header/install;Installare
+gui/menu/mod_management/table_header/manage;Maneggio
+gui/menu/mod_management/table_header/name;Nome
+gui/menu/mod_management/table_header/rating;Valutazione
+gui/menu/mod_management/table_header/source;Fonte
+gui/menu/mod_management/table_header/status;Stato
+gui/menu/mod_management/tags/all;Tutti i tag
+gui/menu/mod_management/tags/buildings;Edifici
+gui/menu/mod_management/tags/creatures;Creature
+gui/menu/mod_management/tags/items;Elementi
+gui/menu/mod_management/tags/missions;Missioni
+gui/menu/mod_management/tags/modpack;Pacchetto Mod
+gui/menu/mod_management/tags/none;Nessun tag
+gui/menu/mod_management/tags/other;Altro
+gui/menu/mod_management/tags/rebalance;Riequilibrare
+gui/menu/mod_management/tags/research;Ricerca
+gui/menu/mod_management/tags/skins;Pelli
+gui/menu/mod_management/tags/tiles;Piastrelle
+gui/menu/mod_management/tags/weapons;Armi
+gui/menu/mod_management/terms_of_use;Termini di utilizzo
+gui/menu/mod_management/user_email;E-mail
+gui/menu/research/building_limit_cap_increase_traps;Aumento del limite massimo di costruzione – Trappole
+gui/menu/research/description/consumable_sonic_grenades_advanced;L'alloggiamento raffinato del dispositivo comporta una minore perdita di energia durante la fase iniziale di esplosione. Grazie a ciò, le onde sonore sono indisturbate e possono viaggiare più a lungo prima di dissiparsi.
+gui/menu/research/description/consumable_sonic_grenades_extreme;L'alloggiamento raffinato del dispositivo comporta una minore perdita di energia durante la fase iniziale di esplosione. Grazie a ciò, le onde sonore sono indisturbate e possono viaggiare più a lungo prima di dissiparsi.
+gui/menu/research/description/consumable_sonic_grenades_standard;Le granate soniche non sono distruttive come le loro controparti standard, ma forniscono un'area di effetto estesa. Le onde sonore ad alta frequenza generate dalle granate soniche sono dannose per la maggior parte delle creature.
+gui/menu/research/description/consumable_sonic_grenades_superior;L'alloggiamento raffinato del dispositivo comporta una minore perdita di energia durante la fase iniziale di esplosione. Grazie a ciò, le onde sonore sono indisturbate e possono viaggiare più a lungo prima di dissiparsi.
+gui/menu/research/description/drone_mine_lvl1;Questa tecnologia rappresenta uno sviluppo rivoluzionario nella raccolta delle risorse, poiché consente di costruire edifici con droni specializzati che raccolgono autonomamente risorse di ogni tipo nel loro raggio d'azione.
+gui/menu/research/description/drone_mine_lvl2;La tecnologia aggiornata utilizza l'informatica quantistica e l'intelligenza artificiale all'avanguardia. Dotato di algoritmi avanzati e analisi predittive, il sistema aggiornato offre un'efficienza senza pari.
+gui/menu/research/description/drone_mine_lvl3;La tecnologia aggiornata utilizza l'informatica quantistica e l'intelligenza artificiale all'avanguardia. Dotato di algoritmi avanzati e analisi predittive, il sistema aggiornato offre un'efficienza senza pari.
+gui/menu/research/description/energy_pylon_lvl1;Tecnologia altamente avanzata che consente il trasferimento di energia su lunghe distanze senza la necessità di connessioni fisiche. Trasferisce istantaneamente energia tra i piloni e può collegare efficacemente reti energetiche separate.
+gui/menu/research/description/mech_upgrade_discovery_tools_advanced;Questi moduli possono essere installati in uno degli slot di potenziamento della Mecha-Suit. Contengono istruzioni e programmi che alterano il comportamento e le abilità della Mecha-Suit. Questi moduli hanno tutti proprietà uniche e possono essere usati in modo intercambiabile l'uno con l'altro.
+gui/menu/research/description/mech_upgrade_discovery_tools_extreme;Questi moduli possono essere installati in uno degli slot di potenziamento della Mecha-Suit. Contengono istruzioni e programmi che alterano il comportamento e le abilità della Mecha-Suit. Questi moduli hanno tutti proprietà uniche e possono essere usati in modo intercambiabile l'uno con l'altro.
+gui/menu/research/description/mech_upgrade_discovery_tools_standard;Questi moduli possono essere installati in uno degli slot di potenziamento della Mecha-Suit. Contengono istruzioni e programmi che alterano il comportamento e le abilità della Mecha-Suit. Questi moduli hanno tutti proprietà uniche e possono essere usati in modo intercambiabile l'uno con l'altro.
+gui/menu/research/description/mech_upgrade_discovery_tools_superior;Questi moduli possono essere installati in uno degli slot di potenziamento della Mecha-Suit. Contengono istruzioni e programmi che alterano il comportamento e le abilità della Mecha-Suit. Questi moduli hanno tutti proprietà uniche e possono essere usati in modo intercambiabile l'uno con l'altro.
+gui/menu/research/description/mech_upgrade_gathering_tools_advanced;Questi moduli possono essere installati in uno degli slot di potenziamento della Mecha-Suit. Contengono istruzioni e programmi che alterano il comportamento e le abilità della Mecha-Suit. Questi moduli hanno tutti proprietà uniche e possono essere usati in modo intercambiabile l'uno con l'altro.
+gui/menu/research/description/mech_upgrade_gathering_tools_extreme;Questi moduli possono essere installati in uno degli slot di potenziamento della Mecha-Suit. Contengono istruzioni e programmi che alterano il comportamento e le abilità della Mecha-Suit. Questi moduli hanno tutti proprietà uniche e possono essere usati in modo intercambiabile l'uno con l'altro.
+gui/menu/research/description/mech_upgrade_gathering_tools_standard;Questi moduli possono essere installati in uno degli slot di potenziamento della Mecha-Suit. Contengono istruzioni e programmi che alterano il comportamento e le abilità della Mecha-Suit. Questi moduli hanno tutti proprietà uniche e possono essere usati in modo intercambiabile l'uno con l'altro.
+gui/menu/research/description/mech_upgrade_gathering_tools_superior;Questi moduli possono essere installati in uno degli slot di potenziamento della Mecha-Suit. Contengono istruzioni e programmi che alterano il comportamento e le abilità della Mecha-Suit. Questi moduli hanno tutti proprietà uniche e possono essere usati in modo intercambiabile l'uno con l'altro.
+gui/menu/research/description/mech_weapons_acid_spitter_advanced;Grazie all'integrazione di algoritmi avanzati di disintegrazione molecolare e di un sofisticato sistema di puntamento che garantisce una precisione e una letalità senza pari sul campo di battaglia, l'arma ottiene un potere d'arresto notevolmente maggiore.
+gui/menu/research/description/mech_weapons_acid_spitter_extreme;Grazie all'integrazione di algoritmi avanzati di disintegrazione molecolare e di un sofisticato sistema di puntamento che garantisce una precisione e una letalità senza pari sul campo di battaglia, l'arma ottiene un potere d'arresto notevolmente maggiore.
+gui/menu/research/description/mech_weapons_acid_spitter_standard;Arma potente che sputa un flusso di sostanze chimiche concentrate, lasciando una pozza di acido sul terreno che danneggia i nemici. Mentre il flusso non infligge danni diretti, le pozze di acido persistenti possono rapidamente dissolvere la maggior parte delle unità nemiche più deboli.
+gui/menu/research/description/mech_weapons_acid_spitter_superior;Grazie all'integrazione di algoritmi avanzati di disintegrazione molecolare e di un sofisticato sistema di puntamento che garantisce una precisione e una letalità senza pari sul campo di battaglia, l'arma ottiene un potere d'arresto notevolmente maggiore.
+gui/menu/research/description/mech_weapons_bouncing_blades_advanced;Le lame rimbalzanti migliorate sono state rivestite con un nanomateriale iperresistente e autoreplicante che ripara e affila continuamente le lame, garantendo il massimo potenziale di danno anche dopo molteplici rimbalzi.
+gui/menu/research/description/mech_weapons_bouncing_blades_extreme;Le lame rimbalzanti migliorate sono state rivestite con un nanomateriale iperresistente e autoreplicante che ripara e affila continuamente le lame, garantendo il massimo potenziale di danno anche dopo molteplici rimbalzi.
+gui/menu/research/description/mech_weapons_bouncing_blades_standard;Le Bouncing Blades sono un'arma estremamente versatile e letale che lancia lame rotanti affilate come rasoi che possono rimbalzare su muri e altri ostacoli, consentendo una mira precisa e il massimo potenziale di danno.
+gui/menu/research/description/mech_weapons_bouncing_blades_superior;Le lame rimbalzanti migliorate sono state rivestite con un nanomateriale iperresistente e autoreplicante che ripara e affila continuamente le lame, garantendo il massimo potenziale di danno anche dopo molteplici rimbalzi.
+gui/menu/research/description/mech_weapons_cryo_spitter_advanced;Il sistema di puntamento avanzato del Cryo Spewer potenziato utilizza l'analisi dei dati in tempo reale e algoritmi predittivi per ottimizzare la traiettoria e l'impatto di ogni colpo, garantendo la massima efficacia anche contro i bersagli più elusivi.
+gui/menu/research/description/mech_weapons_cryo_spitter_extreme;Il sistema di puntamento avanzato del Cryo Spewer potenziato utilizza l'analisi dei dati in tempo reale e algoritmi predittivi per ottimizzare la traiettoria e l'impatto di ogni colpo, garantendo la massima efficacia anche contro i bersagli più elusivi.
+gui/menu/research/description/mech_weapons_cryo_spitter_standard;Il Cryo Spewer è un'arma che scatena un potente flusso di azoto liquido per congelare e infliggere danni criogenici ai nemici. Il suo design avanzato incorpora una tecnologia criogenica all'avanguardia, che gli consente di fornire un effetto preciso e devastante all'impatto.
+gui/menu/research/description/mech_weapons_cryo_spitter_superior;Il sistema di puntamento avanzato del Cryo Spewer potenziato utilizza l'analisi dei dati in tempo reale e algoritmi predittivi per ottimizzare la traiettoria e l'impatto di ogni colpo, garantendo la massima efficacia anche contro i bersagli più elusivi.
+gui/menu/research/description/mech_weapons_crystal_gun_advanced;Con una cadenza di fuoco più rapida e una precisione migliorata, la Shard Gun potenziata è un ottimo strumento per combattere gruppi di creature. Consente una precisione millimetrica, mentre la sua tecnologia cristallina all'avanguardia assicura la massima penetrazione e danni.
+gui/menu/research/description/mech_weapons_crystal_gun_extreme;Con una cadenza di fuoco più rapida e una precisione migliorata, la Shard Gun potenziata è un ottimo strumento per combattere gruppi di creature. Consente una precisione millimetrica, mentre la sua tecnologia cristallina all'avanguardia assicura la massima penetrazione e danni.
+gui/menu/research/description/mech_weapons_crystal_gun_standard;Simile a una mitragliatrice per la sua capacità di fuoco rapido, la Shard Gun spara schegge di cristallo che si spezzano e rimbalzano sulle superfici all'impatto, creando una raffica mortale di schegge in grado di eliminare più bersagli contemporaneamente.
+gui/menu/research/description/mech_weapons_crystal_gun_superior;Con una cadenza di fuoco più rapida e una precisione migliorata, la Shard Gun potenziata è un ottimo strumento per combattere gruppi di creature. Consente una precisione millimetrica, mentre la sua tecnologia cristallina all'avanguardia assicura la massima penetrazione e danni.
+gui/menu/research/description/mech_weapons_fire_spitter_advanced;Grazie ai sistemi di accensione e propulsione avanzati, l'Upgraded Fire Spewer può lanciare palle di napalm con maggiore precisione, velocità e gittata, consentendo al Riftbreaker di colpire bersagli da distanze maggiori e con maggiore precisione.
+gui/menu/research/description/mech_weapons_fire_spitter_extreme;Grazie ai sistemi di accensione e propulsione avanzati, l'Upgraded Fire Spewer può lanciare palle di napalm con maggiore precisione, velocità e gittata, consentendo al Riftbreaker di colpire bersagli da distanze maggiori e con maggiore precisione.
+gui/menu/research/description/mech_weapons_fire_spitter_standard;Il Fire Spewer sfrutta una tecnologia pirotecnica avanzata per proiettare un flusso di napalm surriscaldato che si infiamma al contatto con il suolo, creando un attacco ad area devastante in grado di incenerire rapidamente ondate di nemici.
+gui/menu/research/description/mech_weapons_fire_spitter_superior;Grazie ai sistemi di accensione e propulsione avanzati, l'Upgraded Fire Spewer può lanciare palle di napalm con maggiore precisione, velocità e gittata, consentendo al Riftbreaker di colpire bersagli da distanze maggiori e con maggiore precisione.
+gui/menu/research/description/mech_weapons_lava_gun_advanced;La versione aggiornata dell'Immolator sfrutta la sua già formidabile potenza grazie a tecniche avanzate di focalizzazione del plasma che producono un fascio di plasma più caldo e concentrato.
+gui/menu/research/description/mech_weapons_lava_gun_extreme;La versione aggiornata dell'Immolator sfrutta la sua già formidabile potenza grazie a tecniche avanzate di focalizzazione del plasma che producono un fascio di plasma più caldo e concentrato.
+gui/menu/research/description/mech_weapons_lava_gun_standard;L'Immolator spara proiettili al plasma surriscaldato che prendono fuoco all'impatto, creando un'esplosione devastante in grado di incenerire gruppi di nemici.
+gui/menu/research/description/mech_weapons_lava_gun_superior;La versione aggiornata dell'Immolator sfrutta la sua già formidabile potenza grazie a tecniche avanzate di focalizzazione del plasma che producono un fascio di plasma più caldo e concentrato.
+gui/menu/research/description/mech_weapons_pickaxe_advanced;Incorporando un nuovo convertitore di energia cinetica, il piccone potenziato infligge più danni ai nemici sul suo cammino e copre un'area più ampia.
+gui/menu/research/description/mech_weapons_pickaxe_extreme;Incorporando un nuovo convertitore di energia cinetica, il piccone potenziato infligge più danni ai nemici sul suo cammino e copre un'area più ampia.
+gui/menu/research/description/mech_weapons_pickaxe_standard;Arma da mischia versatile che infligge danni all'impatto e invia una potente onda d'urto che si propaga attraverso il terreno. La sua onda d'urto può eliminare più nemici contemporaneamente o sfondare gli ostacoli.
+gui/menu/research/description/mech_weapons_pickaxe_superior;Incorporando un nuovo convertitore di energia cinetica, il piccone potenziato infligge più danni ai nemici sul suo cammino e copre un'area più ampia.
+gui/menu/research/description/mech_weapons_sonic_fist_advanced;Utilizzando una manipolazione energetica all'avanguardia, i Pugni sonici potenziati forniscono un immenso aumento della potenza di fuoco. Sofisticati amplificatori sonici creano potenti onde d'urto a ogni colpo, in grado di infliggere danni immensi.
+gui/menu/research/description/mech_weapons_sonic_fist_extreme;Utilizzando una manipolazione energetica all'avanguardia, i Pugni sonici potenziati forniscono un immenso aumento della potenza di fuoco. Sofisticati amplificatori sonici creano potenti onde d'urto a ogni colpo, in grado di infliggere danni immensi.
+gui/menu/research/description/mech_weapons_sonic_fist_standard;Con un tasso di attacco inferiore rispetto ai Power Fists, compensano con la capacità di scatenare un'onda d'urto concentrata che danneggia i nemici entro un breve raggio. Queste qualità rendono i Sonic Fists una scelta efficace per abbattere numerosi avversari.
+gui/menu/research/description/mech_weapons_sonic_fist_superior;Utilizzando una manipolazione energetica all'avanguardia, i Pugni sonici potenziati forniscono un immenso aumento della potenza di fuoco. Sofisticati amplificatori sonici creano potenti onde d'urto a ogni colpo, in grado di infliggere danni immensi.
+gui/menu/research/description/skill_antimatter_ball_advanced;La versione aggiornata dell'Antimatter Ball ha subito notevoli miglioramenti, tra cui una tecnologia di fusione avanzata che, al momento dell'impatto, provoca un'esplosione molto più grande e distruttiva.
+gui/menu/research/description/skill_antimatter_ball_extreme;La versione aggiornata dell'Antimatter Ball ha subito notevoli miglioramenti, tra cui una tecnologia di fusione avanzata che, al momento dell'impatto, provoca un'esplosione molto più grande e distruttiva.
+gui/menu/research/description/skill_antimatter_ball_standard;Il nucleo di fusione del Mecha-Suit viene utilizzato per creare un'arma potente sotto forma di palla di antimateria che vola in avanti ed emette un campo di energia mortale mentre viaggia. All'impatto, la palla scatena un'esplosione devastante che infligge danni immensi.
+gui/menu/research/description/skill_antimatter_ball_superior;La versione aggiornata dell'Antimatter Ball ha subito notevoli miglioramenti, tra cui una tecnologia di fusione avanzata che, al momento dell'impatto, provoca un'esplosione molto più grande e distruttiva.
+gui/menu/research/description/skill_flamewave_advanced;Il modulo abilità Flame Wave potenziato utilizza una tecnologia termo-oscillatoria brevettata, che surriscalda le sostanze chimiche prima dell'espulsione. L'esplosione risultante è significativamente più potente.
+gui/menu/research/description/skill_flamewave_extreme;Il modulo abilità Flame Wave potenziato utilizza una tecnologia termo-oscillatoria brevettata, che surriscalda le sostanze chimiche prima dell'espulsione. L'esplosione risultante è significativamente più potente.
+gui/menu/research/description/skill_flamewave_standard;Il modulo Flame Wave è un potenziamento avanzato delle abilità per la Mecha-Suit che le consente di proiettare un'onda conica di sostanze chimiche infiammabili. Questa esplosione infuocata può causare danni significativi ai nemici intrappolati nel suo percorso.
+gui/menu/research/description/skill_flamewave_superior;Il modulo abilità Flame Wave potenziato utilizza una tecnologia termo-oscillatoria brevettata, che surriscalda le sostanze chimiche prima dell'espulsione. L'esplosione risultante è significativamente più potente.
+gui/menu/research/description/tower_acid_spitter_lvl1;Formidabile struttura difensiva che sputa acido fluoridrico concentrato sul terreno, creando una pozza che danneggia le forze nemiche. Con un meccanismo di fuoco rapido, questa torre può saturare intere aree di acido.
+gui/menu/research/description/tower_acid_spitter_lvl2;La versione aggiornata della Torre Spara-Acido presenta un design all'avanguardia che utilizza nanomateriali avanzati per aumentare la gittata e i danni dei proiettili acidi.
+gui/menu/research/description/tower_acid_spitter_lvl3;La versione aggiornata della Torre Spara-Acido presenta un design all'avanguardia che utilizza nanomateriali avanzati per aumentare la gittata e i danni dei proiettili acidi.
+gui/menu/research/description/tower_gatling_laser_lvl1;Pinnacolo della tecnologia difensiva, che vanta un emettitore di impulsi ad alta frequenza in grado di sparare rapidamente raffiche di fotoni focalizzati al laser. I sistemi avanzati di accumulo di energia e di puntamento della torre consentono di sostenere un flusso di fuoco pressoché continuo.
+gui/menu/research/description/tower_gatling_laser_lvl2;La torre laser Gatling potenziata vanta un nucleo di potenza all'avanguardia e sofisticati sistemi di controllo del raggio che le consentono di erogare raffiche di energia concentrata ancora più devastanti.
+gui/menu/research/description/tower_gatling_laser_lvl3;La torre laser Gatling potenziata vanta un nucleo di potenza all'avanguardia e sofisticati sistemi di controllo del raggio che le consentono di erogare raffiche di energia concentrata ancora più devastanti.
+gui/menu/research/description/tower_portal_lvl1;Attraverso l'utilizzo della tecnologia dei portali, questa struttura di difesa dispiega un esplosivo specializzato, mirato a nemici ostili distanti. Con la consegna istantanea del carico utile, questo sistema d'arma offre un vantaggio senza precedenti rispetto all'artiglieria tradizionale.
+gui/menu/research/description/tower_portal_lvl2;La versione avanzata della Portal Bomb Tower impiega un modulo destabilizzatore quantistico per aumentare il potenziale distruttivo delle sue testate.
+gui/menu/research/description/tower_portal_lvl3;La versione avanzata della Portal Bomb Tower impiega un modulo destabilizzatore quantistico per aumentare il potenziale distruttivo delle sue testate.
+gui/menu/research/description/trap_fire_lvl1;La trappola di fuoco rileva la presenza del nemico e diffonde una miscela di nanogel, provocando un incendio in grado di infliggere danni gravi a tutti gli organismi viventi nelle vicinanze.
+gui/menu/research/description/trap_fire_lvl2;Grazie all'uso di composti pirotecnici avanzati, questa trappola di fuoco migliorata può ora creare un incendio molto più grande e intenso, infliggendo danni notevolmente maggiori alle entità ostili che lo innescano.
+gui/menu/research/description/trap_fire_lvl3;Grazie all'uso di composti pirotecnici avanzati, questa trappola di fuoco migliorata può ora creare un incendio molto più grande e intenso, infliggendo danni notevolmente maggiori alle entità ostili che lo innescano.
+gui/menu/research/description/wall_crystal_lvl1;Un'innovativa struttura difensiva composta da cristalli sintetizzati provenienti dalle profondità sotterranee di Galatea 37. I cristalli sintetici si rompono in schegge frastagliate che infliggono danni significativi a tutti i nemici nelle vicinanze quando l'edificio viene distrutto.
+gui/menu/research/description/wall_crystal_lvl2;Introducendo una struttura reticolare complessa nel processo di sintesi dei cristalli, le pareti risultanti diventano più forti e resistenti.
+gui/menu/research/description/wall_crystal_lvl3;Introducendo una struttura reticolare complessa nel processo di sintesi dei cristalli, le pareti risultanti diventano più forti e resistenti.
+gui/menu/research/name/consumable_sonic_grenades_advanced;Granate soniche - Avanzate
+gui/menu/research/name/consumable_sonic_grenades_extreme;Granate soniche - Estremo
+gui/menu/research/name/consumable_sonic_grenades_standard;Granate soniche - Standard
+gui/menu/research/name/consumable_sonic_grenades_superior;Granate soniche - Superiori
+gui/menu/research/name/drone_mine_lvl1;Raccolta automatizzata delle risorse – Livello 1
+gui/menu/research/name/drone_mine_lvl2;Raccolta automatizzata delle risorse – Livello 2
+gui/menu/research/name/drone_mine_lvl3;Raccolta automatizzata delle risorse – Livello 3
+gui/menu/research/name/energy_pylon_lvl1;Sistema di relè energetico
+gui/menu/research/name/mech_upgrade_discovery_tools_advanced;Strumenti di scoperta Mech - Avanzati
+gui/menu/research/name/mech_upgrade_discovery_tools_extreme;Strumenti di scoperta meccanica - Estremo
+gui/menu/research/name/mech_upgrade_discovery_tools_standard;Strumenti di scoperta meccanica - Standard
+gui/menu/research/name/mech_upgrade_discovery_tools_superior;Strumenti di scoperta meccanica - Superiori
+gui/menu/research/name/mech_upgrade_gathering_tools_advanced;Strumenti di raccolta Mech - Avanzati
+gui/menu/research/name/mech_upgrade_gathering_tools_extreme;Strumenti di raccolta Mech - Estremo
+gui/menu/research/name/mech_upgrade_gathering_tools_standard;Strumenti di raccolta Mech - Standard
+gui/menu/research/name/mech_upgrade_gathering_tools_superior;Strumenti di raccolta Mech - Superiori
+gui/menu/research/name/mech_weapons_acid_spitter_advanced;Acid Spewer - Avanzato
+gui/menu/research/name/mech_weapons_acid_spitter_extreme;Acid Spewer - Estremo
+gui/menu/research/name/mech_weapons_acid_spitter_standard;Acid Spewer - Standard
+gui/menu/research/name/mech_weapons_acid_spitter_superior;Acid Spewer - Superiore
+gui/menu/research/name/mech_weapons_bouncing_blades_advanced;Lame rimbalzanti - Avanzate
+gui/menu/research/name/mech_weapons_bouncing_blades_extreme;Lame rimbalzanti - Estremo
+gui/menu/research/name/mech_weapons_bouncing_blades_standard;Lame rimbalzanti - Standard
+gui/menu/research/name/mech_weapons_bouncing_blades_superior;Lame rimbalzanti - Superiori
+gui/menu/research/name/mech_weapons_cryo_spitter_advanced;Cryo Spewer - Avanzato
+gui/menu/research/name/mech_weapons_cryo_spitter_extreme;Cryo Spewer - Estremo
+gui/menu/research/name/mech_weapons_cryo_spitter_standard;Spewer criogenico - Standard
+gui/menu/research/name/mech_weapons_cryo_spitter_superior;Cryo Spewer - Superiore
+gui/menu/research/name/mech_weapons_crystal_gun_advanced;Shard Gun - Avanzato
+gui/menu/research/name/mech_weapons_crystal_gun_extreme;Pistola a frammenti - Estremo
+gui/menu/research/name/mech_weapons_crystal_gun_standard;Pistola a frammenti - Standard
+gui/menu/research/name/mech_weapons_crystal_gun_superior;Shard Gun - Superiore
+gui/menu/research/name/mech_weapons_fire_spitter_advanced;Sparafuoco - Avanzato
+gui/menu/research/name/mech_weapons_fire_spitter_extreme;Lanciafuoco - Estremo
+gui/menu/research/name/mech_weapons_fire_spitter_standard;Lanciafuoco - Standard
+gui/menu/research/name/mech_weapons_fire_spitter_superior;Lanciafuoco - Superiore
+gui/menu/research/name/mech_weapons_lava_gun_advanced;Immolatore - Avanzato
+gui/menu/research/name/mech_weapons_lava_gun_extreme;Immolatore - Estremo
+gui/menu/research/name/mech_weapons_lava_gun_standard;Immolatore - Standard
+gui/menu/research/name/mech_weapons_lava_gun_superior;Immolatore - Superiore
+gui/menu/research/name/mech_weapons_pickaxe_advanced;Piccone - Avanzato
+gui/menu/research/name/mech_weapons_pickaxe_extreme;Piccone - Estremo
+gui/menu/research/name/mech_weapons_pickaxe_standard;Piccone - Standard
+gui/menu/research/name/mech_weapons_pickaxe_superior;Piccone - Superiore
+gui/menu/research/name/mech_weapons_sonic_fist_advanced;Pugno sonico - Avanzato
+gui/menu/research/name/mech_weapons_sonic_fist_extreme;Pugno sonico - Estremo
+gui/menu/research/name/mech_weapons_sonic_fist_standard;Pugno sonico - Standard
+gui/menu/research/name/mech_weapons_sonic_fist_superior;Pugno sonico - Superiore
+gui/menu/research/name/skill_antimatter_ball_advanced;Palla di antimateria - Avanzata
+gui/menu/research/name/skill_antimatter_ball_extreme;Palla di antimateria - Estremo
+gui/menu/research/name/skill_antimatter_ball_standard;Palla di antimateria - Standard
+gui/menu/research/name/skill_antimatter_ball_superior;Palla di antimateria - Superiore
+gui/menu/research/name/skill_flamewave_advanced;Onda di fiamma - Avanzato
+gui/menu/research/name/skill_flamewave_extreme;Onda di fiamma - Estremo
+gui/menu/research/name/skill_flamewave_standard;Onda di fiamma - Standard
+gui/menu/research/name/skill_flamewave_superior;Onda di fiamma - Superiore
+gui/menu/research/name/tower_acid_spitter_lvl1;Torri di sputa-acido – Livello 1
+gui/menu/research/name/tower_acid_spitter_lvl2;Torri di sputa-acido – Livello 2
+gui/menu/research/name/tower_acid_spitter_lvl3;Torri di sputa-acido – Livello 3
+gui/menu/research/name/tower_gatling_laser_lvl1;Torri laser Gatling – Livello 1
+gui/menu/research/name/tower_gatling_laser_lvl2;Torri laser Gatling – Livello 2
+gui/menu/research/name/tower_gatling_laser_lvl3;Torri laser Gatling – Livello 3
+gui/menu/research/name/tower_portal_lvl1;Torri Portali Bomba – Livello 1
+gui/menu/research/name/tower_portal_lvl2;Torri Portali Bomba – Livello 2
+gui/menu/research/name/tower_portal_lvl3;Torri Portali Bomba – Livello 3
+gui/menu/research/name/trap_fire_lvl1;Trappole di fuoco – Livello 1
+gui/menu/research/name/trap_fire_lvl2;Trappole di fuoco – Livello 2
+gui/menu/research/name/trap_fire_lvl3;Trappole di fuoco – Livello 3
+gui/menu/research/name/wall_crystal_lvl1;Pareti di cristallo – Livello 1
+gui/menu/research/name/wall_crystal_lvl2;Pareti di cristallo – Livello 2
+gui/menu/research/name/wall_crystal_lvl3;Pareti di cristallo – Livello 3
+gui/menu/sandbox_control_panel/unlimited_ammo;Solo munizioni illimitate
+gui/menu/settings/reflections;Riflessi dello spazio sullo schermo
+gui/menu/settings/reflections_description;Screen Space Reflections è un metodo efficiente in termini di prestazioni per generare riflessi di bell'aspetto utilizzando gli oggetti che sono già visibili sullo schermo. Abilitare questa funzione potrebbe ridurre leggermente i tuoi FPS.
+gui/menu/settings/ultra_performance;Prestazioni ultra
+gui/menu/settings/volumetric_lighting;Illuminazione volumetrica
+gui/menu/settings/volumetric_lighting_description;Questa tecnica di rendering aggiunge effetti di illuminazione avanzati alla scena per simulare meglio la nebbia, la densità dell'aria e altri aerosol. Consente all'osservatore di vedere fasci di luce che brillano nell'ambiente.
+gui/popup/discard_mod_changes;Vuoi davvero scartare le modifiche alle mod? Le mod appena selezionate non verranno installate!
+gui/popup/issue_steam_old_dll;Il gioco ha riscontrato un problema con la versione Steam attualmente installata. Installa l'ultima versione del client Steam e riprova.
+gui/popup/mods_warning;I contenuti modificati non sono ufficialmente supportati da EXOR Studios e vengono forniti così come sono.\nL'installazione di mod potrebbe causare il malfunzionamento del gioco!
+gui/popup/restart_game_modding;Il gioco deve essere riavviato per applicare le modifiche. Vuoi davvero riavviare il gioco?
+gui/popup/safe_mode;Il Riftbreaker non si è spento correttamente l'ultima volta che è stato avviato. Vuoi avviare il gioco in modalità provvisoria? Questo disabiliterà tutte le tue mod e ripristinerà tutte le impostazioni grafiche ai loro valori predefiniti. Questo NON ripristinerà le impostazioni di gioco e di controllo.
+gui/popup/safe_mode_launcher;Questo disabiliterà tutte le tue Mod e ripristinerà tutte le impostazioni grafiche ai loro valori predefiniti. Questo NON ripristinerà le tue impostazioni di gioco e di controllo.
+gui/popup/terms_of_use/email_code;Codice di verifica inviato al tuo indirizzo e-mail.
+gui/popup/terms_of_use/error;Si è verificato un errore durante l'elaborazione della richiesta: ${error_code}
+gui/popup/terms_of_use/modio;Utilizziamo mod.io per supportare i contenuti generati dagli utenti nel gioco. Cliccando su 'Accetto' accetti i Termini di utilizzo di mod.io e verrà creato un account mod.io per te. Consulta l'Informativa sulla privacy di mod.io per sapere come mod.io elabora i tuoi dati personali.
+gui/popup/xbox_save_sync;La console è attualmente impegnata a sincronizzare il tuo stato utente e non siamo in grado di continuare. Attendi e riprova tra un momento. Se il problema persiste, segnalalo andando su: XBOX Assist -> Ottieni assistenza -> Trova ulteriore assistenza online. Attenzione: riavviare la console prima del completamento della sincronizzazione potrebbe causare la perdita dei progressi.
+gui/popup/xbox_save_sync_header;AVVERTIMENTO!
+launcher/button/safe_mode;Modalità provvisoria
+launcher/label/disable_mods;Disattiva tutte le mod
+launcher/label/reset_config_values;Ripristina i valori di configurazione
+monster_description/arachnoid_crystal;Arachnomortus è un avversario formidabile, che sfoggia un metodo di attacco potente e unico. Utilizzando le proprietà innate dei cristalli sintetizzati, Arachnomortus è in grado di lanciare schegge di cristallo affilate come rasoi contro i suoi bersagli con incredibile precisione e velocità.
+monster_description/canoptrix_crystal;I Canomortus sono piccole creature infuse di cristalli che assomigliano ai Canoptrix. Possono essere evocati dai Necrodon attraverso mezzi sconosciuti e i loro corpi sono fusi con escrescenze cristalline. Hanno un comportamento territoriale simile, attaccando qualsiasi intruso con artigli affilati e mascelle forti. Nonostante le loro piccole dimensioni, i loro corpi sono incredibilmente resistenti grazie all'infusione di cristalli, rendendoli difficili da sconfiggere.
+monster_description/crawlog;I Crawlog sono una specie che vive in branco e si trova nelle caverne e nelle caverne di Galatea 37. Il loro aspetto pallido e ossuto e gli artigli affilati li rendono predatori formidabili. Ricoperti di formazioni cristalline luminose, si sono adattati all'oscurità del loro ambiente, usando la loro agilità e velocità per attaccare prede ignare. Ancora più terrificante, hanno la capacità di tornare dalla morte se non vengono completamente distrutti. Fai attenzione alla loro presenza e preparati ai loro attacchi implacabili.
+monster_description/crysder;I crysder sono piccole creature pacifiche che vivono nelle grotte e nelle fessure di Galatea 37. Simili a paguri, portano un cristallo luminoso sulla schiena. I crysder sono noti per cercare cibo e spesso possono essere visti nutrirsi di funghi e altri funghi che crescono nelle grotte. Nonostante le loro piccole dimensioni, sono piuttosto veloci e agili, il che li rende difficili da catturare o danneggiare. Di conseguenza, vengono spesso lasciati soli dai predatori e da altre creature che potrebbero rappresentare una minaccia per loro.
+monster_description/drillgor;Drillgor è un gigantesco bestione che domina i tunnel sotterranei di Galatea 37. I suoi artigli enormi e affilati come rasoi sono in grado di squarciare la roccia solida, scavando tunnel che si estendono per chilometri. Il suo aspetto è a dir poco intimidatorio, con un carapace che ricorda un crostaceo e due corna ricurve che ne adornano la testa. Si muove con una velocità e una grazia terrificanti per una creatura delle sue dimensioni, in grado di coprire enormi distanze in pochi secondi. Drillgor è una forza da non sottovalutare nelle profondità oscure e insidiose delle caverne del pianeta.
+monster_description/gulgor;I Gulgor sono pericolosi rettili che si trovano nel bioma Crystal Caves di Galatea 37. I loro corpi ingombranti e gli artigli impressionanti li rendono predatori formidabili, ma la loro vera forza risiede nel loro attacco a distanza, che consiste nel rilasciare schegge di cristallo affilate come rasoi dalle loro guance gonfie. I Gulgor possono anche scavare rapidamente sottoterra e tendere agguati alle prede, il che li rende difficili da rintracciare ed evitare. Dopo la morte, i loro corpi sembrano essere consumati dalla terra, lasciando dietro di sé pilastri di cristallo come un inquietante ricordo della loro presenza.
+monster_description/moltug_crystal;Crystug è una creatura lenta, simile a una lumaca, che vaga per le caverne di Galatea 37. La sua caratteristica più sorprendente è il cristallo gigante e luminoso che sporge dalla sua schiena, che fornisce sia protezione sia un modo per raccogliere e conservare risorse. I Crystug sono noti per raccogliere e nascondere vari frammenti di risorse che cadono dal guscio alla loro morte, il che li rende un bersaglio prezioso per i cercatori di risorse.
+monster_description/stregaros_crystal;Crystaros è una creatura impressionante, adornata da una serie di cristalli affilati e scintillanti che sporgono dal suo corpo. La sua caratteristica più evidente sono le due braccia giganti con una crescita torreggiante, simile a uno scudo, fatta di cristalli su di esse. Questa specie si nutre anche di cristalli e la sua dieta sembra aver influenzato la struttura del suo corpo.
+monster_description/viremoth;Viremoth è una creatura davvero enigmatica che può essere descritta solo come una nebbia senziente. È difficile dire se sia organica o innaturale, poiché sembra fuori dal mondo. Viremoth può manipolare la sua forma e densità, consentendogli di muoversi come una nebbia o condensarsi in una forma più solida. Può anche generare scariche elettriche che lo rendono un avversario formidabile se provocato. Tuttavia, Viremoth per lo più se ne sta per conto suo, fluttuando senza meta e osservando l'ambiente circostante
+prop_description/bush_cibarium;Forse l'aspetto più sorprendente del Florium Cibarium è la bioluminescenza alle estremità sia dello stelo che dei rami. Le punte luminose emettono una luce morbida e pulsante, proiettando un bagliore ultraterreno che è allo stesso tempo ipnotizzante e inquietante. Si ritiene che la bioluminescenza serva da esca per attrarre insetti e altre piccole creature verso la pianta per l'impollinazione e la dispersione.
+prop_description/cactus_vibro;Bulbus Tremor è un tipo insolito di cactus che cresce sottoterra, nascosto alla vista. La sua caratteristica più notevole è il grande stelo rotondo che può raggiungere diversi metri di diametro. Lo stelo è ricoperto da uno spesso strato di aghi di cristallo, che gli conferiscono un aspetto sbalorditivo e gli forniscono un meccanismo di difesa unico.
+prop_description/crystal_edgy;Vitreus Silex è una spettacolare formazione cristallina che può raggiungere dimensioni impressionanti. È nota per le sue caratteristiche distintive di superfici ampie e piatte e cristalli allungati che sporgono verso l'esterno con punte piatte. Le formazioni cristalline possono variare di colore, in base all'elemento primario trovato nella struttura cristallina. Questi cristalli si formano in ambienti ad alta pressione, spesso in profondità nella crosta della Galatea, dove il calore e la pressione si combinano per creare formazioni sbalorditive.
+prop_description/mushroom_exploding;Il fungo Displodo si trova più comunemente in ambienti bui e umidi, come grotte o tunnel sotterranei. È ricoperto di antenne, incredibilmente sensibili al tocco e alle vibrazioni. Quando le antenne entrano in contatto con qualcosa, l'intero fungo esplode in una scarica di sostanza bioluminescente. L'esplosione è abbastanza potente da far volare le spore in tutte le direzioni, diffondendo il fungo su un'ampia area.
+prop_description/mushroom_flat_top;Fungus Plana è una specie di fungo peculiare che cresce fino a raggiungere altezze impressionanti, spesso raggiungendo diversi metri di altezza. La sua struttura unica è costituita da due steli spessi che si ergono dal terreno e sostengono un grande cappello piatto con diversi strati. Il cappello è solitamente circolare o ovale e può variare di colore dal marrone scuro al beige chiaro.
+prop_description/mushroom_mycetoza;Fungus Mycetoza è uno spettacolo affascinante ma inquietante da vedere. Alto con il suo gambo relativamente sottile, ricoperto di filamenti di tessuto carnoso, sembra crescere dal nulla. La sua cima grande e spessa, ricoperta da intricati motivi di creste e scanalature, è uno spettacolo da vedere. Tuttavia, la caratteristica più sorprendente di questo fungo sono le sue appendici bioluminescenti che pendono dalla cima, che brillano nell'oscurità ed emettono un bagliore inquietante che illumina l'area circostante.
+prop_description/tree_wyginus;Bratus Flectus è un albero unico che si distingue per i suoi numerosi steli sottili e flessibili. Man mano che gli steli salgono verso la cima, iniziano a convergere, unendosi insieme in un unico tronco. Proprio in cima al tronco si trova un grande calice, che funge da chioma per l'albero. Il calice è composto da diversi strati di foglie larghe e sottili che sono bioluminescenti.
+voice_over/announcement/travel_not_unavailable;Viaggio non disponibile
+gui/popup/corrupted_game_data;Rilevato archivio dati di gioco corrotto. Esci dal gioco e verifica l'integrità dei file di installazione del gioco.
+gui/popup/save_state_missing_mods;Stai tentando di caricare uno stato di salvataggio creato con modifiche esterne al gioco (mod). Queste mod sono attualmente disabilitate o non installate. Di conseguenza, il gioco potrebbe bloccarsi quando si tenta di caricare questo stato di salvataggio, oppure potrebbe funzionare in modo imprevedibile. Sei sicuro di voler caricare questo stato di gioco?
+gui/menu/settings/mute_out_of_focus;Disattiva finestra inattiva
+biomes/caverns/caverns.biome;Caverne di cristallo
+gui/hud/tooltip/activate;Attivare

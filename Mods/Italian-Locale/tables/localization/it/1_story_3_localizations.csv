@@ -1,0 +1,468 @@
+﻿;ITALIAN
+DIALOG/objective/mech_nest_start_02;Ho rilevato una concentrazione insolita di creature vicino alla nostra posizione. Potrebbe trattarsi di un nido ostile.
+DIALOG/objective/mech_nest_start_03;Ashley, i miei sensori rilevano molto movimento attorno a un punto vicino alla nostra posizione. Potrebbe trattarsi di un nido ostile.
+DIALOG/objective/ashley_nest_start_02;Dovremmo controllare. Sto segnando quel punto sulla mappa.
+DIALOG/objective/ashley_nest_start_03;Andiamo a controllare quell’area il prima possibile. Non vogliamo che diventi un problema più grande.
+DIALOG/objective/mech_nest_encounter_02;È un nido ostile, Ashley. Dobbiamo distruggerlo per impedire a queste creature di attaccarci.
+DIALOG/objective/mech_nest_encounter_03;Attenzione. Stiamo avvicinandoci a un grande nido. Aspettati creature ostili nei dintorni.
+DIALOG/objective/ashley_nest_encounter_02;Affrontiamolo in fretta. Non possiamo permettere che l’infestazione si diffonda.
+DIALOG/objective/ashley_nest_encounter_03;Dobbiamo distruggerlo per fermare gli attacchi futuri. Facciamolo rapidamente.
+DIALOG/objective/mech_nest_end_02;Nido ostile distrutto. Minaccia eliminata.
+DIALOG/objective/mech_nest_end_03;Obiettivo completato, Ashley. Questo fermerà gli attacchi da quest’area.
+DIALOG/objective/ashley_nest_end_02;Bene, un problema in meno.
+DIALOG/objective/ashley_nest_end_03;Ok, torniamo ai nostri obiettivi principali.
+DIALOG/objective/mech_nest_multiple_start_02;I miei sensori rilevano una grande infestazione vicino alla nostra posizione. Le creature ostili si stanno radunando rapidamente in quell’area e inizieranno presto ad attaccarci. Dobbiamo eliminare questa minaccia al più presto.
+DIALOG/objective/mech_nest_multiple_start_03;Attenzione. Ho rilevato una grossa infestazione ostile vicino alla nostra posizione. Aspettati attacchi nemici continui finché non la eliminiamo.
+DIALOG/objective/ashley_nest_multiple_start_02;Ricevuto, Mr. Riggs. Dobbiamo distruggere tutti i nidi ostili il prima possibile.
+DIALOG/objective/ashley_nest_multiple_start_03;Capito. Raggiungiamo quell’area il prima possibile. Più aspettiamo, più sarà difficile liberarla.
+DIALOG/objective/ashley_nest_multiple_end_02;Penso che fosse l’ultimo di questi nidi. Speriamo che non tornino troppo presto.
+DIALOG/objective/ashley_nest_multiple_end_03;Sembra che abbiamo distrutto tutti i nidi in quest’area.
+DIALOG/objective/mech_nest_multiple_end_02;Ottimo lavoro, Ashley. Ora possiamo tornare agli obiettivi principali.
+DIALOG/objective/mech_nest_multiple_end_03;Obiettivo completato. Minaccia eliminata.
+DIALOG/objective/mech_boss_start_02;Ashley, i miei sensori hanno rilevato una creatura di classe Omega nelle vicinanze.
+DIALOG/objective/mech_boss_start_03;Attenzione, una creatura di classe Omega è stata rilevata vicino alla nostra posizione.
+DIALOG/objective/mech_boss_start_04;Creatura di classe Omega rilevata nelle vicinanze.
+DIALOG/objective/ashley_boss_start_02;Ricevuto, Mr. Riggs. Le Omega possono essere molto pericolose, dobbiamo fare attenzione.
+DIALOG/objective/ashley_boss_start_03;Interessante. Dovremmo andare sul posto per saperne di più.
+DIALOG/objective/ashley_boss_start_04;Potrebbe rappresentare una seria minaccia per noi. Andiamo a vedere di cosa si tratta.
+DIALOG/objective/mech_boss_encounter_02;Questa è la creatura di classe Omega rilevata in precedenza. È necessaria la massima cautela.
+DIALOG/objective/mech_boss_encounter_03;Abbiamo conferma visiva di una creatura di classe Omega, Ashley.
+DIALOG/objective/mech_boss_encounter_04;Creatura di classe Omega localizzata. Fai attenzione, Ashley.
+DIALOG/objective/ashley_boss_encounter_02;Non possiamo lasciarla girare liberamente in quest’area. Le creature più piccole si raduneranno attorno a lei e potrebbero sopraffarci. Dobbiamo eliminarla.
+DIALOG/objective/ashley_boss_encounter_03;È un grosso esemplare. Dobbiamo ucciderlo prima che raduni un’orda più grande.
+DIALOG/objective/ashley_boss_encounter_04;Scudi alzati, Mr. Riggs. Sembra che stia per attaccare.
+DIALOG/objective/mech_boss_end_02;Creatura di classe Omega eliminata. Obiettivo completato.
+DIALOG/objective/mech_boss_end_03;Obiettivo completato, Ashley. La creatura di classe Omega è stata neutralizzata.
+DIALOG/objective/mech_boss_end_04;Ottimo lavoro, Ashley. Minaccia eliminata.
+DIALOG/objective/ashley_boss_end_02;Era più dura del previsto. Speriamo che non ne crescano di più grandi.
+DIALOG/objective/ashley_boss_end_03;Sono sicuro che non era l’ultima. Mi aspetto che ne incontreremo di ancora più forti.
+DIALOG/objective/ashley_boss_end_04;Bene. Temevo che potesse radunare un’orda enorme in questa zona.
+DIALOG/objective/mech_shegret_first_encounter_start_01;Ashley, rilevo movimenti sotterranei. È molto insolito.
+DIALOG/objective/ashley_shegret_first_encounter_start_01;Cosa? Cosa sta succedendo? Dove stanno andando quei movimenti?
+DIALOG/objective/mech_shegret_first_encounter_start_02;Attenzione! Creature ostili stanno apparendo all’interno della nostra base. Rilevato un notevole drenaggio di energia.
+DIALOG/objective/ashley_shegret_first_encounter_start_02;Stanno assorbendo energia direttamente dalla rete elettrica. Dobbiamo ucciderle tutte prima che sia troppo tardi.
+DIALOG/objective/mech_shegret_first_encounter_end_01;Minaccia eliminata. Non rilevo più movimenti sospetti sopra o sotto terra. Quell’attacco era qualcosa di nuovo. Tu cosa ne pensi, Ashley?
+DIALOG/objective/ashley_shegret_first_encounter_end_01;Le nostre emissioni energetiche hanno chiaramente attirato queste creature. Hanno ignorato le difese e sono andate dritte alla rete elettrica come impazzite. Penso che abbiano anche evitato la luce della base. È stato un incontro davvero strano.
+DIALOG/objective/mech_shegret_first_encounter_end_02;Questa specie può rappresentare una minaccia significativa per la nostra presenza su Galatea 37?
+DIALOG/objective/ashley_shegret_first_encounter_end_02;Se gli attacchi diventassero più frequenti, potrebbero causare problemi, ma non credo siano una minaccia significativa da sole.
+DIALOG/objective/mech_shegret_first_encounter_end_03;Come vorresti chiamare questa specie?
+DIALOG/objective/ashley_shegret_first_encounter_end_03;Chiamiamoli Shegrets. Mi ricordano i vermi elettrici che ho visto su Orion.
+DIALOG/objective/mech_shegret_first_encounter_end_04;Ha! Un nome davvero azzeccato.
+DIALOG/objective/mech_shegret_attack_start_01;Attenzione. I miei scanner rilevano movimenti nel sottosuolo.
+DIALOG/objective/mech_shegret_attack_start_02;Rilevo attività anomala sotto terra. Ashley, qualcosa si sta muovendo verso la nostra base.
+DIALOG/objective/mech_shegret_attack_start_03;Ashley, rilevo più oggetti in movimento sotto terra. Si stanno dirigendo direttamente verso la nostra base.
+DIALOG/objective/ashley_shegret_attack_start_01;Shegret! Dobbiamo ucciderli prima che prosciughino le nostre riserve energetiche.
+DIALOG/objective/ashley_shegret_attack_start_02;È un attacco Shegret! Dobbiamo stanarli all’interno della nostra base.
+DIALOG/objective/ashley_shegret_attack_start_03;È uno sciame di Shegret! Dobbiamo proteggere la rete elettrica o assorbiranno tutta la nostra energia!
+DIALOG/objective/mech_shegret_attack_end_01;Minaccia eliminata. Non rilevo movimenti sospetti sopra o sotto terra.
+DIALOG/objective/mech_shegret_attack_end_02;Sciame di Shegret eliminato. Non rilevo più movimenti nel sottosuolo.
+DIALOG/objective/mech_shegret_attack_end_03;Abbiamo eliminato tutti gli Shegret dal perimetro della base.
+DIALOG/objective/ashley_shegret_attack_end_01;Bene. Controlliamo se la fornitura di energia è ancora integra.
+DIALOG/objective/ashley_shegret_attack_end_02;Ricevuto, Mr. Riggs. Speriamo che non ci colgano troppo spesso di sorpresa.
+DIALOG/objective/ashley_shegret_attack_end_03;Ok. Piazziamo qualche lampada in più dove ci hanno attaccato. Penso che abbiano paura delle fonti luminose forti.
+gui/hud/objective_name/generic/kermon_attack;Attenzione! Unità nemiche occultate in avvicinamento al perimetro della base!
+gui/hud/objective_name/generic/phirian_attack;Attenzione! Sciame Phirian in avvicinamento al perimetro della base!
+DIALOG/objective/mech_kermon_attack_start_01;Pericolo! I miei sensori rilevano unità occultate che si avvicinano alla base. Possono attaccare da qualsiasi direzione.
+DIALOG/objective/mech_kermon_attack_start_02;Pericolo! Unità occultate si stanno avvicinando al perimetro della base. Non saranno visibili sul radar finché non attaccano.
+DIALOG/objective/ashley_kermon_attack_end_01;Abbiamo sconfitto lo sciame di Kermon. Dobbiamo assicurarci di avere difese attorno a tutta la base, non possiamo sapere da dove attaccheranno la prossima volta.
+DIALOG/objective/ashley_kermon_attack_end_02;Abbiamo sconfitto quei Kermon, ma dobbiamo rimanere vigili. Possono essere estremamente pericolosi.
+DIALOG/objective/mech_kermon_attack_end_01;Abbiamo difeso la base dall'attacco dei Kermon. Si consiglia di verificare l'integrità della base.
+DIALOG/objective/mech_kermon_attack_end_02;Attacco Kermon sconfitto. Ricorda che i prossimi attacchi potrebbero essere più forti: rinforziamo le difese di conseguenza.
+DIALOG/objective/mech_creeper_start_01;Attenzione! Una pericolosa colonia di lievito acido è stata rilevata nelle vicinanze. Il suo vettore di crescita è minaccioso.
+DIALOG/objective/mech_creeper_start_02;Ashley, ho rilevato una colonia di lievito acido in espansione. Si sta diffondendo verso la base.
+DIALOG/objective/ashley_creeper_start_01;Brutte notizie. Dobbiamo trovare e distruggere la radice della colonia per fermarne la crescita.
+DIALOG/objective/ashley_creeper_start_02;Dobbiamo trovare e distruggere la radice della colonia prima che raggiunga la nostra base. Più aspettiamo, più difficile sarà eliminarla.
+DIALOG/objective/mech_creeper_encounter_01;La radice della colonia è vicina. Ashley, concentrati nel distruggere la cellula centrale, il resto morirà.
+DIALOG/objective/mech_creeper_encounter_02;Radice della colonia di lievito acido rilevata. Distruggi la cellula centrale per fermare la crescita.
+DIALOG/objective/ashley_creeper_encounter_01;Vedo la radice della colonia. Dobbiamo distruggerla per fermarne la crescita.
+DIALOG/objective/ashley_creeper_encounter_02;Abbiamo trovato la radice della colonia. Concentra tutto il fuoco sulla cellula di lievito più grande che vedi.
+DIALOG/objective/mech_creeper_end_01;Obiettivo completato. La radice della colonia è stata distrutta. La crescita del lievito acido si è arrestata.
+DIALOG/objective/mech_creeper_end_02;Ashley, confermo che la radice della colonia di lievito acido è morta. Le cellule rimanenti dovrebbero morire da sole.
+DIALOG/objective/ashley_creeper_end_01;Eccoci. Abbiamo distrutto la radice della colonia. Il resto dovrebbe morire da solo.
+DIALOG/objective/ashley_creeper_end_02;Abbiamo eliminato la radice, Mr. Riggs. Il resto della colonia dovrebbe estinguersi da solo. Possiamo tornare agli obiettivi principali.
+gui/hud/objective_name/story/rift_station_remain;Rimani su Galatea 37 (Facoltativo)
+DIALOG/story/headquarters/ashley_rift_station_open_05;No, non dobbiamo tornare attraverso il portale. Penso che ci sia un modo diverso.
+DIALOG/story/headquarters/ashley_ending_stay_09;È da un bel po' che penso alla possibilità di estendere la nostra missione su Galatea, ma ero titubante sul fatto che saremmo stati in grado di farcela. Sono certa che restare qui sia la scelta giusta, quella che porterà il maggior beneficio sia all’Umanità che a Galatea, e allo stesso tempo so che è la strada più lunga e più difficile.
+DIALOG/story/headquarters/mech_ending_stay_09;Quel che è fatto è fatto, Ashley. Hai preso la tua decisione. Hai un piano per andare oltre questo punto?
+DIALOG/story/headquarters/ashley_ending_stay_10;Sì, ma dovremo andare oltre i compiti originariamente previsti per la nostra missione e utilizzare tecnologie che non erano state progettate per questa tuta meccanica. Ho bisogno che tu acceda al repository dei modelli di progetti di Nano‑Fabbricazione Comune e decomprimi gli schemi specifici delle Megastrutture.
+DIALOG/story/headquarters/mech_ending_stay_10;Posso accedere a quei progetti, ma non posso usarli. Sono stati progettati per macchine di fabbricazione su scala cittadina molto più grandi. I requisiti di output di risorse per costruire Megastrutture superano le soglie operative dei miei sistemi di assemblaggio.
+DIALOG/story/headquarters/ashley_ending_stay_11;È vero, ma possiamo modificare gli schemi e costruirli pezzo per pezzo.
+DIALOG/story/headquarters/mech_ending_stay_11;È possibile, ma richiede molto tempo. Dovremmo aumentare la nostra potenza di calcolo per preparare queste megastrutture in tempi ragionevoli. Potrei costruire una base semi‑funzionante per un Laboratorio Cortex Quantico. È l’unica Megastruttura sulla quale posso iniziare a lavorare senza modifiche aggiuntive.
+DIALOG/story/headquarters/ashley_ending_stay_12;Faceva parte del mio piano, Mr. Riggs. Lasciare collassare il portale della Stazione di Fenditura può sembrare una decisione dell’ultimo minuto, ma maturava dentro di me da molto tempo. Comunque, proviamo prima a costruire questa cosa. Ti spiegherò il resto quando ci arriveremo.
+DIALOG/story/headquarters/mech_ending_stay_12;Ho aggiunto la base del Laboratorio Cortex Quantico all’elenco degli schemi disponibili. Controlla per favore i requisiti di costruzione e manutenzione, poi scegli con attenzione dove vuoi costruirlo. Ricorda che non deve per forza sorgere al nostro QG. Alcuni biomi potrebbero essere più adatti a ospitare questo progetto.
+DIALOG/story/headquarters/ashley_ending_stay_13;Questa Megastruttura è di tutt’altra categoria. I requisiti di energia e di plasma sovraccaricato sono molto più alti di qualsiasi cosa abbiamo mai costruito. Forse dovremmo cercare una nuova posizione della base per costruire questo mostro. La Stazione di Fenditura era un gioco da ragazzi in confronto.
+DIALOG/story/headquarters/mech_ending_stay_13;Beh, hai ciò che hai chiesto, Ashley.
+DIALOG/story/endgame/mech_qcl_start_01;Dispiegamento della base per il Laboratorio Cortex Quantico in corso. 
+DIALOG/story/endgame/ashley_qcl_start_01;Eccellente, una volta online potremo iniziare a riadattare ulteriori schemi per Megastrutture più grandi. Dobbiamo suddividere i loro progetti in parti più piccole che possiamo costruire pezzo per pezzo. 
+DIALOG/story/endgame/mech_qcl_start_02;Ashley, ricorda che questa è solo la base e il databank di elaborazione centrale di questa struttura. Questo impianto ci permetterà di archiviare ed elaborare dataset enormi anche quando non sarà sufficientemente alimentato. Tuttavia, se vogliamo sfruttarne le capacità di calcolo dovremo fornire enormi quantità di plasma sovraccaricato ed energia per mantenere operativo il Cortex Quantico. Inoltre, se vogliamo sbloccare il pieno potenziale di questa struttura, dovremo ricercare gli schemi di costruzione dei moduli rimanenti in una forma compatibile con i miei sistemi di assemblaggio.
+DIALOG/story/endgame/ashley_qcl_start_02;Ricevuto. Ho già contrassegnato specifiche Megastrutture da riadattare. Quando saremo pronti, potremo iniziare a reintegrare i piani per il Centro di Produzione dello Sciame Nanobot, la Lente Ipergravitazionale e il Laboratorio di Sostenibilità Idroponica. Dopo il completamento di queste tre Megastrutture, potremo passare alla più complessa: l’Officina di Arcologia.
+DIALOG/story/endgame/mech_qcl_start_03;Come intendi usare queste tecnologie, Ashley?
+DIALOG/story/endgame/ashley_qcl_start_03;Le missioni di colonizzazione guidate dai Riftbreaker seguono di solito un flusso standard. Fase uno: stabilire una base operativa avanzata con una Stazione di Fenditura quantisticamente intrecciata collegata alla Terra. Fase due: le forze di spedizione terrestri rinforzano la base avanzata con forza schiacciante e costruiscono rapidamente l’economia in loco estraendo a strascico la superficie del pianeta e usando le sue risorse senza limiti. Fase tre: enormi complessi industriali divorano il paesaggio locale, spostando o distruggendo in modo permanente l’ecosistema in nome dell’efficienza e del controllo. Fase quattro: una volta che il pianeta è completamente sottomesso e ristrutturato, arrivano i coloni civili ad insediarsi su ciò che resta, spesso ignari di ciò che è stato cancellato per far loro spazio. Voglio interrompere la Fase 2 e la Fase 3 di questo processo.
+DIALOG/story/endgame/mech_qcl_start_04;La Fase 2 e la Fase 3 sono necessarie per creare condizioni di vita sicure per i futuri coloni. Il protocollo di colonizzazione indica che il loro impatto sull’ecosistema locale dovrebbe essere minimo.
+DIALOG/story/endgame/ashley_qcl_start_04;All’inizio funzionava così, ma le cose sono cambiate, Mr. Riggs. Pensa a cosa è successo su Solune 6, Vaelora 12 o anche su Ephorion 9b. La storia recente mostra che la Fase Due e la Fase Tre diventano un pretesto per uno sfruttamento industriale sfrenato. Il collasso della Fenditura ci ha comprato tempo extra da usare per preparare il pianeta a una coabitazione guidata dalla tecnologia. Queste Megastrutture ci permetteranno di affermare che Galatea 37 è pronta per la Fase Quattro del processo di colonizzazione.
+DIALOG/story/endgame/mech_qcl_start_05;Mi dispiace, Ashley, ma ancora non capisco lo scopo specifico che hai in mente per questi edifici.
+DIALOG/story/endgame/ashley_qcl_start_05;In breve: il Centro di Produzione e Controllo dello Sciame Nanobot ci darà la capacità di costruire strutture enormi senza introdurre macchine di fabbricazione su scala cittadina. La Lente Ipergravitazionale ci permetterà di portare oggetti grandi come le arcologie in orbita senza costruire spaceport. Il Laboratorio di Sostenibilità Idroponica ci consentirà di studiare e produrre cibo per i coloni in modo sostenibile. Dovrebbe anche aumentare l’efficienza dei nostri coltivatori, così da estrarre le risorse necessarie dal pianeta in modo più “amico”. L’Officina di Arcologia ci permetterà di costruire colonie temporanee autosufficienti per le persone che arrivano su Galatea 37. Questo darà loro il tempo di adattarsi alle condizioni locali in un ambiente sicuro.
+DIALOG/story/endgame/mech_qcl_start_06;Un’arcologia è una città semi autosufficiente. Se la costruiamo direttamente in orbita sopra il pianeta, sarà al riparo dalla fauna locale. L’infrastruttura che avremo costruito a terra sarà sufficiente a sostenerla. Credo di aver capito quella parte, ma perché la gente dovrebbe vivere in una città nello spazio se l’obiettivo è colonizzare il pianeta?
+DIALOG/story/endgame/ashley_qcl_start_06;Le arcologie rimarranno in orbita finché i coloni non troveranno condizioni ottimali per un insediamento a terra. In seguito, dovranno atterrare ed espandere lentamente i loro habitat sul pianeta. È un vecchio concetto teorico di colonizzazione proposto per la prima volta dagli astrobiologi Vyremsky e Bomack alla fine del ventunesimo secolo. Non ho inventato tutto questo. Sulla Terra ci sono molte persone intelligenti che sapranno come prendersi cura di questo pianeta. Voglio poter passare direttamente a loro le redini.
+DIALOG/story/endgame/mech_qcl_start_07;Ok, inizia ad avere senso. Salverò il resto delle domande per dopo.
+DIALOG/story/endgame/ashley_qcl_start_07;Grazie, Mr. Riggs. Ora torniamo al lavoro.
+DIALOG/story/endgame/mech_qcl_complete_01;Costruzione del Laboratorio Cortex Quantico completata. Integrità della struttura primaria confermata. Il databank di elaborazione centrale funziona a parametri ottimali.
+DIALOG/story/endgame/ashley_qcl_complete_01;Perfetto. Grazie alla maggiore capacità di memoria di lavoro, possiamo finalmente iniziare a riformattare gli schemi delle Megastrutture. I progetti del Centro di Controllo dello Sciame Nanobot, della Lente Ipergravitazionale e del Laboratorio di Sostenibilità Idroponica sono disponibili per l’adattamento.
+DIALOG/story/endgame/mech_qcl_complete_02;Teoricamente potremmo rielaborare questi schemi anche senza alimentare il Cortex Quantico. Tuttavia, questo edificio da solo è più potente di tutta la nostra infrastruttura di ricerca esistente messa insieme. Consiglio di fornire il plasma sovraccaricato e l’energia richiesti per portare la struttura alla piena capacità operativa.
+DIALOG/story/endgame/ashley_qcl_complete_02;Possiamo rendere il Laboratorio Cortex Quantico ancora più efficiente aggiornandolo con tutti i componenti rimanenti. Così potremmo ricercare le restanti Megastrutture molto più velocemente. 
+DIALOG/story/endgame/mech_qcl_complete_03;Giusto punto, Ashley. Controlla per favore i requisiti di risorse per ogni Megastruttura. Consumano tipi di risorse diversi. Potrebbe essere efficiente costruirle fuori ordine man mano che le risorse richieste diventano disponibili.
+DIALOG/story/endgame/ashley_qcl_upgrade_01_start_01;Il Coriolis Plasma Nullifier per il Laboratorio Cortex Quantico ci aiuterà a ridurre la deriva rotazionale negli array di plasma. Migliorerà la stabilità operativa del laboratorio alle frequenze più alte.
+DIALOG/story/endgame/mech_qcl_upgrade_01_start_01;Affermativo. Assemblaggio del Nullifier in corso. Questo componente sopprimerà le distorsioni laterali nel flusso di plasma sovraccaricato, migliorando così la velocità di elaborazione complessiva.
+DIALOG/story/endgame/mech_qcl_upgrade_01_complete_01;Aggiornamento completato: Coriolis Plasma Nullifier installato nel Laboratorio Cortex Quantico. Il flusso di plasma si è stabilizzato. Le fluttuazioni laterali sono scese a livelli trascurabili.
+DIALOG/story/endgame/ashley_qcl_upgrade_01_complete_01;Eccellente. Questo upgrade ha migliorato sensibilmente la nostra velocità di ricerca complessiva. Possiamo migliorarla ulteriormente costruendo altri componenti del QCL.
+DIALOG/story/endgame/ashley_qcl_upgrade_02_start_01;Sto installando la Centrifuga a Ipercondensato Stabilizzato per il QCL. Il laboratorio ha bisogno di un ambiente condensato stabile per la conservazione ad alta fedeltà dei dati durante cicli prolungati.
+DIALOG/story/endgame/mech_qcl_upgrade_02_start_01;Inizio assemblaggio della centrifuga. Una volta stabilizzata, questo modulo ridurrà la decoerenza quantistica e migliorerà la consistenza computazionale del reticolo neurale durante le operazioni prolungate.
+DIALOG/story/endgame/mech_qcl_upgrade_02_complete_01;Aggiornamento del Laboratorio Cortex Quantico completato. Centrifuga a Ipercondensato Stabilizzato online. I sistemi core mostrano ora un aumento del 63% dell’integrità dei dati sotto carichi di elaborazione elevati.
+DIALOG/story/endgame/ashley_qcl_upgrade_02_complete_01;Eccellente. Le simulazioni di lungo periodo saranno molto più affidabili. Siamo un passo più vicini alla piena capacità operativa del QCL.
+DIALOG/story/endgame/ashley_qcl_upgrade_03_start_01;Avvio l’installazione dell’Acceleratore Ionico a Plasma Sovraccaricato per il QCL. Per sfruttare appieno il Cortex Quantico, dobbiamo migliorarne l’efficienza di trattamento del plasma.
+DIALOG/story/endgame/mech_qcl_upgrade_03_start_01;Ricevuto. Questo modulo migliorerà significativamente l’efficienza di erogazione dell’energia su tutti i canali di calcolo neurale. I protocolli di regolazione del plasma sono ora attivi.
+DIALOG/story/endgame/mech_qcl_upgrade_03_complete_01;Aggiornamento del Laboratorio Cortex Quantico finito. Installazione dell’Acceleratore Ionico a Plasma Sovraccaricato completata. L’efficienza di trattamento del plasma del Cortex Quantico è aumentata del 67,4%. La capacità di elaborazione è stata ricalibrata di conseguenza.
+DIALOG/story/endgame/ashley_qcl_upgrade_03_complete_01;Eccellente, abbiamo quasi terminato gli upgrade del QCL. Ne manca solo uno.
+DIALOG/story/endgame/ashley_qcl_upgrade_04_start_01;Avvio la costruzione dei Riciclatori di Materia Bruna di Kotiuk. Il Cortex Quantico sta già generando enormi quantità di scarti di plasma raffreddato. Ci serve un modo per processare efficientemente quella materia bruna e recuperare l’energia residua.
+DIALOG/story/endgame/mech_qcl_upgrade_04_start_01;Ricevuto. Inizializzo il dispiegamento dei contenitori. Questi sistemi isoleranno e neutralizzeranno i residui di plasma, accelereranno la gestione degli scarti e ricicleranno l’energia termica residua nel circuito di alimentazione del Cortex Quantico.
+DIALOG/story/endgame/mech_qcl_upgrade_04_complete_01;Aggiornamento del Laboratorio Cortex Quantico completato. I Riciclatori di Materia Bruna di Kotiuk sono pienamente operativi. Il flusso di materia bruna è stabilizzato. I sistemi di recupero energetico operano alla massima efficienza. Tutti i sottosistemi core riportano piena sincronizzazione. Il Laboratorio Cortex Quantico ha raggiunto il 100% della capacità operativa.
+DIALOG/story/endgame/ashley_qcl_upgrade_04_complete_01;Eccellente. Con l’intero sistema al massimo, ora possiamo elaborare, adattare e distribuire gli schemi delle Megastrutture senza ritardi. È stata un’impresa enorme: non c’è da stupirsi che queste Megastrutture non siano pensate per essere costruite dai Riftbreaker.
+DIALOG/story/endgame/mech_qcl_upgrade_04_complete_02;Il tuo comportamento non rientra nello stereotipo tipico dei Riftbreaker, Ashley.
+DIALOG/story/endgame/ashley_ghl_start_01;Avvio il dispiegamento della base della Lente Ipergravitazionale. Una volta operativa, ci permetterà di spostare in orbita strutture massicce, come officine di costruzione in gravità zero o arcologie, senza ricorrere a sistemi di lancio convenzionali e spaceport. Sfortunatamente, non può aiutarci a spostare oggetti più piccoli come gli edifici della base.
+DIALOG/story/endgame/mech_ghl_start_01;È una struttura altamente specializzata. È composta da quattro Generatori di Raggi Gravitone Fase‑coerenti simmetrici e da un’antenna di lente centrale. È difficile da mantenere a causa del calore intenso generato da questi componenti. Le sue temperature operative sono troppo elevate per i meccanismi di raffreddamento tipici.
+DIALOG/story/endgame/ashley_ghl_start_02;Dovremo predisporre una rete di Raffinerie di Super Refrigerante per mantenere in funzione questa macchina. Potrà essere impegnativo costruirla e mantenerla, ma è un elemento chiave del nostro piano. 
+DIALOG/story/endgame/mech_ghl_start_02;È una macchina meravigliosa, Ashley, ma non sarebbe più semplice costruire gli insediamenti a terra fin dall’inizio?
+DIALOG/story/endgame/ashley_ghl_start_03;È esattamente così che si svolgerebbero la Fase Due e la Fase Tre del processo standard di colonizzazione. Le spedizioni militari si aprirebbero la strada dalla Stazione di Fenditura verso le aree più ricche di risorse. Distruggerebbero tutto lungo il percorso e ucciderebbero tutta la fauna locale percepita come minaccia. Le colonie aeree possono essere facilmente spostate in luoghi più remoti e sicuri. Grazie ai nostri sforzi, i ricercatori che arriveranno qui potranno individuare aree più sicure prima di far atterrare le loro arcologie.
+DIALOG/story/endgame/mech_ghl_start_03;Non abbiamo incontrato una sola posizione priva di fauna ostile. 
+DIALOG/story/endgame/ashley_ghl_start_04;È vero, ma non abbiamo nemmeno provato a evitarla. Siamo saltati in un punto casuale del pianeta e ci siamo aggrappati alla sopravvivenza. So che il conflitto è inevitabile, ma possiamo ridurlo al minimo.
+DIALOG/story/endgame/mech_ghl_complete_01;Costruzione della Lente Ipergravitazionale completata. L’antenna di lensing primaria è pronta per l’operazione. I protocolli di manipolazione di massa a lungo raggio sono pronti per i test.
+DIALOG/story/endgame/ashley_ghl_complete_01;Questa struttura non ci offre molti vantaggi nella costruzione su piccola scala. Tuttavia, l’antenna di lensing gravitazionale può essere abbinata allo Scanner Orbitale per aiutarci durante le missioni di esplorazione. Aumenterà la precisione delle nostre letture della forza gravitazionale, consentendoci di rilevare vari punti di interesse all’interno di una data località planetaria.
+DIALOG/story/endgame/mech_ghl_complete_02;Corretto, Ashley. Tuttavia, ricorda che questo edificio deve essere alimentato per fornire tale vantaggio. Richiede una quantità considerevole di Super Refrigerante ed Energia per funzionare.
+DIALOG/story/endgame/ashley_ghl_complete_02;Questo è solo il primo passo. Sono necessari quattro Generatori di Raggi Gravitone Fase‑coerenti aggiuntivi per poter spostare un’Arcologia in orbita. Dobbiamo completare tutti i suoi componenti per renderla pienamente operativa. 
+DIALOG/story/endgame/mech_ghl_generator1_01;Inizio costruzione del primo Generatore di Raggio Gravitone Fase‑coerente. Questa unità fungerà da ancoraggio di base per l’intero array. La loro calibrazione deve essere molto precisa.
+DIALOG/story/endgame/ashley_ghl_generator1_01;Ricevuto. Una volta online questo generatore, possiamo iniziare a costruire il successivo. Devono essere realizzati in ordine sequenziale.
+DIALOG/story/endgame/mech_ghl_generator1_02;Generatore di Raggio Gravitone Fase‑coerente Uno per la Lente Ipergravitazionale operativo. Stabilità dell’output confermata. In attesa di sincronizzazione con unità aggiuntive.
+DIALOG/story/endgame/ashley_ghl_generator1_02;Eccellente. Questo generatore ci permetterà di rilevare più punti di interesse durante la ricognizione di nuove aree. Prepariamoci a costruire il prossimo generatore.
+DIALOG/story/endgame/mech_ghl_generator2_01;Avvio dispiegamento del secondo Generatore di Raggio Gravitone. Calibrazione del differenziale di fase in corso.
+DIALOG/story/endgame/ashley_ghl_generator2_01;Copiato. Con questa unità online, possiamo iniziare a testare il controllo direzionale sull’array di lensing.
+DIALOG/story/endgame/mech_ghl_generator2_02;Generatore di Raggio Gravitone Fase‑coerente Due per la Lente Ipergravitazionale completato. Modulazione a doppio raggio sincronizzata. Avvio test di modulazione direzionale.
+DIALOG/story/endgame/ashley_ghl_generator2_02;Questa unità ci permetterà di rilevare ancora più punti di interesse durante le missioni di esplorazione. Stiamo facendo buoni progressi. Ancora due e questa Megastruttura sarà pienamente operativa.
+DIALOG/story/endgame/mech_ghl_generator3_01;Inizio costruzione del terzo Generatore di Raggio Gravitone Fase‑coerente. I sistemi di sincronizzazione del raggio si preparano all’integrazione.
+DIALOG/story/endgame/ashley_ghl_generator3_01;Dovremo ricontrollare le modifiche apportate a tutti i connettori dei componenti. Dobbiamo essere estremamente cauti con questo edificio.
+DIALOG/story/endgame/mech_ghl_generator3_02;Generatore di Raggio Gravitone Fase‑coerente Tre per la Lente Ipergravitazionale attivo. Stabilizzazione del campo triangolare riuscita. Migliora la calibrazione dell’antenna di lensing.
+DIALOG/story/endgame/ashley_ghl_generator3_02;Perfetto. Questo ci dà controllo spaziale su tre assi e maggiore consapevolezza situazionale durante la ricognizione di nuove missioni. Siamo a un passo dalla piena capacità operativa della GHL.
+DIALOG/story/endgame/mech_ghl_generator4_01;Dispiegamento dell’ultimo Generatore di Raggio Gravitone Fase‑coerente avviato. Il completamento di questa unità abiliterà la capacità operativa completa.
+DIALOG/story/endgame/ashley_ghl_generator4_01;È l’ultimo tassello del puzzle. Una volta online, potremo spostare grandi oggetti in orbita senza accendere un solo booster. Ci permetterà di tenere un’arcologia sospesa mentre gli sciami di nanobot la assemblano. Sollevare un oggetto di tali dimensioni richiederebbe un enorme sforzo con i mezzi convenzionali.
+DIALOG/story/endgame/mech_ghl_generator4_02;Il Colonnello Norstrom aveva ragione su quella parte del sacrificio, Ashley. La maggior parte dei Riftbreaker non rischierebbe di prolungare la propria missione per impostare tutta questa infrastruttura elaborata. Il tuo piano è solido. Ridurrà i danni all’ecosistema galateano, ma stai mettendo in gioco la tua vita. Queste missioni dovrebbero essere completate il più rapidamente possibile per aumentare le probabilità di sopravvivenza.
+DIALOG/story/endgame/ashley_ghl_generator4_02;Oh, andiamo, Mr. Riggs. La nostra base è armata fino ai denti, e posso saltare al QG ogni volta che vieni distrutto. L’ondata d’attacco che ha colpito la nostra base quando abbiamo attivato la Stazione di Fenditura è stata la sfida più dura che potessimo aspettarci. Sono più al sicuro qui che a casa.
+DIALOG/story/endgame/mech_ghl_generator4_03;Stai banalizzando la questione, Ashley. Forse è questo che ti rende adatta al lavoro.
+DIALOG/story/endgame/mech_ghl_generator4_04;Generatore di Raggio Gravitone Fase‑coerente Quattro per la Lente Ipergravitazionale pienamente operativo. Tutti i componenti della Megastruttura sono completi. La Lente Ipergravitazionale è ora pronta a funzionare alla massima capacità.
+DIALOG/story/endgame/ashley_ghl_generator4_03;Eccellente! Finire la Lente Ipergravitazionale è un grande traguardo. Possiamo finalmente depennarla dalla lista.
+DIALOG/story/endgame/mech_nanobot_start_01;Avvio costruzione del Centro di Controllo dello Sciame Nanobot. Questa struttura ci consentirà di coordinare l’attività autonoma dei nanobot su grandi cantieri.
+DIALOG/story/endgame/ashley_nanobot_start_01;Eccellente. Ci serve questo centro per fabbricare Arcologie e altre strutture molto grandi. Gli sciami di nanobot ci permetteranno di costruire habitat massicci e autosufficienti senza rimodellare l’ambiente con l’industria pesante tradizionale. L’Officina di Arcologia in particolare si affida a operazioni nanobot precise per costruire strutture sospese in aria.
+DIALOG/story/endgame/mech_nanobot_start_02;Una volta attivo, il Centro di Controllo Nanobot assorbe una quantità significativa di energia e richiede un numero consistente di Nuclei AI per mantenere la coordinazione. Avremo bisogno di una rete energetica stabile e di infrastrutture dedicate a supporto.
+DIALOG/story/endgame/ashley_nanobot_start_02;Il Centro di Controllo Nanobot può essere un aiuto notevole nell’impostare nuove sedi di base. Una volta online, consentirà di operare da remoto un numero limitato di Nuclei AI aggiuntivi in qualsiasi località planetaria senza costruire Hub AI locali.
+DIALOG/story/endgame/mech_nanobot_complete_01;La costruzione della base per il Centro di Controllo dello Sciame Nanobot è completa. L’Antenna della Rete di Controllo Operativo è sincronizzata con lo Scanner Planetario ed è pronta per operazioni di assemblaggio distribuite.
+DIALOG/story/endgame/ashley_nanobot_complete_01;Grazie a questo abbinamento, potremo beneficiare dell’operatività remota di Nuclei AI aggiuntivi in altre località planetarie senza costruire Hub AI locali. Tuttavia, questa struttura deve rimanere sempre pienamente operativa. Qualsiasi interruzione comporterà l’immediata perdita della capacità estesa dei Nuclei AI.
+DIALOG/story/endgame/mech_nanobot_complete_02;Permettimi di ricordarti, Ashley, che questo è solo il primo passo. Per abilitare la costruzione su larga scala di un’Arcologia, dobbiamo completare altri quattro componenti del Centro di Controllo dello Sciame Nanobot. Raccomando di prioritarne la ricerca e il dispiegamento il prima possibile.
+DIALOG/story/endgame/ashley_nanobot_complete_02;Ci servirà molto più Titanio per finire. Mettiamoci al lavoro.
+DIALOG/story/endgame/mech_nanobot_upgrade_01_start_01;Inizio costruzione della Prima Forgia Nanitica. Questo componente aumenterà la capacità produttiva del Centro di Controllo dello Sciame Nanobot.
+DIALOG/story/endgame/ashley_nanobot_upgrade_01_start_01;Questo aumenterà il nostro limite di Nuclei AI remoti. Con la Forgia online, potremo controllare più unità sul pianeta senza costruire Hub AI locali.
+DIALOG/story/endgame/mech_nanobot_upgrade_01_complete_01;Prima Forgia Nanitica per il Centro di Controllo dello Sciame Nanobot pienamente operativa. L’output dei nanobot è aumentato in modo significativo. Sincronizzazione con i sistemi di controllo confermata.
+DIALOG/story/endgame/ashley_nanobot_upgrade_01_complete_01;Eccellente. Un altro passo verso la piena autonomia. Più Nuclei AI a nostra disposizione, ovunque servano.
+DIALOG/story/endgame/mech_nanobot_upgrade_02_start_01;Avvio installazione dell’Acceleratore di Atomizzazione delle Risorse. Questo componente migliorerà l’efficienza di acquisizione risorse per il Centro di Controllo dello Sciame Nanobot.
+DIALOG/story/endgame/ashley_nanobot_upgrade_02_start_01;Questo aumenterà la velocità di elaborazione e ci permetterà di attivare da remoto ancora più Nuclei AI. Ogni upgrade amplia la nostra portata senza aumentare l’impronta.
+DIALOG/story/endgame/mech_nanobot_upgrade_02_complete_01;L’Acceleratore di Atomizzazione delle Risorse per il Centro di Controllo dello Sciame Nanobot è online. La velocità di lavorazione delle materie prime è aumentata, permettendoci di supportare sciami di nanobot più grandi.
+DIALOG/story/endgame/ashley_nanobot_upgrade_02_complete_01;Perfetto. Con l’efficienza extra, ora possiamo mantenere Nuclei AI remoti aggiuntivi senza sovraccaricare il sistema.
+DIALOG/story/endgame/mech_nanobot_upgrade_03_start_01;Inizio costruzione del Riciclatore Nanobot. Questo upgrade migliorerà l’efficienza dei materiali all’interno del Centro di Controllo dello Sciame Nanobot recuperando e rielaborando i bot disattivati.
+DIALOG/story/endgame/ashley_nanobot_upgrade_03_start_01;Ridurrà lo stress del sistema rimuovendo le unità inattive e liberando spazio per allocare altri Nuclei AI remoti. Stiamo costruendo una struttura di comando scalabile, un nodo alla volta.
+DIALOG/story/endgame/mech_nanobot_upgrade_03_complete_01;Riciclatore Nanobot per il Centro di Controllo dello Sciame Nanobot pienamente operativo. La perdita interna di risorse è diminuita e i sistemi di recupero sono stabili.
+DIALOG/story/endgame/ashley_nanobot_upgrade_03_complete_01;Questo libera banda e ci dà margine per espandere. Più Nuclei AI online e meno materiali sprecati.
+DIALOG/story/endgame/mech_nanobot_upgrade_04_start_01;Upgrade finale in corso. Costruzione della Seconda Forgia Nanitica per il Centro di Controllo dello Sciame Nanobot.
+DIALOG/story/endgame/ashley_nanobot_upgrade_04_start_01;Lo sciame di nanobot non è solo una questione di numeri. Per assemblare un’Arcologia serve una forza di fabbricazione abbastanza grande e stabile da supportare elementi costruttivi enormi. Senza questa forgia, lo sciame non ha sufficiente throughput per sollevare, posizionare e fondere componenti di scala megastrutturale. Una volta completato questo upgrade, potremo finalmente gestire dimensioni e complessità dell’assemblaggio su scala Arcologia.
+DIALOG/story/endgame/mech_nanobot_upgrade_04_complete_01;Seconda Forgia Nanitica per il Centro di Controllo dello Sciame Nanobot operativa. La produzione di nanobot ha raggiunto la capacità di picco.
+DIALOG/story/endgame/ashley_nanobot_upgrade_04_complete_01;È fatta. Questa Megastruttura è finalmente completa. Puoi depennarla dalla lista, Mr. Riggs. Ora lo sciame è abbastanza grande e veloce da supportare il processo di assemblaggio dell’Arcologia. 
+DIALOG/story/endgame/mech_hydroponic_start_01;Avvio costruzione del Laboratorio di Sostenibilità Idroponica. Il progetto base include la Torre Nanopollinatrice e una singola Stazione di Flusso Nutrizionale. Dobbiamo costruire in totale otto stazioni di processo per completare questa megastruttura.
+DIALOG/story/endgame/ashley_hydroponic_start_01;Eccellente. Al suo core, questa struttura garantisce la sicurezza alimentare a lungo termine. Produce cibo vegetale ad alta efficienza per gli abitanti delle Arcologie usando un sistema idroponico a ciclo chiuso. La seconda funzione del laboratorio è l’analisi botanica. Accelera la crescita della vegetazione nella sua area operativa tramite nanopollinatori e studia continuamente la flora galateana locale per identificare specie con proprietà ideali per la produzione alimentare: crescita rapida, alta densità nutrizionale e resilienza climatica. I campioni migliori sono selezionati per la coltivazione e l’uso futuro.
+DIALOG/story/endgame/mech_hydroponic_start_02;Sei sicura che questo livello di stimolazione artificiale non interferirà eccessivamente con l’ecosistema locale?
+DIALOG/story/endgame/ashley_hydroponic_start_02;È una preoccupazione legittima, Mr. Riggs. Ma tutto ciò che fa il laboratorio è controllato e misurato. I nanopollinatori non sostituiscono i processi naturali: li potenziano. Stiamo solo accelerando i cicli di crescita e aiutando le specie native a raggiungere più rapidamente il loro potenziale.
+DIALOG/story/endgame/mech_hydroponic_start_03;Stai applicando di fatto una pressione di selezione artificiale accelerata. Potrebbe avere implicazioni a lungo termine sulla biodiversità.
+DIALOG/story/endgame/ashley_hydroponic_start_03;E noi stiamo studiando ogni variabile lungo il percorso. Il laboratorio analizza continuamente la flora locale, isola le specie più nutrienti e adattabili e le integra in sistemi alimentari sostenibili. È evoluzione — solo con guida.
+DIALOG/story/endgame/mech_hydroponic_start_04;Quindi questa struttura funge sia da hub di produzione alimentare sia da centro di ricerca botanica?
+DIALOG/story/endgame/ashley_hydroponic_start_04;Esatto. Nutre le persone che vivono nelle Arcologie e ci dà resilienza a lungo termine. Più comprendiamo la biologia di questo pianeta, meglio possiamo conviverci.
+DIALOG/story/endgame/mech_hydroponic_complete_01;Costruzione del Laboratorio di Sostenibilità Idroponica completata. Tutti i sistemi primari sono stabili e pronti all’attivazione.
+DIALOG/story/endgame/ashley_hydroponic_complete_01;Ottimo lavoro. Questa struttura richiederà quantità consistenti di Acqua filtrata e Biomassa per mantenere la produzione alimentare continua, ma mentre è operativa accelererà significativamente la crescita delle piante in tutta la regione. Dovrebbe darci un grande vantaggio nella coltivazione sostenibile delle risorse.
+DIALOG/story/endgame/mech_hydroponic_complete_02;Affermativo. Tuttavia, ricorda che se intendiamo rifornire di cibo un’intera Arcologia e i suoi primi abitanti civili, dovremo completare la costruzione di tutti i componenti del Laboratorio Idroponico. 
+DIALOG/story/endgame/ashley_hydroponic_complete_02;Stazioni di Flusso Nutrizionale aggiuntive aumenteranno anche l’efficienza della Torre Nanopollinatrice e accelereranno ulteriormente la crescita delle piante. 
+DIALOG/story/endgame/mech_hydroponic_upgrade_01_start_01;Inizio installazione della seconda Stazione di Flusso Nutrizionale per il Laboratorio di Sostenibilità Idroponica. Ashley, nota che gran parte della struttura sarà sotterranea: condotti nutrizionali, regolatori termici e pompe di circolazione.
+DIALOG/story/endgame/ashley_hydroponic_upgrade_01_start_01;Mantenere l’infrastruttura interrata riduce l’impronta della Megastruttura in superficie. Una volta online questa unità, dovremmo vedere un aumento dell’efficienza della Torre Nanopollinatrice e una crescita più rapida della vegetazione locale.
+DIALOG/story/endgame/mech_hydroponic_upgrade_01_complete_01;La seconda Stazione di Flusso Nutrizionale per il Laboratorio di Sostenibilità Idroponica è ora operativa. I sistemi di flusso risorse e di accelerazione delle piante rispondono normalmente.
+DIALOG/story/endgame/ashley_hydroponic_upgrade_01_complete_01;Bene. Questo aumenterà ulteriormente l’efficienza di tutte le Stazioni di Raccolta presenti in questa località.
+DIALOG/story/endgame/mech_hydroponic_upgrade_02_start_01;Dispiegamento di due Stazioni di Flusso Nutrizionale aggiuntive per il Laboratorio di Sostenibilità Idroponica.
+DIALOG/story/endgame/ashley_hydroponic_upgrade_02_start_01;La flora galateana è unica perché può estrarre direttamente dal suolo la maggior parte delle risorse di cui abbiamo bisogno. Possiamo imparare a coltivare la maggior parte delle specie locali raccogliendone campioni con il Bioscanner o tramite raccolta.
+DIALOG/story/endgame/mech_hydroponic_upgrade_02_start_02;Stai cercando di insegnarmi questa saggezza sconosciuta o stai parlando da sola, Ashley?
+DIALOG/story/endgame/ashley_hydroponic_upgrade_02_start_02;Be’, sono contenta che tu sia così istruito.
+DIALOG/story/endgame/mech_hydroponic_upgrade_02_start_03;Chi viaggia molto, molto sa.
+DIALOG/story/endgame/mech_hydroponic_upgrade_02_complete_01;Le Stazioni di Flusso Nutrizionale Tre e Quattro per il Laboratorio di Sostenibilità Idroponica sono pienamente integrate.
+DIALOG/story/endgame/ashley_hydroponic_upgrade_02_complete_01;Eccellente, questo accelererà ulteriormente la crescita delle piante.
+DIALOG/story/endgame/mech_hydroponic_upgrade_03_start_01;Avvio installazione delle Stazioni di Flusso Nutrizionale Cinque e Sei. I sistemi di condutture più profonde vengono estesi per collegarle al collettore centrale sotto l’impianto.
+DIALOG/story/endgame/ashley_hydroponic_upgrade_03_start_01;Bene. Ci serve solo un altro upgrade per completare questa Megastruttura.
+DIALOG/story/endgame/mech_hydroponic_upgrade_03_complete_01;Le Stazioni Cinque e Sei per il Laboratorio di Sostenibilità Idroponica sono operative.
+DIALOG/story/endgame/ashley_hydroponic_upgrade_03_complete_01;Ricevuto, Mr. Riggs. L’efficienza della struttura è ora al 75%. Ci serve solo un altro upgrade per supportare completamente un’Arcologia.
+DIALOG/story/endgame/mech_hydroponic_upgrade_04_start_01;Upgrade finale in corso. Costruzione delle ultime due Stazioni di Flusso Nutrizionale per il Laboratorio di Sostenibilità Idroponica.
+DIALOG/story/endgame/ashley_hydroponic_upgrade_04_start_01;Ben fatto, Mr. Riggs! Questo è l’ultimo upgrade per questa Megastruttura.
+DIALOG/story/endgame/mech_hydroponic_upgrade_04_complete_01;Le Stazioni di Flusso Nutrizionale Sette e Otto per il Laboratorio di Sostenibilità Idroponica sono pienamente operative. Capacità di flusso completa raggiunta.
+DIALOG/story/endgame/ashley_hydroponic_upgrade_04_complete_01;Fantastico! Questa Megastruttura è finalmente completa. Un altro segno sulla lista, Mr. Riggs. Questa struttura sarà sufficiente a supportare un’intera Arcologia.
+DIALOG/story/endgame/mech_arcology_prep_01;Rapporto di stato: tutte le Megastrutture critiche sono pronte all’operazione. Laboratorio Cortex Quantico, Lente Ipergravitazionale, Centro di Controllo dello Sciame Nanobot e Laboratorio di Sostenibilità Idroponica sono stati completamente integrati con tutti i componenti necessari. Abbiamo raggiunto la soglia necessaria per avviare la costruzione dell’Officina di Arcologia.
+DIALOG/story/endgame/ashley_arcology_prep_01;Questo edificio è diverso dalle altre Megastrutture. Richiede ancora più risorse delle precedenti, ma grazie ai progressi già compiuti possiamo costruirlo in un unico passaggio. Servirà come piattaforma di lavoro per la costruzione della prima Arcologia. Saremo pronti a iniziare quel progetto non appena la base sarà completa.
+DIALOG/story/endgame/mech_arcology_start_01;Avvio il processo di costruzione dell’Officina di Arcologia. Questa struttura fungerà da sito principale di assemblaggio per sistemi habitat su larga scala, orbitali e di superficie.
+DIALOG/story/endgame/ashley_arcology_start_01;Ci siamo finalmente, Mr. Riggs. Questo è il cuore di tutto ciò per cui abbiamo lavorato. Con l’Officina di Arcologia operativa, possiamo finalmente iniziare a costruire la prima Arcologia direttamente in orbita del pianeta.
+DIALOG/story/endgame/mech_arcology_start_02;Questa Megastruttura è composta da più officine di nano‑fabbricazione specializzate e da un ascensore orbitale che trasporterà componenti prefabbricati e sciami di nanobot all’altitudine operativa ottimale. Tuttavia, il pozzo dell’ascensore non fornisce sufficiente resistenza strutturale per mantenere la piattaforma di assemblaggio all’altezza richiesta.
+DIALOG/story/endgame/ashley_arcology_start_02;Ecco perché abbiamo costruito la Lente Ipergravitazionale. È abbastanza potente da mantenere l’intera struttura in orbita. Dobbiamo solo assicurarci che resti operativa per l’intera durata dell’assemblaggio. Altrimenti, la costruzione si fermerà.
+DIALOG/story/endgame/mech_arcology_start_03;Questo tipo di lavoro in microgravità è di solito svolto in stazioni orbitali specializzate che dispongono di tutta l’infrastruttura necessaria in loco. Nel nostro caso useremo grandi sciami di nanobot a controllo remoto. Opereranno a grande distanza dalla nostra base. Il Centro di Controllo dello Sciame Nanobot dovrà rimanere online in ogni momento, altrimenti il processo si interromperà.
+DIALOG/story/endgame/ashley_arcology_start_03;Il Laboratorio di Sostenibilità Idroponica non è un partecipante ovvio in questo processo, ma dovremo assicurarci che funzioni anch’esso. Il progetto Arcologia è per lo più autosostenibile per progettazione. Dobbiamo preparare vasti giardini idroponici a bordo della stazione per garantire il sostentamento della sua futura popolazione. 
+DIALOG/story/endgame/mech_arcology_start_04;Tutte queste cose si potrebbero ottenere in modi molto più semplici, Ashley. Spero che la tua fiducia nelle persone che arriveranno qui non sia mal riposta.
+DIALOG/story/endgame/ashley_arcology_start_04;Non è una questione di speranza, Mr. Riggs. Sono sia scienziata che soldato, e so che le probabilità sulle due facce della moneta non sono pari. Sto solo cercando di pareggiarle.
+DIALOG/story/endgame/mech_arcology_end_01;Costruzione dell’Officina di Arcologia completata. Ashley, assicurati che tutte le restanti Megastrutture siano pienamente operative, poi avvicinati all’Officina per avviare il processo di assemblaggio. 
+DIALOG/story/endgame/ashley_arcology_end_01;Ricevuto, Mr. Riggs
+DIALOG/story/endgame/mech_arcology_assembly_start_01;Tutte le Megastrutture riportano stato operativo completo. Unità di nano‑fabbricazione online, stato del sollevatore orbitale — ok. L’Officina di Arcologia si sta accendendo. Avvio del processo di assemblaggio.
+DIALOG/story/endgame/ashley_arcology_assembly_start_01;Uno spettacolo davvero magnifico. Questo è il varco verso la coabitazione guidata dalla tecnologia su Galatea 37. 
+DIALOG/story/endgame/mech_arcology_assembly_paused_01;Il processo di assemblaggio dell’Arcologia è stato sospeso. Verifica che tutte le Megastrutture richieste siano pronte e in grado di funzionare simultaneamente. L’assemblaggio riprenderà automaticamente quando torneranno online.
+DIALOG/story/endgame/mech_arcology_assembly_paused_02;Processo di assemblaggio dell’Arcologia interrotto. Controlla che tutte le Megastrutture richieste siano operative.
+DIALOG/story/endgame/mech_arcology_assembly_end_01;Processo di assemblaggio dell’Arcologia completato. Tutti i sistemi sono stabili. Integrità strutturale verificata. Ancore gravitazionali abilitate. La prima Arcologia su Galatea 37 è parcheggiata in orbita geostazionaria.
+DIALOG/story/endgame/ashley_arcology_assembly_end_01;Ce l’abbiamo fatta, Mr. Riggs. Non è solo una struttura: è la prova che la colonizzazione può essere fatta in un modo migliore. Abbiamo costruito una città che respirerà con il pianeta.
+DIALOG/story/endgame/mech_arcology_assembly_end_02;I sistemi habitat sono online. Supporto vitale, agricoltura e controlli ambientali funzionano entro i parametri previsti. L’Arcologia è pronta a ricevere i suoi primi abitanti civili.
+DIALOG/story/endgame/ashley_arcology_assembly_end_02;Siamo finalmente liberi, Mr. Riggs. Sento che possiamo tornare sulla Terra a testa alta.
+DIALOG/story/endgame/mech_mega_rift_objective_01;Ashley, abbiamo finito di costruire tutte le Megastrutture e il processo di assemblaggio dell’arcologia è stato avviato. Abbiamo spuntato tutto dall’elenco. Hai altri obiettivi per noi o vuoi aspettare che il Comando dei Riftbreaker invii un altro Riftbreaker con un nuovo Core di Sincronizzazione Quantistica?
+DIALOG/story/endgame/ashley_mega_rift_objective_01;No. Non li aspetteremo. Torniamo sulla Terra.
+DIALOG/story/endgame/mech_mega_rift_objective_02;Cosa? Come pensi di farlo? Il Nucleo di Entanglement Quantistico della Stazione di Fenditura originale è stato distrutto quando il portale è collassato. Non abbiamo più una connessione funzionante con la Terra.
+DIALOG/story/endgame/ashley_mega_rift_objective_02;Costruiamo una nuova Stazione di Fenditura. Una in scala completa — lo stesso tipo che ci ha spediti qui. È enorme e richiede quantità colossali di risorse, ma può inviarci verso una singola destinazione. Nessun Nucleo di Entanglement Quantistico necessario.
+DIALOG/story/endgame/mech_mega_rift_objective_03;È assurdo, Ashley. Non è mai stato fatto prima. Non da un singolo Riftbreaker.
+DIALOG/story/endgame/ashley_mega_rift_objective_03;Tutto ciò che abbiamo fatto su questo pianeta non è mai stato fatto prima. È letteralmente la descrizione del mio lavoro, Mr. Riggs.
+DIALOG/story/endgame/mech_mega_rift_objective_04;Be’, su questo hai ragione, Ashley. Non posso negarlo.
+DIALOG/story/endgame/ashley_mega_rift_objective_04;Ok, allora. Devi avere i progetti per una Stazione Primaria di Fenditura nel tuo repository di modelli di Nano‑Fabbricazione Comune. Abbiamo aumentato talmente tanto le nostre capacità di assemblaggio che dovremmo poterla costruire senza suddividere il processo in componenti separati.
+DIALOG/story/endgame/mech_mega_rift_objective_05;Affermativo, Ashley. Possiamo iniziare a lavorare a una Stazione Primaria di Fenditura, ma non sono certo che riusciremo a completarla. I requisiti di costruzione sono un conto, le risorse necessarie per alimentarla sono un altro.
+DIALOG/story/endgame/ashley_mega_rift_objective_05;Andiamo, Riggs. Non abbiamo niente di meglio da fare comunque. Pensiamo a dove piazzare questo mostro.
+DIALOG/story/endgame/mech_mega_rift_start_01;Avvio costruzione della Stazione Primaria di Fenditura. Questa struttura supera la scala di tutte le Megastrutture costruite finora. È un magnifico monumento alla tua ostinazione e alla tua volontà di smentirmi. Anche se non riusciremo mai ad alimentarla a causa dei suoi requisiti di risorse folli.
+DIALOG/story/endgame/ashley_mega_rift_start_01;Sei qui da troppo tempo, Mr. Riggs. Il tuo senso dell’umorismo sta peggiorando.
+DIALOG/story/endgame/mech_mega_rift_start_02;Sto iniziando a sembrare troppo umano? Sei stata tu a farmi restare, ricordi?
+DIALOG/story/endgame/ashley_mega_rift_start_02;Sì, e sono anche quella che sta cercando di riportarci a casa. Quindi perché non la smetti di lamentarti e mi dici di cosa abbiamo bisogno per mettere in moto tutta questa macchina appena sarà finita?
+DIALOG/story/endgame/mech_mega_rift_start_03;Questa struttura è paradossalmente più semplice della Stazione di Fenditura che abbiamo costruito in precedenza. È composta da tre componenti principali: l’Arco del Portale di Fenditura, l’Acceleratore a Bobine Quantiche e la Raffineria del Condensato di Antimateria.
+DIALOG/story/endgame/ashley_mega_rift_start_03;In che senso è semplice? 
+DIALOG/story/endgame/mech_mega_rift_start_04;L’Acceleratore a Bobine Quantiche richiede molta energia, e la Raffineria del Condensato di Antimateria richiede grandi quantità di liquidi difficili da reperire. Potremo aprire la Fenditura non appena avremo raccolto tutto questo.
+DIALOG/story/endgame/ashley_mega_rift_start_04;E per la sequenza di attivazione?
+DIALOG/story/endgame/mech_mega_rift_start_05;Questa macchina è così potente che può essere attivata molto più velocemente della sua controparte più piccola. Una volta attivata, crea un Nucleo di Sincronizzazione Quantistica intrecciato con la stazione ed entra in stand‑by dopo il primo salto di fenditura. Un’altra Stazione di Fenditura più piccola deve essere costruita dall’altra parte per creare una connessione stabile a due vie tra i portali.
+DIALOG/story/endgame/ashley_mega_rift_start_05;Ok, ok. Da lì in poi conosco la procedura. Questo è l’ultimo passo. Facciamolo.
+DIALOG/story/endgame/mech_mega_rift_complete_01;Costruzione della Stazione Primaria di Fenditura completata. Integrità strutturale confermata. L’Acceleratore a Bobine Quantiche e la Raffineria del Condensato di Antimateria sono in attesa di input di risorse.
+DIALOG/story/endgame/ashley_mega_rift_complete_01;Ricevuto, Mr. Riggs. Dovremo fornirle un’alimentazione energetica stabile e tutte le risorse liquide richieste per la Raffineria del Condensato di Antimateria. La rete di tubazioni attorno a questa cosa sarà un caos.
+DIALOG/story/endgame/mech_mega_rift_ready_01;La Stazione di Fenditura Primaria è pronta all’attivazione. Tutte le risorse richieste sono state consegnate. I livelli energetici sono stabili e la diagnostica segnala piena prontezza operativa. Puoi avvicinarti per avviare la procedura di salto nella fenditura.
+DIALOG/story/endgame/ashley_mega_rift_ready_01;Non so cosa dire. Ce l’abbiamo fatta, Mr. Riggs. Ora possiamo tornare a casa.
+DIALOG/story/endgame/mech_mega_rift_ready_02;È vero, Ashley. Tutto ciò che devi fare ora è attivare il portale.
+DIALOG/story/outro_endgame_ashley_01;I preparativi che abbiamo fatto sono stati impegnativi. Ogni Megastruttura, ogni modifica, ogni upgrade ci ha spinti al limite del possibile. Ma ha funzionato.
+DIALOG/story/outro_endgame_ashley_02;Quando il portale verso la Terra si è finalmente aperto, sono riuscita a convincere il Comando dei Riftbreaker che non serviva una forza di pacificazione su larga scala.
+DIALOG/story/outro_endgame_ashley_03;Invece, hanno mandato ingegneri e ricercatori — non soldati. Costruttori, non conquistatori.
+DIALOG/story/outro_endgame_ashley_04;Il Progetto Arcologia ha dato ai primi coloni qualcosa che nessuna missione di colonizzazione aveva mai avuto prima: il tempo.
+DIALOG/story/outro_endgame_ashley_05;Tempo per studiare il pianeta, tempo per capirlo, tempo per scegliere dove vivere senza distruggere ciò che già esisteva.
+DIALOG/story/outro_endgame_ashley_06;La tecnologia è diventata il ponte tra due mondi — umani e Galatea — che lavorano insieme, non l’uno contro l’altro.
+DIALOG/story/outro_endgame_ashley_07;Sono orgogliosa di ciò che abbiamo realizzato qui.
+DIALOG/story/outro_endgame_ashley_08;Lo sforzo extra ha dato i suoi frutti e, forse, solo forse, abbiamo dimostrato che esiste un modo migliore per tendere alle stelle.
+DIALOG/story/outro_endgame_ashley_09;È il momento di chiudere questo capitolo e andare avanti.
+DIALOG/story/outro_endgame_ashley_10;Galatea 37 ha un futuro adesso — e anch’io.
+DIALOG/story/outro_endgame_mech_01;L’avventura non aspetta mai, Ashley. E nemmeno noi dovremmo.
+DIALOG/story/outro_endgame_ashley_11;Vediamo cosa ci aspetta oltre il prossimo portale.
+gui/hud/objective_name/story/global.endgame.build_quantum_cortex_laboratory;Costruisci il Laboratorio Cortex Quantico.
+gui/hud/objective_name/story/global.endgame;Coabitazione guidata dalla tecnologia:
+gui/hud/objective_name/story/global.endgame.build_gravitational_hyper_lens;Costruisci la Lente Ipergravitazionale liv. 5.
+gui/hud/objective_name/story/global.endgame.build_nanobot_center;Costruisci il Centro Nanobot liv. 5.
+gui/hud/objective_name/story/global.endgame.build_hydroponic_lab;Costruisci il Laboratorio Idroponico liv. 5.
+gui/hud/objective_name/story/global.endgame.arcology_workshop_build;Costruisci l’Officina di Arcologia.
+gui/hud/objective_name/story/global.arcology_megastructures;Attiva le Megastrutture:
+gui/hud/objective_name/story/global.arcology_megastructures.hydroponic;Laboratorio di Sostenibilità Idroponica.
+gui/hud/objective_name/story/global.arcology_megastructures.nanobot;Centro di Controllo dello Sciame Nanobot.
+gui/hud/objective_name/story/global.arcology_megastructures.ghl;Lente Ipergravitazionale.
+gui/hud/objective_name/story/global.arcology_megastructures.workshop;Officina di Arcologia.
+gui/hud/objective_name/story/global.arcology_megastructures.start;Attiva l’edificio Officina di Arcologia.
+gui/hud/objective_name/story/global.arcology_megastructures.arcology_progress;Assemblaggio dell’Arcologia in corso:
+gui/hud/objective_name/story/global.return_to_earth;Ritorno sulla Terra:
+gui/hud/objective_name/story/global.return_to_earth.mega_rift_station_build;Costruisci la Stazione Primaria di Fenditura.
+gui/hud/objective_name/story/global.return_to_earth.mega_rift_station_prepare;Prepara la Stazione Primaria di Fenditura all’attivazione.
+gui/hud/objective_name/story/global.return_to_earth.mega_rift_station_activate;Attiva la Stazione Primaria di Fenditura.
+DIALOG/story/endgame/mech_mega_rift_charging_01;Główna Stacja Rift została aktywowana. Portal się otwiera, nie powinno to potrwać zbyt długo.
+DIALOG/story/endgame/ashley_mega_rift_charging_01;No chyba jednak chwilę potrwa. Nie otwiera się on zbyt szybko. Nie wiem, czemu myślałeś, że to będzie aż tak proste.
+DIALOG/story/endgame/mech_mega_rift_charging_02;Mogłem nieco niedoszacować. Mamy jednak większy problem, Ashley. Wykryłem wzmożony ruch w naszym kierunku.
+DIALOG/story/endgame/ashley_mega_rift_charging_02;Ech, no OK. Potraktujmy to jako ostateczny sprawdzian naszych struktur obronnych.
+DIALOG/story/endgame/mech_mega_rift_charged_01;Główna Stacja Rift zakończyła proces ładowania. Rdzeń Synchronizacji Kwantowej jest gotowy.
+DIALOG/story/endgame/ashley_mega_rift_charged_01;Przyjęłam, panie Riggs. Mamy to. Czas wracać do domu.
+DIALOG/encounters/mech_anomaly_detected_01_a;Ashley, moje czujniki wykrywają anomalie w tym miejscu.
+DIALOG/encounters/mech_anomaly_detected_01_b;Ashley, wykrywam pewne nietypowe wzorce danych w tym sektorze.
+DIALOG/encounters/mech_anomaly_detected_01_c;Wykryto nietypowe sygnały. Coś tutaj nie pasuje.
+DIALOG/encounters/mech_anomaly_detected_01_d;W tej strefie dzieje się coś dziwnego. Uzyskuję odczyty, które odbiegają od warunków panujących w otoczeniu.
+DIALOG/encounters/mech_anomaly_detected_01_e;Moje urządzenia wykrywają nietypowe wahania sygnału w tej lokalizacji. Na razie nie wiadomo, co je powoduje.
+DIALOG/encounters/ashley_anomaly_detected_01_a;Ciekawe. Czy możesz zlokalizować ich źródło?
+DIALOG/encounters/ashley_anomaly_detected_01_b;Czy możesz wskazać źródło?
+DIALOG/encounters/ashley_anomaly_detected_01_c;Ok, masz moją uwagę. Czy możesz mi podać jakieś szczegóły?
+DIALOG/encounters/ashley_anomaly_detected_01_d;Odnotowano. Czy możesz podać współrzędne źródła?
+DIALOG/encounters/ashley_anomaly_detected_01_e;Rozumiem. Czy możesz wyjaśnić, na czym polega ta anomalia?
+DIALOG/encounters/mech_anomaly_detected_02_a;Tak, ale potrzebuję trochę czasu, aby zebrać więcej danych.
+DIALOG/encounters/mech_anomaly_detected_02_b;Odczyty są niespójne. Potrzebuję więcej czasu na analizę danych.
+DIALOG/encounters/mech_anomaly_detected_02_c;Jestem w trakcie triangulacji położenia. Poczekaj na zaktualizowane współrzędne. Może to trochę potrwać.
+DIALOG/encounters/mech_anomaly_detected_02_d;Ho rilevato un modello, ma è troppo debole per determinarne concludentemente l’origine. Dammi più tempo per analizzare i dati.
+DIALOG/encounters/mech_anomaly_detected_02_e;I miei dati sono frammentati. Ho bisogno di più tempo per ricostruire il punto d’origine.
+DIALOG/encounters/ashley_anomaly_detected_02_a;Ok, w międzyczasie spróbujmy znaleźć to sami.
+DIALOG/encounters/ashley_anomaly_detected_02_b;W porządku, ruszamy dalej i zobaczymy, co się wydarzy.
+DIALOG/encounters/ashley_anomaly_detected_02_c;Rozumiem. Będę kontynuowała poszukiwania, dopóki nie będziesz miał czegoś konkretnego.
+DIALOG/encounters/ashley_anomaly_detected_02_d;Chyba na razie będziemy musieli zrobić to po staremu. Poszukamy i zobaczymy, co znajdziemy.
+DIALOG/encounters/ashley_anomaly_detected_02_e;Daj mi znać, kiedy będziesz miał coś konkretnego. Ja idę dalej.
+DIALOG/encounters/mech_anomaly_location_01_a;Analisi dei dati completata. Ho un’ubicazione approssimativa dell’anomalia rilevata in precedenza.
+DIALOG/encounters/mech_anomaly_location_01_b;Ho terminato l’elaborazione dei dati dell’anomalia registrata pochi minuti fa. Ne ho segnato la posizione approssimativa.
+DIALOG/encounters/mech_anomaly_location_01_c;I risultati della precedente scansione dell’anomalia sono conclusivi. Sto caricando la sua posizione stimata sulla nostra mappa.
+DIALOG/encounters/mech_anomaly_location_01_d;Ho finito di analizzare i segnali dell’anomalia osservata in precedenza. Ne ho segnato la posizione approssimativa.
+DIALOG/encounters/mech_anomaly_location_01_e;Ho terminato l’elaborazione dei dati dell’anomalia registrata in precedenza. Ho calcolato una posizione approssimativa da investigare.
+DIALOG/encounters/ashley_anomaly_location_01_a;Świetnie. Zaznacz to na naszej mapie i sprawdźmy, co to jest.
+DIALOG/encounters/ashley_anomaly_location_01_b;No dobrze, zobaczmy, z czym mamy do czynienia.
+DIALOG/encounters/ashley_anomaly_location_01_c;Świetnie. Ciekawiło mnie, co jest źródłem tego sygnału.
+DIALOG/encounters/ashley_anomaly_location_01_d;Dobrze. Nie zwlekajmy z rozwiązaniem tej zagadki.
+DIALOG/encounters/ashley_anomaly_location_01_e;Świetnie. Sprawdźmy, co to jest.
+DIALOG/encounters/mech_jungle_volcano_01;Ashley, sto registrando un picco termico netto proprio davanti a noi. Quell’area sembra geologicamente instabile.
+DIALOG/encounters/ashley_jungle_volcano_01;Tak, widzę. To aktywna szczelina wulkaniczna.
+DIALOG/encounters/mech_jungle_volcano_02;Fai attenzione, Ashley. Rilevo una forte presenza ostile nelle vicinanze.
+DIALOG/encounters/ashley_jungle_volcano_02;Nie wiedziałam, że ten obszar jest aktywny wulkanicznie. To spore zaskoczenie zobaczyć wulkan w tym miejscu.
+DIALOG/encounters/mech_jungle_volcano_03;Galatea 37 è un pianeta giovane con molta attività tettonica. La vita qui ha iniziato a formarsi molto più rapidamente che sulla Terra.
+DIALOG/encounters/ashley_jungle_volcano_03;Z pewnością jest mniej stabilna, co sprawia, że jest bardziej niebezpieczna, ale otwiera też wiele możliwości. Moglibyśmy na przykład wykorzystać złoża gazu i minerałów wokół tej szczeliny.
+DIALOG/encounters/mech_jungle_volcano_04;Buona idea, Ashley.
+DIALOG/encounters/ashley_jungle_hostile_hive_01;Wow, tutaj jest naprawdę ładnie. Ta woda wygląda na bardzo czystą!
+DIALOG/encounters/mech_jungle_hostile_hive_01;Attenta, Ashley. Questo paesaggio idilliaco potrebbe essere ingannevole. Rilevo diversi nidi ostili nelle vicinanze.
+DIALOG/encounters/ashley_jungle_hostile_hive_02;Zrozumiałam, panie Riggs. Zabezpieczmy teren. Jak tylko będzie bezpieczniej, chcę się temu bliżej przyjrzeć.
+DIALOG/encounters/ashley_jungle_hostile_hive_03_a;Nie widzieliśmy wcześniej tych stworzeń, nie wyglądały na pochodzące z strefy tropikalnej.
+DIALOG/encounters/ashley_jungle_hostile_hive_03_b;Skąd się tu wzięły te Stickridy? Nigdy wcześniej nie widzieliśmy ich poza Grzybowym Bagnem. Nie widzę tutaj śladów kolonii grzybiczych, który widzieliśmy tam.
+DIALOG/encounters/mech_jungle_hostile_hive_02;Devono essere migrati qui da un altro bioma. Tuttavia, non riesco a rilevare alcuna traccia visibile della migrazione. Non è chiaro come siano arrivati fin qui.
+DIALOG/encounters/ashley_jungle_hostile_hive_04;Wygląda na to, że miały trudności z przystosowaniem się do tego środowiska. Praktycznie całkowicie ogołociły ten obszar. Nie jestem pewna, czy byłyby w stanie przetrwać tu przez dłuższy czas. Tak czy inaczej, z pewnością znalazły świetne miejsce na rozbicie obozu. Może moglibyśmy założyć mały posterunek między jeziorami, żeby od czasu do czasu tu zaglądać i podziwiać widoki.
+DIALOG/encounters/mech_jungle_hostile_hive_03;Sicuramente, sembra una ragione perfettamente logica per costruire una base. Tuttavia, battute a parte, questo luogo sembra facile da difendere, quindi potrebbe anche avere senso.
+DIALOG/encounters/mech_desert_iceberg_01;Ashley, rilevo un brusco calo di temperatura poco avanti. La variazione è anomala per questo bioma.
+DIALOG/encounters/ashley_desert_iceberg_01;Co? Czy to te same rośliny, które widzieliśmy w obszarze wulkanicznym?
+DIALOG/encounters/mech_desert_iceberg_02;Affermativo, sono loro i responsabili del forte picco di temperatura attorno a questa montagna.
+DIALOG/encounters/ashley_desert_iceberg_02;Ciekawe, dane, które zebraliśmy wcześniej na temat tego gatunku sugerowały, że wszczyna on silną reakcję chemiczną pod wpływem określonych gazów wulkanicznych. Być może właśnie teraz chodzimy po aktywnym wulkanie.
+DIALOG/encounters/mech_desert_iceberg_03;Possiamo verificarlo con il Geoscanner, Ashley.
+DIALOG/encounters/ashley_desert_iceberg_03;Słuszna uwaga, przeszukajmy okolice tych skał.
+DIALOG/encounters/mech_desert_iceberg_04;Attenzione! Un gruppo di creature ostili si sta dirigendo verso di noi. Preparati alla battaglia.
+DIALOG/encounters/mech_desert_iceberg_05;Minaccia eliminata. Possiamo continuare la nostra indagine, Ashley.
+DIALOG/encounters/ashley_desert_iceberg_04;Dane z geoskanera rzeczywiście potwierdzają, że znajdujemy się w samym środku starożytnej kaldery, w której występuje pewna aktywność wulkaniczna. W pobliżu wykryłam również złoża rudy tytanu. Warunki te są wystarczające, aby rośliny ze strefy wulkanicznej mogły przetrwać. Nie wyjaśnia to jednak, w jaki sposób się tu znalazły. Czy są one pozostałością po starożytnej kolonii roślin, czy też przybyły tu niedawno? Zanotuję to dla przyszłych naukowców, aby mogli zbadać tę kwestię bardziej szczegółowo.
+DIALOG/encounters/mech_desert_iceberg_06;Dal momento che sei la prima a fare questa scoperta, vuoi darle un nome?
+DIALOG/encounters/ashley_desert_iceberg_05;Masz rację. Nazwijmy to miejsce Górą Krocoon.
+DIALOG/encounters/mech_desert_iceberg_07;Un nome appropriato, Ashley. Ci hanno dato filo da torcere, qui.
+DIALOG/encounters/mech_desert_hands_01;Attenzione. I livelli di radiazione stanno aumentando. La quantità di particelle Alfa e Beta che colpiscono i miei sensori è fuori scala. Le emissioni di raggi gamma sono meno intense, ma stanno lentamente avvicinandosi a livelli pericolosi.
+DIALOG/encounters/ashley_desert_hands_01;Chwileczkę... widzisz to? Te skalne filary — powiedz mi, że nie tylko ja widzę gigantyczne dłonie wystające z ziemi.
+DIALOG/encounters/mech_desert_hands_02;Affermativo, vedo le formazioni. Tuttavia non assomigliano a mani in alcun senso strutturale. Stai sperimentando un effetto psicologico noto come pareidolia.
+DIALOG/encounters/ashley_desert_hands_02;Słucham?
+DIALOG/encounters/mech_desert_hands_03;La pareidolia è la tendenza umana a percepire forme familiari — come volti o arti — in pattern visivi casuali o ambigui. Queste formazioni rocciose sono coincidenze.
+DIALOG/encounters/ashley_desert_hands_03;A co z podwyższonym poziomem promieniowania?
+DIALOG/encounters/mech_desert_hands_04;La radiazione Alfa e Beta è un prodotto naturale del decadimento radioattivo. Queste strutture sono composte principalmente da ricco minerale di torio. È molto più radioattivo di qualsiasi minerale di torio reperibile sulla Terra, ma non sembra fuori luogo in questo deserto radioattivo.
+DIALOG/encounters/ashley_desert_hands_04;Chyba masz rację. Tak czy inaczej, to mnie przeraża. Nie chciałbym mieć bazy w pobliżu tej rzeczy.
+DIALOG/encounters/mech_acid_arachnoid_pit_01;Uwaga! Wykryłem ślady dwóch stworzeń klasy Omega. Znajdują się tuż za skałami przed nami. Zachowaj szczególną ostrożność.
+DIALOG/encounters/ashley_acid_arachnoid_pit_01;Ciekawe, to bardzo nietypowa konfiguracja. Zazwyczaj pojawiają się pojedynczo. Sprawdźmy, czy nie strzegą czegoś.
+DIALOG/encounters/ashley_acid_arachnoid_pit_02;Bardzo rzadko zdarza się widzieć wiele bioanomalii tak blisko siebie. To miejsce wydaje się bardzo dziwne.
+DIALOG/encounters/mech_acid_arachnoid_pit_02;Nadal nie wiemy, czym są te bioanomalie ani jak powstają. Datowanie radiometryczne izotopów neodymu sugeruje, że są one prawdopodobnie starsze niż większość form życia na tej planecie.
+DIALOG/encounters/ashley_acid_arachnoid_pit_03;Widzieliśmy je wiele razy na całym świecie. W każdym biomie mają inne cechy, ale zawsze pokryte są dziwnym rodzajem narośli. Próbowałam zebrać ich próbki, ale zawsze się rozpadają, gdy próbujemy to zrobić.
+DIALOG/encounters/mech_acid_arachnoid_pit_03;Ataki, które te bioanomalie przyciągają do nas, wydają się być ich mechanizmem obronnym.
+DIALOG/encounters/ashley_acid_arachnoid_pit_04;Tak, też tak myślę. Najwyraźniej chcą, żeby zostawić je w spokoju. Nigdy nie widzieliśmy, żeby któreś z rodzimych gatunków nawiązywało z nimi interakcję. Nie wydają się też mieć wpływu na otaczające je środowisko. Prawie jakby były niewidzialne.
+DIALOG/encounters/mech_acid_arachnoid_pit_04;Mogą to być starożytne systemy monitorowania środowiska lub pozostałości jakiejś wyspecjalizowanej formy życia.
+DIALOG/encounters/ashley_acid_arachnoid_pit_05;Trudno to stwierdzić bez zebrania większej ilości danych. Być może uda nam się coś odkryć, jeśli będziemy je nadal otwierać. Jestem przekonana, że w ten czy inny sposób uda nam się znaleźć coś przydatnego.
+DIALOG/encounters/ashley_acid_hostile_nest_01;To niezwykłe. Widzę czarny dym przed nami. Albo coś się pali, albo tam jest aktywny wulkan.
+DIALOG/encounters/mech_acid_hostile_nest_01;Wykrywam wiele sygnatur cieplnych w tym obszarze. Prawdopodobnie jest to niewielki strumień lawy wypływający z otwartej szczeliny.
+DIALOG/encounters/ashley_acid_hostile_nest_02;W tej części świata nie widzieliśmy zbyt wielu wulkanów, więc sprawdźmy to.
+DIALOG/encounters/mech_acid_hostile_nest_02;Niebezpieczeństwo! Przed nami znajduje się wiele gniazd wrogich stworzeń.
+DIALOG/encounters/ashley_acid_hostile_nest_03;To gniazdo pośrodku jest naprawdę ogromne. To będzie ciężka walka.
+DIALOG/encounters/mech_acid_hostile_nest_03;Usunęliśmy wszystkie gniazda wrogich stworzeń w tym obszarze.
+DIALOG/encounters/ashley_acid_hostile_nest_04;Dobrze, to było dość nieoczekiwane spotkanie. Gatunek ten zazwyczaj nie pojawia się na Kwaśnych Równinach. Musiały migrować w kierunku szczeliny wulkanicznej.
+DIALOG/encounters/ashley_magma_morphium_01;Hej, panie Riggs. Spójrz tam. Czy to Morphium?
+DIALOG/encounters/mech_magma_morphium_01;Sembra di sì. Avvicinati, così possiamo verificarlo.
+DIALOG/encounters/mech_magma_morphium_02;Ashley, confermo che si tratta di una pozza di Morfium. Le rocce intorno corrispondono a quelle della Valle Metallica.
+DIALOG/encounters/ashley_magma_morphium_02;To musi być krater uderzeniowy po jednym z meteorytów X-Morphów. Możemy stąd pobrać Morphium, ale powinniśmy uważać na wszelkie zbuntowane replikanty, które mogą krążyć w okolicy.
+DIALOG/encounters/ashley_magma_acid_01;Spójrz, zbiornik ze szlamem. Nie widzieliśmy tu takich wcześniej.
+DIALOG/encounters/mech_magma_acid_01;Affermativo. Si sarebbe rapidamente evaporata nella maggior parte di quest’area, ma la temperatura qui intorno è sensibilmente più bassa. Solo 362 kelvin in questa piccola depressione.
+DIALOG/encounters/ashley_magma_acid_02;Chyba widzę dużą bioanomalię pośrodku zbiornika. Chodźmy to sprawdzić.
+DIALOG/encounters/ashley_magma_acid_03;Ten zbiornik szlamu ma intrygujący spiralny kształt. Zastanawiam się, czy to przypadek.
+DIALOG/encounters/mech_magma_acid_02;Stai vedendo cose, Ashley. È solo la tua immaginazione umana che ti gioca brutti scherzi.
+DIALOG/encounters/ashley_metallic_trap_01;Hej, co to jest? Zza tych skał dochodzi silne światło. Chodźmy zobaczyć, co to jest.
+DIALOG/encounters/mech_metallic_trap_01;Pericolo! Unità ostili in arrivo da tutte le direzioni.
+DIALOG/encounters/ashley_metallic_trap_02;To pułapka! Podnieś osłony, panie Riggs.
+DIALOG/encounters/ashley_metallic_trap_03;Zastawili na nas pułapkę, panie Riggs. Musimy być wyjątkowo ostrożni w Dolinie Metalicznej. Nie mamy pojęcia, ile jeszcze pozostało tych X-Morphów.
+DIALOG/encounters/mech_metallic_trap_02;Hai sollevato un buon punto, Ashley. Tuttavia, penso sia logico supporre che se avessero ancora un vero potere, avrebbero già conquistato il pianeta. Il rischio maggiore che affrontiamo qui è probabilmente legato all’attivazione di sistemi di sicurezza dormienti.
+DIALOG/encounters/ashley_metallic_trap_04;Takich jak ten tutaj.
+DIALOG/encounters/mech_metallic_trap_03;Esattamente.
+DIALOG/encounters/ashley_metallic_trap_05;A co by było, gdyby system bezpieczeństwa zaczął się sam replikować?
+DIALOG/encounters/mech_metallic_trap_04;Sì, teoricamente potrebbe diventare un problema. Tuttavia, i sistemi di sicurezza sono solitamente autonomi e isolati. Il rischio di attivare una coscienza auto-replicante è vicino allo zero. Se vuoi ridurre questa possibilità, allora dovresti probabilmente smettere di attivare manufatti sconosciuti.
+DIALOG/encounters/ashley_metallic_trap_06;To nie wchodzi w grę. Jak już, to mam zamiar aktywować ich jeszcze więcej. Nie boję sie ich.
+DIALOG/encounters/mech_metallic_trap_05;A volte faccio fatica a capire perché ti abbiano scelta per guidare questa missione.
+DIALOG/encounters/ashley_metallic_trap_07;Osoby, które preferują pracę w domu, nie zostają Riftbreakerami, panie Riggs.
+DIALOG/encounters/mech_metallic_mud_01;Ashley, ho rilevato qualcosa che potrebbe interessarti.
+DIALOG/encounters/ashley_metallic_mud_01;Co to jest?
+DIALOG/encounters/mech_metallic_mud_02;Quel baratro laggiù contiene acqua e vegetazione tropicale. Avvicinati al bordo se vuoi vederlo.
+DIALOG/encounters/ashley_metallic_mud_02;O, to zaskakujące. Ta dziura nie jest aż tak głęboka. Warstwa metalu ma tylko kilka metrów grubości.
+DIALOG/encounters/mech_metallic_mud_03;Siamo vicino al bordo del cratere della Valle Metallica, quindi ha senso.
+DIALOG/encounters/ashley_metallic_mud_03;Pierwsza rzecz, która przychodzi mi teraz do głowy, to fakt, że meteoryt, który stworzył ten krater, musiał być ogromny. Musiało to być wydarzenie, które spowodowało masowe wymieranie gatunków.
+DIALOG/encounters/mech_metallic_mud_04;Il cratere è grande, ma la sua forma e la deformazione delle strutture geografiche circostanti indicano che l’impatto non è stato così disastroso come potresti pensare. La sua velocità potrebbe essere stata più bassa del previsto oppure la densità era inferiore rispetto a quella di un tipico asteroide di metalli pesanti.
+DIALOG/encounters/ashley_metallic_mud_04;Być może X-Morphy próbowały zwolnić przed uderzeniem w planetę, a asteroida mogła być pusta w środku, jak statek kosmiczny.
+DIALOG/encounters/mech_metallic_mud_05;Sì, sembra plausibile.
+DIALOG/encounters/ashley_metallic_mud_05;Szkoda, że nie mogliśmy dłużej z nimi porozmawiać.
+DIALOG/encounters/mech_metallic_mud_06;Chissà, forse un giorno avremo ancora quell’occasione.
+DIALOG/encounters/mech_metallic_factory_01;Attenzione! Ci stiamo avvicinando a una biofabbrica X-Morph dormiente. Procedi con estrema cautela.
+DIALOG/encounters/ashley_metallic_factory_01;Jest ogromna, widzę ją aż stąd.
+DIALOG/encounters/ashley_metallic_factory_02;O nie. Rusza się! Musimy ją zniszczyć, panie Riggs. Nie możemy jej tak zostawić.
+DIALOG/encounters/mech_metallic_factory_02;Biofabbrica X-Morph distrutta. Obiettivo completato.
+DIALOG/encounters/ashley_metallic_factory_03;Była znacznie większa od tych, które widzieliśmy wcześniej. Myślę, że uruchomiła się z powodu naszej obecności. Ciekawe, ile takich maszyn nadal tu pozostało.
+DIALOG/encounters/mech_metallic_factory_03;Non credo sia rilevante. Non sembrano rappresentare alcun pericolo se lasciate indisturbate. Inoltre, non sembrano più possedere un’intelligenza centralizzata.
+DIALOG/encounters/ashley_metallic_factory_04;Mam nadzieję, że ma pan rację, panie Riggs. Mam nadzieję, że ma pan rację.
+DIALOG/encounters/mech_caverns_magnet_01;Attenzione! Rilevato potente disturbo magnetico.
+DIALOG/encounters/ashley_caverns_magnet_01;Blokuje nasze czujniki. Systemy nawigacyjne są wyłączone i nie możemy stąd wyskoczyć.
+DIALOG/encounters/mech_caverns_magnet_02;La fonte di questa anomalia magnetica dev’essere molto potente, ma non dovrebbe essere troppo difficile localizzarla. Dovremmo trovarla e neutralizzarla. Altrimenti, esplorare quest’area sarà molto difficile.
+DIALOG/encounters/ashley_caverns_magnet_02;Znaleźliśmy to, panie Riggs. To ogromna skała magnetyczna, znacznie większa od tych, które widzieliśmy w obszarze wulkanicznym.
+DIALOG/encounters/mech_caverns_magnet_03;Questo è troppo grande per essere distrutto con armi acide. Probabilmente non possiamo farci nulla. La soluzione migliore è evitare quest’area.
+DIALOG/encounters/ashley_caverns_magnet_03;Myślę, że jest na to sposób. Możemy zbudować wokół niego stabilizatory magnetyczne i wykorzystać je do znalezienia częstotliwości rezonansowej. Następnie możemy wyemitować silny impuls magnetyczny o częstotliwości, która mogłaby zdestabilizować te skały i, miejmy nadzieję, rozbić je.
+DIALOG/encounters/mech_caverns_magnet_04;Potremmo provare a farlo. Tuttavia, gli Stabilizzatori Magnetici sono molto costosi da costruire. Non siamo sicuri che questa procedura funzionerebbe. E non c’è assolutamente alcun beneficio economico in un’impresa del genere. Dopo un’attenta analisi e un’approfondita ricerca dei dati suggerisco una soluzione più efficace: allontaniamoci da qui.
+DIALOG/encounters/ashley_caverns_magnet_04;Cóż, po dokładnym rozważeniu zgadzam się z twoją propozycją. Po prostu stąd uciekajmy.
+DIALOG/encounters/mech_caverns_green_energy_01;Attenzione! Rilevata radiazione pericolosa. Stiamo avvicinandoci a una forte sorgente di raggi gamma.
+DIALOG/encounters/ashley_caverns_green_energy_01;Zrozumiałam, panie Riggs. Podejdźmy bliżej, żeby zobaczyć, co to jest.
+DIALOG/encounters/ashley_caverns_green_energy_02;Wow, to wygląda jak naturalny reaktor jądrowy. Choć może to wydawać się zaskakujące, takie rzeczy istniały nawet na Ziemi.
+DIALOG/encounters/mech_caverns_green_energy_02;Rilevo ricchi giacimenti di minerale di uranio intorno a questo sito. Puoi provare a cercarli con il Geoscanner.
+DIALOG/encounters/ashley_caverns_green_energy_03;Dobry pomysł, panie Riggs. Zobaczmy, co uda nam się znaleźć.
+DIALOG/encounters/ashley_swamp_octopus_01;Wow, popatrz tam, panie Riggs. Co to jest?
+DIALOG/encounters/mech_swamp_octopus_01;Fai attenzione, Ashley, non sappiamo se è ostile oppure no.
+DIALOG/encounters/ashley_swamp_octopus_02;Podejdźmy bliżej, żeby zobaczyć, co to jest.
+DIALOG/encounters/mech_swamp_octopus_02;Non sembra accorgersi della nostra presenza. Dovremmo essere al sicuro qui.
+DIALOG/encounters/ashley_swamp_octopus_03;Na początku wyglądało to jak gigantyczna, szalejąca ośmiornica spowita chmurą dymu, ale jej ruchy nie są chaotyczne. Powtarza w kółko te same czynności. Myślę, że tym ruchem rozprzestrzenia chmurę zarodników.
+DIALOG/encounters/mech_swamp_octopus_03;Confermo, Ashley. Sembrava pericoloso per via delle sue dimensioni, ma sembra innocuo.
+DIALOG/encounters/ashley_swamp_octopus_04;Flora i fauna w Grzybowym Bagnie są dziwniejsze niż wszystko, co kiedykolwiek widziałam. To coś stoi tuż obok Poogretów, Garlimonium i Cancerotha. Wygląda to tak, jakby ktoś przeczytał zbyt wiele książek H.P. Lovecrafta.
+DIALOG/encounters/mech_swamp_octopus_04;Il piacere, per me, è la meraviglia: l’inesplorato, l’inaspettato, ciò che è nascosto e ciò che non cambia e si cela dietro la mutevolezza apparente. Scoprire il remoto nell’immediato, l’eterno nell’effimero, il passato nel presente, l’infinito nel finito: queste, per me, sono le fonti della meraviglia e della bellezza.
+DIALOG/encounters/ashley_swamp_octopus_05;Brzmi to tak, jakby marzył o zostaniu Riftbreakerem.
+DIALOG/encounters/ashley_swamp_stump_01;Wow, spójrz tam, panie Riggs. Chyba znaleźliśmy pozostałości kolejnego Wielkiego Grzybowego Drzewa.
+DIALOG/encounters/mech_swamp_stump_01;Sì, quel ceppo è enorme.
+DIALOG/encounters/ashley_swamp_stump_02;Podejdźmy bliżej, żeby to sprawdzić.
+DIALOG/encounters/ashley_swamp_stump_03;Wygląda na bardzo stare. Musiało być piękne, kiedy jeszcze żyło. System korzeniowy pod nim jest bardzo dobrze widoczny. Fascynujące byłoby zbadanie jaskiń pod nim.
+DIALOG/encounters/mech_swamp_stump_02;Forse un’altra volta, Ashley. Abbiamo già abbastanza da fare in superficie.
+DIALOG/encounters/mech_swamp_stump_03;Guarda qui, Ashley. Parabiani. La stessa specie parassitaria che ha infettato Il Grande Albero dei Funghi.
+DIALOG/encounters/ashley_swamp_stump_04;Ciekawe, wygląda na to, że żywią się tym, co tu zostało. To drzewo obumarło z przyczyn naturalnych. Nie zostało zaatakowane przez Cierniorośl. Chyba nie ma sensu przeszkadzać tym owadom. Natura zrobiła swoje.
+gui/hud/objective_name/encounter/hostile_hive;Zniszcz wszystkie wrogie gniazda.
+gui/hud/objective_name/generic/nest_plutrodon;Powstrzymaj ataki Plutrodonów.
+gui/hud/objective_name/generic/nest_stickrid;Powstrzymaj ataki Stickridów.
+gui/hud/objective_name/generic/nest_fungor;Powstrzymaj ataki Fungorów.
+gui/hud/objective_name/generic/investigate_encounter;Zbadaj to zjawisko.
+gui/hud/objective_name/generic/magnetic_anomaly;Zlokalizuj anomalię magnetyczną.
+gui/hud/objective_name/story/global.endgame.power_hydroponic;Alimenta il Laboratorio di Sostenibilità Idroponica.
+gui/hud/objective_name/story/global.endgame.power_nanobot;Alimenta il Centro di Controllo dello Sciame Nanobot.
+gui/hud/objective_name/story/global.endgame.power_ghl;Alimenta la Lente Ipergravitazionale.
+gui/hud/objective_name/story/global.endgame.power_workshop;Alimenta l’Officina di Arcologia.
+gui/hud/objective_name/story/global.endgame.rift_progress;Caricamento della Stazione Primaria di Fenditura:
+gui/hud/objective_name/story/global.endgame.build_gravitational_hyper_lens_lvl_1;Costruisci la Lente Ipergravimetrica.
+gui/hud/objective_name/story/global.endgame.build_gravitational_hyper_lens_lvl_2;Costruisci la Lente Ipergravimetrica liv. 2.
+gui/hud/objective_name/story/global.endgame.build_gravitational_hyper_lens_lvl_3;Costruisci la Lente Ipergravimetrica liv. 3.
+gui/hud/objective_name/story/global.endgame.build_gravitational_hyper_lens_lvl_4;Costruisci la Lente Ipergravimetrica liv. 4.
+gui/hud/objective_name/story/global.endgame.build_nanobot_center_lvl_1;Costruisci il Centro Nanobot.
+gui/hud/objective_name/story/global.endgame.build_nanobot_center_lvl_2;Costruisci il Centro Nanobot liv. 2.
+gui/hud/objective_name/story/global.endgame.build_nanobot_center_lvl_3;Costruisci il Centro Nanobot liv. 3.
+gui/hud/objective_name/story/global.endgame.build_nanobot_center_lvl_4;Costruisci il Centro Nanobot liv. 4.
+gui/hud/objective_name/story/global.endgame.build_hydroponic_lab_lvl_1;Costruisci il Laboratorio Idroponico.
+gui/hud/objective_name/story/global.endgame.build_hydroponic_lab_lvl_2;Costruisci il Laboratorio Idroponico liv. 2.
+gui/hud/objective_name/story/global.endgame.build_hydroponic_lab_lvl_3;Costruisci il Laboratorio Idroponico liv. 3.
+gui/hud/objective_name/story/global.endgame.build_hydroponic_lab_lvl_4;Costruisci il Laboratorio Idroponico liv. 4.
+gui/hud/objective_name/encounter/encounter_start;Znajdź obszar z anomalią.

@@ -1,0 +1,36 @@
+﻿;ITALIAN
+gui/menu/planetary_scanner/mission_metallic_outpost;Valle metallica
+gui/menu/planetary_scanner/mission_metallic_outpost_description;Un presunto antico cratere da impatto di meteorite. La scansione orbitale a lungo raggio ha indicato un'abbondanza di elementi pesanti e una composizione prevalentemente metallica dell'area.
+gui/menu/planetary_scanner/mission_metallic_crash_site;Emissione di energia oscura
+gui/menu/planetary_scanner/mission_metallic_crash_site_description;I dati raccolti nella Metallic Valley suggeriscono che questa posizione contiene un forte emettitore di onde di energia oscura. Trova e metti in sicurezza la fonte di queste emissioni.
+gui/menu/planetary_scanner/mission_metallic_factory;Altopiano della biofabbricazione
+gui/menu/planetary_scanner/mission_metallic_factory_description;Un grande altopiano all'interno del bioma della Metallic Valley, densamente popolato di creature ibride. È probabilmente una struttura di biofabbricazione e una probabile fonte di attacchi ostili contro la nostra presenza.
+gui/menu/planetary_scanner/mission_metallic_lakes;Lago Morphium
+gui/menu/planetary_scanner/mission_metallic_lakes_description;Un grande lago di liquido all'interno del bioma metallico che potrebbe essere una fonte quasi infinita di Morphium. Costruire un impianto di compressione in quest'area dovrebbe consentirci di sfruttare questa risorsa ovunque nel mondo.
+gui/menu/planetary_scanner/mission_metallic_alien_base;Fortezza X-Morph
+gui/menu/planetary_scanner/mission_metallic_alien_base_description;Uno studio approfondito delle emissioni di onde di energia oscura dai piloni X-Morph suggerisce che questa posizione ospita una sorta di hub di comunicazione centrale. Le scansioni a lungo raggio indicano che c'è un singolo stretto percorso che conduce alla posizione principale.
+gui/menu/planetary_scanner/mission_caverns_outpost;Caverna di cristallo
+gui/menu/planetary_scanner/mission_caverns_outpost_description;Ulteriori esplorazioni ci hanno condotto a una vasta caverna sotterranea con una crescita cristallina eccezionalmente ricca. Scavare roccia calcarea morbida per stabilire una base operativa sotterranea.
+gui/menu/planetary_scanner/mission_caverns_jungle_entrance;Giungla calcarea
+gui/menu/planetary_scanner/mission_caverns_jungle_entrance_description;Una zona di giungla tropicale ricca di calcare situata vicino all'oceano. Cerca in questa zona per rintracciare l'anomalia sismica che ha scoperto la presenza di Anoryx su Galatea 37.
+gui/menu/planetary_scanner/mission_caverns_entrance;Ingresso delle caverne
+gui/menu/planetary_scanner/mission_caverns_entrance_description;Una strana anomalia sismica ha scoperto la posizione di un vasto ecosistema sotterraneo di caverne calcaree. Esplora l'area per scoprire il motivo della recente attività sismica.
+gui/menu/planetary_scanner/mission_caverns_exploration;Grotte più profonde
+gui/menu/planetary_scanner/mission_caverns_exploration_description;Un labirinto oscuro e sotterraneo di grotte e tunnel pieni di pericolosa fauna sotterranea. La sua profonda rete di tunnel in uscita può essere utilizzata per creare una mappa sismica dei livelli inferiori.
+gui/menu/planetary_scanner/mission_caverns_nest;Caverna di Anoryx
+gui/menu/planetary_scanner/mission_caverns_nest_description;Una profonda grotta sotterranea interamente circondata da cristalli di Anoryx. I nostri sensori non riescono a stabilire alcuna lettura da questa zona.
+gui/menu/planetary_scanner/mission_caverns_tunnel;Tunnel antico
+gui/menu/planetary_scanner/mission_caverns_tunnel_description;Un antico tunnel ai livelli più profondi del sistema di caverne calcaree. Le letture iniziali indicano che un'anomalia di Anoryx potrebbe essere localizzata alla sua estremità.
+gui/menu/planetary_scanner/mission_swamp_forest;Foresta fungina
+gui/menu/planetary_scanner/mission_swamp_forest_cave;Grotta fungina
+gui/menu/planetary_scanner/mission_swamp_forest_cave_description;Una piccola grotta sotto la Foresta Fungina che sembra essere un passaggio nascosto verso un'area precedentemente sconosciuta.
+gui/menu/planetary_scanner/mission_swamp_forest_description;Una delle parti più giovani della Palude Fungina vicino all'oceano. Si dice che contenga grandi quantità di Resina Fungina che può essere raccolta da Alberi di Resina freschi.
+gui/menu/planetary_scanner/mission_swamp_freedom;Altopiano fungino
+gui/menu/planetary_scanner/mission_swamp_freedom_description;Una parte relativamente secca della Palude Fungale con ricchi depositi minerali. Le scansioni planetarie indicano che è un buon candidato per stabilire un avamposto minerario.
+gui/menu/planetary_scanner/mission_swamp_harvest;Palude interna
+gui/menu/planetary_scanner/mission_swamp_harvest_description;Si dice che questa zona sia libera dalla specie parassitaria Parabian che infesta il Great Mushroom Tree. Esplora la palude interna per scoprire cosa sta respingendo queste creature.
+gui/menu/planetary_scanner/mission_swamp_meadow;Cratere fungino
+gui/menu/planetary_scanner/mission_swamp_outpost;Avamposto della palude fungina
+gui/menu/planetary_scanner/mission_swamp_outpost_description;Un delta fluviale densamente ricoperto di vegetazione nella zona subtropicale con condizioni ottimali per un'intensa crescita fungina. Questa zona per lo più allagata potrebbe rivelarsi una sfida per la costruzione di basi.
+gui/menu/planetary_scanner/mission_swamp_thicket;Boschetto fungino
+gui/menu/planetary_scanner/mission_swamp_thicket_description;Lussureggiante giungla subtropicale intrecciata con una fitta crescita fungina. Le letture del flusso energetico indicano che la resina del Great Mushroom Tree viene dilavata in questa zona.
